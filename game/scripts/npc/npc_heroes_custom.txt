@@ -1,1 +1,3 @@
 #base "heroes.txt"
+
+#base "heroes/reimu/hero.txt"

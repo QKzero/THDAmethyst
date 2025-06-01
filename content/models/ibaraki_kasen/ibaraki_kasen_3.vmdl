@@ -1,0 +1,648 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						scale = 1.2
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "mat_0.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_body.vmat"
+							},
+							{
+								from = "mat_1.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_body2.vmat"
+							},
+							{
+								from = "mat_2.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_3.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_4.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_5.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_6.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_7.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_8.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_9.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_10.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_suit.vmat"
+							},
+							{
+								from = "mat_11.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_12.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_13.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_14.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_15.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_16.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_17.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_18.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_19.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face3.vmat"
+							},
+							{
+								from = "mat_20.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face3.vmat"
+							},
+							{
+								from = "mat_25.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_jiao.vmat"
+							},
+							{
+								from = "mat_26.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_jiao.vmat"
+							},
+							{
+								from = "mat_27.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_jiao.vmat"
+							},
+							{
+								from = "mat_28.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_jiao.vmat"
+							},
+							{
+								from = "mat_29.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_face2.vmat"
+							},
+							{
+								from = "mat_30.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_31.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_32.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_33.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_34.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_35.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_36.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/kuro.vmat"
+							},
+							{
+								from = "mat_21.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_hair3.vmat"
+							},
+							{
+								from = "mat_22.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_hair2.vmat"
+							},
+							{
+								from = "mat_23.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_hair2.vmat"
+							},
+							{
+								from = "mat_24.vmat"
+								to = "models/ibaraki_kasen/ibaraki_kasen_1/ksn_hair2.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "No_6_joint_Torso2"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "No_570_joint_RightWrist"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_fx"
+						parent_bone = "No_532_joint_LeftWrist"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "No_5_joint_Torso"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -48.302044, -114.275139, -45.327877 ]
+								hitbox_maxs = [ 48.302044, 80.894882, 40.272118 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "ibaraki_kasen_3"
+						filename = "models/ibaraki_kasen/ibaraki_kasen_3.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "huashan3_idle"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_idle.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 108
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_run"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ -70.0, 0.0, -20.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_run.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 60
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_die"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT_CFG"
+								event_frame = 0
+								event_keys = 
+								{
+									name = resource:"models/ibaraki_kasen/ibaraki_kasen3_die.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									config = "preview"
+								}
+							},
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_die.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_attack1"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT_CFG"
+								event_frame = 13
+								event_keys = 
+								{
+									name = resource:"models/ibaraki_kasen/ibaraki_kasen3_attack_1.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									config = "absorigin"
+								}
+							},
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_attack1.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_attack2"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT_CFG"
+								event_frame = 13
+								event_keys = 
+								{
+									name = resource:"models/ibaraki_kasen/ibaraki_kasen3_attack_2.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									config = "absorigin"
+								}
+							},
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_attack2.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_cast1"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_cast1.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 36
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_cast2"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_cast2.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_cast3"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_3"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_cast3.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 36
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_cast4"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_4"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_cast4.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 24
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_capture"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -30.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_CAPTURE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_idle.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 108
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "huashan3_loadout"
+						children = 
+						[
+							{
+								_class = "AnimOffset"
+								translation = [ 0.0, 0.0, -65.0 ]
+								rotation_xyz = [ 0.0, 0.0, 0.0 ]
+							},
+						]
+						activity_name = "ACT_DOTA_LOADOUT"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/ibaraki_kasen/huashan3_idle.fbx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 108
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		importer_notes = "Imported from VMDL"
+	}
+}

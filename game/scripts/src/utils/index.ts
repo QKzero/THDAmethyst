@@ -8,6 +8,11 @@ if (IsServer()) {
     require('timers');
 }
 
+// 引入所有THD的lua模块
+if (IsServer()) {
+    require('../util/util')
+}
+
 // rename SHA and make it global
 globalThis.SHA = require('sha');
 globalThis.LibDeflate = require('libs/deflate');

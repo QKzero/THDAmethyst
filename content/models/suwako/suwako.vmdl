@@ -1,0 +1,589 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc36:version{972dada4-b828-45a4-bb93-7795cf0585da} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "19_joint_Torso2"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "61_joint_LeftWrist"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "100_joint_RightWrist"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_origin"
+						parent_bone = "2__joint_Master"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "19_joint_Torso2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.0485, -5.36309, -14.0516 ]
+								hitbox_maxs = [ 13.0485, 22.974001, 9.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "90_joint_RightArm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.159472, -6.996735, -1.427713 ]
+								hitbox_maxs = [ 1.979496, 1.803055, 3.565981 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "122_joint_Sleeve_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.839382, -9.299309, -1.541144 ]
+								hitbox_maxs = [ 1.819849, 1.583275, 3.565422 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "100_joint_RightWrist"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -11.055002, -8.873311, -2.974155 ]
+								hitbox_maxs = [ 1.309842, 2.483737, 4.151094 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "51_joint_LeftArm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.099442, -4.753807, -1.562868 ]
+								hitbox_maxs = [ 8.931925, 1.787014, 3.577231 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "83_joint_Sleeve_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.942438, -8.143932, -2.98607 ]
+								hitbox_maxs = [ 10.714962, 1.784908, 2.431101 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "61_joint_LeftWrist"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.235078, -3.998058, -2.489897 ]
+								hitbox_maxs = [ 5.079248, 2.050064, 3.72134 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "9_joint_LeftKnee"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.70738, -22.958452, -3.519087 ]
+								hitbox_maxs = [ 5.173061, 3.258549, 5.163305 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "14_joint_RightKnee"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.25816, -27.43446, -6.930156 ]
+								hitbox_maxs = [ 3.707381, 1.854362, 5.396193 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "8_joint_LeftHip"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.873616, -16.096289, -1.027353 ]
+								hitbox_maxs = [ 3.297535, 3.363487, 7.120491 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "13_joint_RightHip"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.267844, -16.982925, -10.015779 ]
+								hitbox_maxs = [ 4.208738, 3.363487, 4.10456 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "6_joint_HipMaster"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.7542, -47.931267, -21.053755 ]
+								hitbox_maxs = [ 22.835249, -7.319168, 15.931314 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "15_joint_RightFoot"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.319708, -5.160979, -2.593083 ]
+								hitbox_maxs = [ 2.561182, 0.747106, 6.381076 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "10_joint_LeftFoot"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.014168, -5.121292, -2.862033 ]
+								hitbox_maxs = [ 2.71721, 0.747136, 6.596199 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "21_joint_Head"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.692416, -4.784203, -11.211939 ]
+								hitbox_maxs = [ 12.905189, 11.526108, 11.471317 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "0_joint_Root_j"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -18.655016, -17.319569, -2.034716 ]
+								hitbox_maxs = [ 18.424999, 17.511997, 3.829718 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "suwako"
+						children = 
+						[
+							{
+								_class = "RenderMeshMarkup"
+								material_search_path = "models/suwako/fbm"
+								use_expensive_tangents = false
+								high_high_precision_texcoords = false
+								calc_per_vertex_curvature = false
+								prefer_high_density_tris_in_uv_density_calc = false
+								skin_parented_transforms = false
+							},
+						]
+						filename = "models/suwako/suwako.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "run"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/run.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 70
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "idle"
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/idle.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 50
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "disable"
+						activity_name = "ACT_DOTA_DISABLED"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/disable.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 60
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "tp"
+						activity_name = "ACT_DOTA_TELEPORT"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/tp.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 50
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "die"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/die.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 50
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "attack1"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/attack1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 26
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "attack2"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/attack2.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 26
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "hide"
+						activity_name = "ACT_DOTA_CAST_ABILITY_3"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/hide.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 15
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "unhide"
+						activity_name = "ACT_DOTA_CAST_ABILITY_5"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/unhide.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 15
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "throw"
+						activity_name = "ACT_DOTA_CAST_ABILITY_4"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/throw.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 20
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "cast2"
+						activity_name = "ACT_DOTA_CAST_ABILITY_2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/cast2.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 24
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "cast1"
+						activity_name = "ACT_DOTA_CAST_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/suwako/cast1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 24
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						scale = 2.0
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		importer_notes = "Imported from VMDL\n==Warnings==\nChanged incompatible hitbox parent bone name '19.joint_Torso2' to '19_joint_Torso2'\nChanged incompatible hitbox parent bone name '90.joint_RightArm' to '90_joint_RightArm'\nChanged incompatible hitbox parent bone name '122.joint_Sleeve_R' to '122_joint_Sleeve_R'\nChanged incompatible hitbox parent bone name '100.joint_RightWrist' to '100_joint_RightWrist'\nChanged incompatible hitbox parent bone name '51.joint_LeftArm' to '51_joint_LeftArm'\nChanged incompatible hitbox parent bone name '83.joint_Sleeve_L' to '83_joint_Sleeve_L'\nChanged incompatible hitbox parent bone name '61.joint_LeftWrist' to '61_joint_LeftWrist'\nChanged incompatible hitbox parent bone name '9.joint_LeftKnee' to '9_joint_LeftKnee'\nChanged incompatible hitbox parent bone name '14.joint_RightKnee' to '14_joint_RightKnee'\nChanged incompatible hitbox parent bone name '8.joint_LeftHip' to '8_joint_LeftHip'\nChanged incompatible hitbox parent bone name '13.joint_RightHip' to '13_joint_RightHip'\nChanged incompatible hitbox parent bone name '6.joint_HipMaster' to '6_joint_HipMaster'\nChanged incompatible hitbox parent bone name '15.joint_RightFoot' to '15_joint_RightFoot'\nChanged incompatible hitbox parent bone name '10.joint_LeftFoot' to '10_joint_LeftFoot'\nChanged incompatible hitbox parent bone name '21.joint_Head' to '21_joint_Head'\nChanged incompatible hitbox parent bone name '0.joint_Root_j' to '0_joint_Root_j'\nChanged incompatible bone name '19.joint_Torso2' to '19_joint_Torso2'\nChanged incompatible bone name '61.joint_LeftWrist' to '61_joint_LeftWrist'\nChanged incompatible bone name '100.joint_RightWrist' to '100_joint_RightWrist'\nChanged incompatible bone name '2.!joint_Master' to '2__joint_Master'\n"
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

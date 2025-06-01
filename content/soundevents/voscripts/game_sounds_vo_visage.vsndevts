@@ -1,0 +1,822 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	visage_visa_spawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_spawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_spawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_spawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_spawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_spawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_spawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_spawn_01.vsnd"
+	}
+	visage_visa_move_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_01.vsnd"
+	}
+	visage_visa_move_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_01.vsnd"
+	}
+	visage_visa_move_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_01.vsnd"
+	}
+	visage_visa_move_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_01.vsnd"
+	}
+	visage_visa_move_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_02.vsnd"
+	}
+	visage_visa_move_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_02.vsnd"
+	}
+	visage_visa_move_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_02.vsnd"
+	}
+	visage_visa_move_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_02.vsnd"
+	}
+	visage_visa_move_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_03.vsnd"
+	}
+	visage_visa_move_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_03.vsnd"
+	}
+	visage_visa_move_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_03.vsnd"
+	}
+	visage_visa_move_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_03.vsnd"
+	}
+	visage_visa_move_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_04.vsnd"
+	}
+	visage_visa_move_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_04.vsnd"
+	}
+	visage_visa_move_15 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_04.vsnd"
+	}
+	visage_visa_move_16 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_04.vsnd"
+	}
+	visage_visa_move_17 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_05.vsnd"
+	}
+	visage_visa_move_18 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_05.vsnd"
+	}
+	visage_visa_move_19 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_05.vsnd"
+	}
+	visage_visa_move_20 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_move_05.vsnd"
+	}
+	visage_visa_attack_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_01.vsnd"
+	}
+	visage_visa_attack_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_01.vsnd"
+	}
+	visage_visa_attack_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_01.vsnd"
+	}
+	visage_visa_attack_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_02.vsnd"
+	}
+	visage_visa_attack_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_02.vsnd"
+	}
+	visage_visa_attack_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_02.vsnd"
+	}
+	visage_visa_attack_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_03.vsnd"
+	}
+	visage_visa_attack_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_03.vsnd"
+	}
+	visage_visa_attack_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_03.vsnd"
+	}
+	visage_visa_attack_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_04.vsnd"
+	}
+	visage_visa_attack_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_04.vsnd"
+	}
+	visage_visa_attack_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_attack_04.vsnd"
+	}
+	visage_visa_levelup_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_01.vsnd"
+	}
+	visage_visa_levelup_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_01.vsnd"
+	}
+	visage_visa_levelup_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_01.vsnd"
+	}
+	visage_visa_levelup_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_02.vsnd"
+	}
+	visage_visa_levelup_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_02.vsnd"
+	}
+	visage_visa_levelup_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_02.vsnd"
+	}
+	visage_visa_levelup_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_02.vsnd"
+	}
+	visage_visa_levelup_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_03.vsnd"
+	}
+	visage_visa_levelup_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_03.vsnd"
+	}
+	visage_visa_levelup_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_levelup_03.vsnd"
+	}
+	visage_visa_kill_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_01.vsnd"
+	}
+	visage_visa_kill_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_01.vsnd"
+	}
+	visage_visa_kill_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_01.vsnd"
+	}
+	visage_visa_kill_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_01.vsnd"
+	}
+	visage_visa_kill_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_01.vsnd"
+	}
+	visage_visa_kill_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_01.vsnd"
+	}
+	visage_visa_kill_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_02.vsnd"
+	}
+	visage_visa_kill_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_02.vsnd"
+	}
+	visage_visa_kill_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_02.vsnd"
+	}
+	visage_visa_kill_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_02.vsnd"
+	}
+	visage_visa_kill_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_02.vsnd"
+	}
+	visage_visa_kill_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_02.vsnd"
+	}
+	visage_visa_kill_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_03.vsnd"
+	}
+	visage_visa_kill_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_03.vsnd"
+	}
+	visage_visa_kill_15 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_03.vsnd"
+	}
+	visage_visa_kill_16 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_03.vsnd"
+	}
+	visage_visa_kill_17 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_03.vsnd"
+	}
+	visage_visa_kill_18 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_kill_03.vsnd"
+	}
+	visage_visa_death_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_01.vsnd"
+	}
+	visage_visa_death_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_01.vsnd"
+	}
+	visage_visa_death_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_01.vsnd"
+	}
+	visage_visa_death_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_01.vsnd"
+	}
+	visage_visa_death_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_02.vsnd"
+	}
+	visage_visa_death_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_02.vsnd"
+	}
+	visage_visa_death_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_02.vsnd"
+	}
+	visage_visa_death_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_02.vsnd"
+	}
+	visage_visa_death_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_02.vsnd"
+	}
+	visage_visa_death_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_03.vsnd"
+	}
+	visage_visa_death_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_03.vsnd"
+	}
+	visage_visa_death_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_03.vsnd"
+	}
+	visage_visa_death_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_03.vsnd"
+	}
+	visage_visa_death_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_death_03.vsnd"
+	}
+	visage_visa_respawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_01.vsnd"
+	}
+	visage_visa_respawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_01.vsnd"
+	}
+	visage_visa_respawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_01.vsnd"
+	}
+	visage_visa_respawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_01.vsnd"
+	}
+	visage_visa_respawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_01.vsnd"
+	}
+	visage_visa_respawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_02.vsnd"
+	}
+	visage_visa_respawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_02.vsnd"
+	}
+	visage_visa_respawn_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_02.vsnd"
+	}
+	visage_visa_respawn_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_02.vsnd"
+	}
+	visage_visa_respawn_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_respawn_02.vsnd"
+	}
+	visage_visa_nomana_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_nomana_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_nomana_01.vsnd"
+	}
+	visage_visa_notyet_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_notyet_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_notyet_01.vsnd"
+	}
+	visage_visa_lose_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_lose_01.vsnd"
+	}
+	visage_visa_lose_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_lose_01.vsnd"
+	}
+	visage_visa_lose_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_lose_01.vsnd"
+	}
+	visage_visa_win_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_win_01.vsnd"
+	}
+	visage_visa_win_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_win_01.vsnd"
+	}
+	visage_visa_win_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_win_01.vsnd"
+	}
+	visage_visa_win_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_win_01.vsnd"
+	}
+	visage_visa_win_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/alice/arisu_win_01.vsnd"
+	}
+}

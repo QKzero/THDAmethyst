@@ -1,0 +1,1032 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	legion_commander_legcom_spawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_spawn_01.vsnd"
+	}
+	legion_commander_legcom_spawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_spawn_01.vsnd"
+	}
+	legion_commander_legcom_spawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_spawn_01.vsnd"
+	}
+	legion_commander_legcom_spawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_spawn_01.vsnd"
+	}
+	legion_commander_legcom_spawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_spawn_01.vsnd"
+	}
+	legion_commander_legcom_firstblood_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_firstblood_01.vsnd"
+	}
+	legion_commander_legcom_firstblood_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_firstblood_01.vsnd"
+	}
+	legion_commander_legcom_firstblood_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_firstblood_01.vsnd"
+	}
+	legion_commander_legcom_move_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_01.vsnd"
+	}
+	legion_commander_legcom_move_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_01.vsnd"
+	}
+	legion_commander_legcom_move_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_01.vsnd"
+	}
+	legion_commander_legcom_move_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_01.vsnd"
+	}
+	legion_commander_legcom_move_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_02.vsnd"
+	}
+	legion_commander_legcom_move_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_02.vsnd"
+	}
+	legion_commander_legcom_move_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_02.vsnd"
+	}
+	legion_commander_legcom_move_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_02.vsnd"
+	}
+	legion_commander_legcom_move_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_03.vsnd"
+	}
+	legion_commander_legcom_move_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_03.vsnd"
+	}
+	legion_commander_legcom_move_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_04.vsnd"
+	}
+	legion_commander_legcom_move_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_04.vsnd"
+	}
+	legion_commander_legcom_move_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_04.vsnd"
+	}
+	legion_commander_legcom_move_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_04.vsnd"
+	}
+	legion_commander_legcom_move_15 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_16 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_17 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_18 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_22 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_25 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_26 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_27 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_move_30 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_move_05.vsnd"
+	}
+	legion_commander_legcom_attack_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_01.vsnd"
+	}
+	legion_commander_legcom_attack_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_01.vsnd"
+	}
+	legion_commander_legcom_attack_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_02.vsnd"
+	}
+	legion_commander_legcom_attack_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_02.vsnd"
+	}
+	legion_commander_legcom_attack_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_02.vsnd"
+	}
+	legion_commander_legcom_attack_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_03.vsnd"
+	}
+	legion_commander_legcom_attack_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_03.vsnd"
+	}
+	legion_commander_legcom_attack_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_03.vsnd"
+	}
+	legion_commander_legcom_attack_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_03.vsnd"
+	}
+	legion_commander_legcom_attack_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_04.vsnd"
+	}
+	legion_commander_legcom_attack_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_04.vsnd"
+	}
+	legion_commander_legcom_attack_15 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_attack_04.vsnd"
+	}
+	legion_commander_legcom_levelup_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_01.vsnd"
+	}
+	legion_commander_legcom_levelup_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_01.vsnd"
+	}
+	legion_commander_legcom_levelup_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_01.vsnd"
+	}
+	legion_commander_legcom_levelup_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_01.vsnd"
+	}
+	legion_commander_legcom_levelup_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_01.vsnd"
+	}
+	legion_commander_legcom_levelup_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_01.vsnd"
+	}
+	legion_commander_legcom_levelup_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_levelup_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_levelup_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_levelup_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_levelup_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_levelup_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_levelup_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_levelup_02.vsnd"
+	}
+	legion_commander_legcom_kill_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_01.vsnd"
+	}
+	legion_commander_legcom_kill_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_01.vsnd"
+	}
+	legion_commander_legcom_kill_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_02.vsnd"
+	}
+	legion_commander_legcom_kill_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_02.vsnd"
+	}
+	legion_commander_legcom_kill_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_02.vsnd"
+	}
+	legion_commander_legcom_kill_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_02.vsnd"
+	}
+	legion_commander_legcom_kill_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_02.vsnd"
+	}
+	legion_commander_legcom_kill_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_02.vsnd"
+	}
+	legion_commander_legcom_kill_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_15 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_16 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_17 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_18 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_kill_19 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_kill_03.vsnd"
+	}
+	legion_commander_legcom_lasthit_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_01.vsnd"
+	}
+	legion_commander_legcom_lasthit_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_01.vsnd"
+	}
+	legion_commander_legcom_lasthit_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_01.vsnd"
+	}
+	legion_commander_legcom_lasthit_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_01.vsnd"
+	}
+	legion_commander_legcom_lasthit_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_02.vsnd"
+	}
+	legion_commander_legcom_lasthit_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_02.vsnd"
+	}
+	legion_commander_legcom_lasthit_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_02.vsnd"
+	}
+	legion_commander_legcom_lasthit_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_03.vsnd"
+	}
+	legion_commander_legcom_lasthit_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_03.vsnd"
+	}
+	legion_commander_legcom_lasthit_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_03.vsnd"
+	}
+	legion_commander_legcom_lasthit_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_03.vsnd"
+	}
+	legion_commander_legcom_lasthit_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lasthit_03.vsnd"
+	}
+	legion_commander_legcom_death_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_01.vsnd"
+	}
+	legion_commander_legcom_death_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_01.vsnd"
+	}
+	legion_commander_legcom_death_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_01.vsnd"
+	}
+	legion_commander_legcom_death_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_02.vsnd"
+	}
+	legion_commander_legcom_death_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_02.vsnd"
+	}
+	legion_commander_legcom_death_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_02.vsnd"
+	}
+	legion_commander_legcom_death_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_02.vsnd"
+	}
+	legion_commander_legcom_death_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_03.vsnd"
+	}
+	legion_commander_legcom_death_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_03.vsnd"
+	}
+	legion_commander_legcom_death_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_03.vsnd"
+	}
+	legion_commander_legcom_death_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_03.vsnd"
+	}
+	legion_commander_legcom_death_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_death_03.vsnd"
+	}
+	legion_commander_legcom_respawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_01.vsnd"
+	}
+	legion_commander_legcom_respawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_01.vsnd"
+	}
+	legion_commander_legcom_respawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_01.vsnd"
+	}
+	legion_commander_legcom_respawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_01.vsnd"
+	}
+	legion_commander_legcom_respawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_01.vsnd"
+	}
+	legion_commander_legcom_respawn_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_02.vsnd"
+	}
+	legion_commander_legcom_respawn_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_02.vsnd"
+	}
+	legion_commander_legcom_respawn_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_respawn_02.vsnd"
+	}
+	legion_commander_legcom_deny_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_deny_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_deny_01.vsnd"
+	}
+	legion_commander_legcom_notyet_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_01.vsnd"
+	}
+	legion_commander_legcom_notyet_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_01.vsnd"
+	}
+	legion_commander_legcom_notyet_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_01.vsnd"
+	}
+	legion_commander_legcom_notyet_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_01.vsnd"
+	}
+	legion_commander_legcom_notyet_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_02.vsnd"
+	}
+	legion_commander_legcom_notyet_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_02.vsnd"
+	}
+	legion_commander_legcom_notyet_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_02.vsnd"
+	}
+	legion_commander_legcom_notyet_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_02.vsnd"
+	}
+	legion_commander_legcom_notyet_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_notyet_02.vsnd"
+	}
+	legion_commander_legcom_nomana_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_nomana_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_nomana_01.vsnd"
+	}
+	legion_commander_legcom_lose_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lose_01.vsnd"
+	}
+	legion_commander_legcom_lose_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lose_01.vsnd"
+	}
+	legion_commander_legcom_lose_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lose_01.vsnd"
+	}
+	legion_commander_legcom_lose_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_lose_01.vsnd"
+	}
+	legion_commander_legcom_win_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_win_01.vsnd"
+	}
+	legion_commander_legcom_win_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_win_01.vsnd"
+	}
+	legion_commander_legcom_win_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_win_01.vsnd"
+	}
+	legion_commander_legcom_win_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_win_01.vsnd"
+	}
+	legion_commander_legcom_win_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_win_01.vsnd"
+	}
+	legion_commander_legcom_win_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/kokoro/kokoro_win_01.vsnd"
+	}
+}

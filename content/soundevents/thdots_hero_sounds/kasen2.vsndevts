@@ -1,0 +1,223 @@
+"kasen1"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasen1.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"kasen2"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasen2.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"kasenhenshin"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasenhenshin.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"kasen2s1"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasen2s1.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"kasenEx_11"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasenEx_11.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"kasenEx_12"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasenEx_12.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"kasenEx_22"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/thd_heroes/kasen2/kasenEx_22.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}

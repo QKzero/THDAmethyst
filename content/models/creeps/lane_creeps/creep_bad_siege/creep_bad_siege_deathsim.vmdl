@@ -1,0 +1,327 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc31:version{165d48dd-8adc-4f1d-abf7-4992e04ad577} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						scale = 1.2
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "Bone001"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "Bone006_mirrored_"
+						relative_origin = [ 79.692589, 0.0, 0.000008 ]
+						relative_angles = [ -0.000002, -0.0, -0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.91259, -7.461127, -17.604427 ]
+								hitbox_maxs = [ 40.317074, 28.913109, 17.60339 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.567085, -10.328522, -10.135729 ]
+								hitbox_maxs = [ 23.57959, 21.329243, 10.135748 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ 0.71125, 0.169548, -51.803379 ]
+								hitbox_maxs = [ 138.600098, 48.443092, 56.403343 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.075886, -17.6506, -11.317518 ]
+								hitbox_maxs = [ 46.099617, 14.676918, 11.372351 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone007_mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.075897, -14.6769, -11.317295 ]
+								hitbox_maxs = [ 46.099613, 17.650623, 11.37257 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone005_mirrored__mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.629341, -15.244705, -13.540842 ]
+								hitbox_maxs = [ 51.749763, 17.991619, 12.621637 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone005_mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.546684, -18.325333, -13.54088 ]
+								hitbox_maxs = [ 51.834702, 14.914131, 12.621614 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.574545, -11.815792, -9.138456 ]
+								hitbox_maxs = [ 27.81362, 10.629313, 9.267584 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone008_mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.574532, -10.629213, -9.138258 ]
+								hitbox_maxs = [ 27.813633, 11.815891, 9.267775 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone006_mirrored__mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.423973, -14.237453, -23.438095 ]
+								hitbox_maxs = [ 84.86525, 12.500765, 25.423035 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone006_mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.41835, -12.835575, -23.445492 ]
+								hitbox_maxs = [ 84.87088, 13.89642, 25.415619 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.185802, -14.506058, -9.751125 ]
+								hitbox_maxs = [ 46.335648, 14.029701, 19.417871 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Bone009_mirrored_"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.18581, -14.029855, -9.750967 ]
+								hitbox_maxs = [ 46.335651, 14.505904, 19.418018 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "creep_bad_siege_deathsim"
+						filename = "models/creeps/lane_creeps/creep_bad_siege/creep_bad_siege_deathsim.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "deathsim1"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = false
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACD_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/lane_creeps/creep_bad_siege/death1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 200
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "deathsim2"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = false
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACD_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/lane_creeps/creep_bad_siege/death1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 200
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "deathsim3"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = false
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACD_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/lane_creeps/creep_bad_siege/death1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 200
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		importer_notes = """
+Imported from VMDL
+==Warnings==
+Changed incompatible hitbox parent bone name 'Bone007(mirrored)' to 'Bone007_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone005(mirrored)(mirrored)' to 'Bone005_mirrored__mirrored_'
+Changed incompatible hitbox parent bone name 'Bone005(mirrored)' to 'Bone005_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone008(mirrored)' to 'Bone008_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone006(mirrored)(mirrored)' to 'Bone006_mirrored__mirrored_'
+Changed incompatible hitbox parent bone name 'Bone006(mirrored)' to 'Bone006_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone009(mirrored)' to 'Bone009_mirrored_'
+Changed incompatible bone name 'Bone006(mirrored)' to 'Bone006_mirrored_'
+
+"""
+	}
+}

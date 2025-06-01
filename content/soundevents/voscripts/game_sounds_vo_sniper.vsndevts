@@ -1,0 +1,584 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	sniper_snip_spawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_spawn_01.vsnd"
+	}
+	sniper_snip_spawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_spawn_01.vsnd"
+	}
+	sniper_snip_spawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_spawn_01.vsnd"
+	}
+	sniper_snip_spawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_spawn_02.vsnd"
+	}
+	sniper_snip_spawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_spawn_02.vsnd"
+	}
+	sniper_snip_spawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_spawn_02.vsnd"
+	}
+	sniper_snip_move_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_01.vsnd"
+	}
+	sniper_snip_move_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_01.vsnd"
+	}
+	sniper_snip_move_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_01.vsnd"
+	}
+	sniper_snip_move_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_01.vsnd"
+	}
+	sniper_snip_move_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_01.vsnd"
+	}
+	sniper_snip_move_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_02.vsnd"
+	}
+	sniper_snip_move_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_02.vsnd"
+	}
+	sniper_snip_move_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_02.vsnd"
+	}
+	sniper_snip_move_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_02.vsnd"
+	}
+	sniper_snip_move_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_03.vsnd"
+	}
+	sniper_snip_move_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_03.vsnd"
+	}
+	sniper_snip_move_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_03.vsnd"
+	}
+	sniper_snip_move_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_03.vsnd"
+	}
+	sniper_snip_move_15 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_03.vsnd"
+	}
+	sniper_snip_move_16 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_04.vsnd"
+	}
+	sniper_snip_move_17 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_04.vsnd"
+	}
+	sniper_snip_move_18 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_04.vsnd"
+	}
+	sniper_snip_move_19 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_04.vsnd"
+	}
+	sniper_snip_move_20 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_04.vsnd"
+	}
+	sniper_snip_move_21 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_05.vsnd"
+	}
+	sniper_snip_move_22 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_05.vsnd"
+	}
+	sniper_snip_move_23 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_05.vsnd"
+	}
+	sniper_snip_move_24 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_05.vsnd"
+	}
+	sniper_snip_move_25 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_05.vsnd"
+	}
+	sniper_snip_move_26 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_06.vsnd"
+	}
+	sniper_snip_move_27 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_06.vsnd"
+	}
+	sniper_snip_move_28 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_06.vsnd"
+	}
+	sniper_snip_move_29 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_move_06.vsnd"
+	}
+	sniper_snip_attack_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_01.vsnd"
+	}
+	sniper_snip_attack_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_01.vsnd"
+	}
+	sniper_snip_attack_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_02.vsnd"
+	}
+	sniper_snip_attack_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_02.vsnd"
+	}
+	sniper_snip_attack_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_02.vsnd"
+	}
+	sniper_snip_attack_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_03.vsnd"
+	}
+	sniper_snip_attack_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_03.vsnd"
+	}
+	sniper_snip_attack_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_04.vsnd"
+	}
+	sniper_snip_attack_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_04.vsnd"
+	}
+	sniper_snip_attack_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_04.vsnd"
+	}
+	sniper_snip_attack_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_05.vsnd"
+	}
+	sniper_snip_attack_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_attack_05.vsnd"
+	}
+	sniper_snip_kill_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_01.vsnd"
+	}
+	sniper_snip_kill_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_kill_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_kill_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_kill_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_kill_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_kill_13 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_kill_14 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_kill_02.vsnd"
+	}
+	sniper_snip_death_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_01.vsnd"
+	}
+	sniper_snip_death_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_01.vsnd"
+	}
+	sniper_snip_death_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_01.vsnd"
+	}
+	sniper_snip_death_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_01.vsnd"
+	}
+	sniper_snip_death_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_01.vsnd"
+	}
+	sniper_snip_death_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_01.vsnd"
+	}
+	sniper_snip_death_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_02.vsnd"
+	}
+	sniper_snip_death_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_02.vsnd"
+	}
+	sniper_snip_death_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_02.vsnd"
+	}
+	sniper_snip_death_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_02.vsnd"
+	}
+	sniper_snip_death_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_02.vsnd"
+	}
+	sniper_snip_death_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_death_02.vsnd"
+	}
+	sniper_snip_respawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_01.vsnd"
+	}
+	sniper_snip_respawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_01.vsnd"
+	}
+	sniper_snip_respawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_01.vsnd"
+	}
+	sniper_snip_respawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_01.vsnd"
+	}
+	sniper_snip_respawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_01.vsnd"
+	}
+	sniper_snip_respawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_02.vsnd"
+	}
+	sniper_snip_respawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_02.vsnd"
+	}
+	sniper_snip_respawn_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_02.vsnd"
+	}
+	sniper_snip_respawn_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_02.vsnd"
+	}
+	sniper_snip_respawn_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_02.vsnd"
+	}
+	sniper_snip_respawn_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/utsuho/utuho_respawn_02.vsnd"
+	}
+}

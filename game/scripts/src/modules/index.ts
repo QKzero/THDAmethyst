@@ -1,4 +1,4 @@
-import { Debug } from './Debug';
+import { Debug } from './debug/Debug';
 import { GameConfig } from './GameConfig';
 import { XNetTable } from '../utils/xnet-table';
 

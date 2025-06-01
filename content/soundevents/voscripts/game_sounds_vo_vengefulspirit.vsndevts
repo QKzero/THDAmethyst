@@ -1,0 +1,101 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	vengefulspirit_vng_spawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_spawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_spawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_spawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_spawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_spawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_spawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_spawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+	vengefulspirit_vng_respawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/hatate/hatate_respawn_01.vsnd"
+	}
+}

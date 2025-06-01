@@ -1,0 +1,592 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc31:version{165d48dd-8adc-4f1d-abf7-4992e04ad577} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "Bip001_Spine1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "Bip001_L_Hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "Bip001_R_Hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "Bip001_Spine1"
+								parent_bone = "Bip001_Spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.19519, -15.918627, -15.482008 ]
+								hitbox_maxs = [ 20.923935, 15.790522, 14.891603 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_Spine2"
+								parent_bone = "Bip001_Spine2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.572235, -16.566738, -16.231466 ]
+								hitbox_maxs = [ 25.000427, 17.468098, 19.281954 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_Head"
+								parent_bone = "Bip001_Head"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.486221, -16.145981, -13.466858 ]
+								hitbox_maxs = [ 31.180588, 16.374481, 13.359558 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_R_Hand"
+								parent_bone = "Bip001_R_Hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.713098, -5.834534, -4.324544 ]
+								hitbox_maxs = [ 14.750521, 7.862839, 6.146771 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_R_UpperArm"
+								parent_bone = "Bip001_R_UpperArm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.772657, -5.65299, -7.375992 ]
+								hitbox_maxs = [ 27.439463, 7.7101, 6.413773 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_R_Clavicle"
+								parent_bone = "Bip001_R_Clavicle"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.955236, -8.831057, -10.831635 ]
+								hitbox_maxs = [ 10.82424, 7.286203, 7.810928 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_R_Forearm"
+								parent_bone = "Bip001_R_Forearm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.197511, -5.378231, -7.376007 ]
+								hitbox_maxs = [ 30.240074, 7.678809, 6.323898 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_L_Hand"
+								parent_bone = "Bip001_L_Hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.713059, -5.675369, -6.14682 ]
+								hitbox_maxs = [ 17.269615, 7.38623, 10.736059 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_L_UpperArm"
+								parent_bone = "Bip001_L_UpperArm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.772667, -5.65298, -10.697983 ]
+								hitbox_maxs = [ 27.439466, 7.710191, 7.375732 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_L_Forearm"
+								parent_bone = "Bip001_L_Forearm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.197498, -5.378143, -6.324127 ]
+								hitbox_maxs = [ 30.240253, 7.678902, 7.375763 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip001_Pelvis"
+								parent_bone = "Bip001_Pelvis"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -118.280739, -20.802958, -31.389402 ]
+								hitbox_maxs = [ 17.548714, 24.156963, 26.52528 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone012"
+								parent_bone = "Bone012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -8.124581, -10.351437 ]
+								hitbox_maxs = [ 14.557556, 0.5, 0.5 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone009"
+								parent_bone = "Bone009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -3.242073, -2.943527 ]
+								hitbox_maxs = [ 8.022606, 0.929508, 0.955181 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone008"
+								parent_bone = "Bone008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.342873, -1.706124, -1.869484 ]
+								hitbox_maxs = [ 4.523117, 2.756163, 1.130497 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone013"
+								parent_bone = "Bone013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -8.493515, -12.126259 ]
+								hitbox_maxs = [ 13.284168, 0.5, 0.5 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone014"
+								parent_bone = "Bone014"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -5.556616, -14.895683 ]
+								hitbox_maxs = [ 12.850155, 0.5, 0.5 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone011"
+								parent_bone = "Bone011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -6.81205, -6.751896 ]
+								hitbox_maxs = [ 13.100342, 0.5, 0.508633 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bone010"
+								parent_bone = "Bone010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -0.5, -2.050419 ]
+								hitbox_maxs = [ 10.543633, 1.734195, 2.163122 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "miyiako"
+						filename = "models/miyako/miyiako.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "idle1"
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/idle1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 50
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "run1"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/run1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 6.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "attack1"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/attack1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "attack2"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/attack2.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "attack3"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/attack3.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 45.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "spiral3"
+						activity_name = "ACT_DOTA_CAST_ABILITY_2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/spiral3.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 20
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "die1"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/die1.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 45
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "idle2"
+						activity_name = "ACT_DOTA_IDLE_RARE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/miyako/idle2.FBX"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 200
+						framerate = 60.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		importer_notes = """
+Imported from VMDL
+==Warnings==
+Changed incompatible hitbox parent bone name 'Bip001 Pelvis' to 'Bip001_Pelvis'
+Changed incompatible hitbox parent bone name 'Bip001 Spine' to 'Bip001_Spine'
+Changed incompatible hitbox parent bone name 'Bip001 Spine1' to 'Bip001_Spine1'
+Changed incompatible hitbox parent bone name 'Bip001 Spine2' to 'Bip001_Spine2'
+Changed incompatible hitbox parent bone name 'Bip001 Neck' to 'Bip001_Neck'
+Changed incompatible hitbox parent bone name 'Bip001 L Clavicle' to 'Bip001_L_Clavicle'
+Changed incompatible hitbox parent bone name 'Bip001 R Clavicle' to 'Bip001_R_Clavicle'
+Changed incompatible hitbox parent bone name 'Bip001 Head' to 'Bip001_Head'
+Changed incompatible hitbox parent bone name 'Bip001 L UpperArm' to 'Bip001_L_UpperArm'
+Changed incompatible hitbox parent bone name 'Bip001 R UpperArm' to 'Bip001_R_UpperArm'
+Changed incompatible hitbox parent bone name 'Bone017(mirrored)' to 'Bone017_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Forearm' to 'Bip001_L_Forearm'
+Changed incompatible hitbox parent bone name 'Bip001 R Forearm' to 'Bip001_R_Forearm'
+Changed incompatible hitbox parent bone name 'Bone018(mirrored)' to 'Bone018_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone047(mirrored)' to 'Bone047_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone037(mirrored)' to 'Bone037_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone032(mirrored)' to 'Bone032_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Hand' to 'Bip001_L_Hand'
+Changed incompatible hitbox parent bone name 'Bip001 R Hand' to 'Bip001_R_Hand'
+Changed incompatible hitbox parent bone name 'Bone019(mirrored)' to 'Bone019_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Thigh' to 'Bip001_L_Thigh'
+Changed incompatible hitbox parent bone name 'Bip001 R Thigh' to 'Bip001_R_Thigh'
+Changed incompatible hitbox parent bone name 'Bone048(mirrored)' to 'Bone048_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone038(mirrored)' to 'Bone038_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone033(mirrored)' to 'Bone033_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger0' to 'Bip001_L_Finger0'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger1' to 'Bip001_L_Finger1'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger2' to 'Bip001_L_Finger2'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger3' to 'Bip001_L_Finger3'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger4' to 'Bip001_L_Finger4'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger0' to 'Bip001_R_Finger0'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger1' to 'Bip001_R_Finger1'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger2' to 'Bip001_R_Finger2'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger3' to 'Bip001_R_Finger3'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger4' to 'Bip001_R_Finger4'
+Changed incompatible hitbox parent bone name 'Bone020(mirrored)' to 'Bone020_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Calf' to 'Bip001_L_Calf'
+Changed incompatible hitbox parent bone name 'Bip001 R Calf' to 'Bip001_R_Calf'
+Changed incompatible hitbox parent bone name 'Bone049(mirrored)' to 'Bone049_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone039(mirrored)' to 'Bone039_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone034(mirrored)' to 'Bone034_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger01' to 'Bip001_L_Finger01'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger11' to 'Bip001_L_Finger11'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger21' to 'Bip001_L_Finger21'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger31' to 'Bip001_L_Finger31'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger41' to 'Bip001_L_Finger41'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger01' to 'Bip001_R_Finger01'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger11' to 'Bip001_R_Finger11'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger21' to 'Bip001_R_Finger21'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger31' to 'Bip001_R_Finger31'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger41' to 'Bip001_R_Finger41'
+Changed incompatible hitbox parent bone name 'Bone021(mirrored)' to 'Bone021_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone015(mirrored)' to 'Bone015_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Foot' to 'Bip001_L_Foot'
+Changed incompatible hitbox parent bone name 'Bip001 R Foot' to 'Bip001_R_Foot'
+Changed incompatible hitbox parent bone name 'Bone050(mirrored)' to 'Bone050_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone040(mirrored)' to 'Bone040_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone035(mirrored)' to 'Bone035_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger02' to 'Bip001_L_Finger02'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger12' to 'Bip001_L_Finger12'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger22' to 'Bip001_L_Finger22'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger32' to 'Bip001_L_Finger32'
+Changed incompatible hitbox parent bone name 'Bip001 L Finger42' to 'Bip001_L_Finger42'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger02' to 'Bip001_R_Finger02'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger12' to 'Bip001_R_Finger12'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger22' to 'Bip001_R_Finger22'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger32' to 'Bip001_R_Finger32'
+Changed incompatible hitbox parent bone name 'Bip001 R Finger42' to 'Bip001_R_Finger42'
+Changed incompatible hitbox parent bone name 'Bone022(mirrored)' to 'Bone022_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone016(mirrored)' to 'Bone016_mirrored_'
+Changed incompatible hitbox parent bone name 'Bip001 L Toe0' to 'Bip001_L_Toe0'
+Changed incompatible hitbox parent bone name 'Bip001 R Toe0' to 'Bip001_R_Toe0'
+Changed incompatible hitbox parent bone name 'Bone051(mirrored)' to 'Bone051_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone041(mirrored)' to 'Bone041_mirrored_'
+Changed incompatible hitbox parent bone name 'Bone036(mirrored)' to 'Bone036_mirrored_'
+Changed incompatible bone name 'Bip001 Spine1' to 'Bip001_Spine1'
+Changed incompatible bone name 'Bip001 L Hand' to 'Bip001_L_Hand'
+Changed incompatible bone name 'Bip001 R Hand' to 'Bip001_R_Hand'
+
+"""
+	}
+}

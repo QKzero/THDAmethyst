@@ -26,6 +26,9 @@
 		{
 			map = "dota"
 		},
+		{
+			map = "1_thdots_map"
+		},
 	]
 	PenaltiesEnabled = false
 	TeamCount = -1

@@ -1,0 +1,458 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	puck_puck_spawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_spawn_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_spawn_01.vsnd"
+	}
+	puck_puck_move_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_01.vsnd"
+	}
+	puck_puck_move_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_01.vsnd"
+	}
+	puck_puck_move_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_02.vsnd"
+	}
+	puck_puck_move_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_02.vsnd"
+	}
+	puck_puck_move_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_03.vsnd"
+	}
+	puck_puck_move_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_03.vsnd"
+	}
+	puck_puck_move_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_04.vsnd"
+	}
+	puck_puck_move_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_04.vsnd"
+	}
+	puck_puck_move_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_05.vsnd"
+	}
+	puck_puck_move_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_05.vsnd"
+	}
+	puck_puck_move_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_06.vsnd"
+	}
+	puck_puck_move_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_move_06.vsnd"
+	}
+	puck_puck_attack_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_01.vsnd"
+	}
+	puck_puck_attack_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_01.vsnd"
+	}
+	puck_puck_attack_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_01.vsnd"
+	}
+	puck_puck_attack_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_02.vsnd"
+	}
+	puck_puck_attack_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_02.vsnd"
+	}
+	puck_puck_attack_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_02.vsnd"
+	}
+	puck_puck_attack_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_03.vsnd"
+	}
+	puck_puck_attack_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_03.vsnd"
+	}
+	puck_puck_attack_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_03.vsnd"
+	}
+	puck_puck_attack_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_04.vsnd"
+	}
+	puck_puck_attack_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_04.vsnd"
+	}
+	puck_puck_attack_12 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_attack_04.vsnd"
+	}
+	puck_puck_death_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_01.vsnd"
+	}
+	puck_puck_death_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_01.vsnd"
+	}
+	puck_puck_death_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_01.vsnd"
+	}
+	puck_puck_death_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_01.vsnd"
+	}
+	puck_puck_death_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_01.vsnd"
+	}
+	puck_puck_death_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_01.vsnd"
+	}
+	puck_puck_death_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_02.vsnd"
+	}
+	puck_puck_death_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_02.vsnd"
+	}
+	puck_puck_death_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_02.vsnd"
+	}
+	puck_puck_death_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_02.vsnd"
+	}
+	puck_puck_death_11 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_death_02.vsnd"
+	}
+	puck_puck_kill_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_01.vsnd"
+	}
+	puck_puck_kill_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_01.vsnd"
+	}
+	puck_puck_kill_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_01.vsnd"
+	}
+	puck_puck_kill_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_01.vsnd"
+	}
+	puck_puck_kill_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_01.vsnd"
+	}
+	puck_puck_kill_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_02.vsnd"
+	}
+	puck_puck_kill_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_02.vsnd"
+	}
+	puck_puck_kill_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_02.vsnd"
+	}
+	puck_puck_kill_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_02.vsnd"
+	}
+	puck_puck_kill_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_kill_02.vsnd"
+	}
+	puck_puck_respawn_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_03 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_04 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_05 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_06 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_07 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_08 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_09 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_respawn_10 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_respawn_01.vsnd"
+	}
+	puck_puck_firstblood_01 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_firstblood_01.vsnd"
+	}
+	puck_puck_firstblood_02 = 
+	{
+		type = "dota_update_vo_switch"
+		volume = 1.000000
+		pitch = 1.000000
+		vsnd_files = "sounds/thdots/vo/ran/ran_firstblood_01.vsnd"
+	}
+}

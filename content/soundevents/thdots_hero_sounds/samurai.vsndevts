@@ -1,0 +1,159 @@
+"samuraiattack1"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/weapons/hero/ember_spirit/preattack01.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"samuraiattack2"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/weapons/hero/ember_spirit/preattack02.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"samuraiattack3"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/weapons/hero/ember_spirit/preattack03.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"samuraidash"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/weapons/hero/ember_spirit/dash.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "65.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
+
+"samuraibreeze"
+{
+	"operator_stacks"
+	{
+	"update_stack"
+	{
+	"reference_operator"
+	{
+	"operator" "sos_reference_stack"
+	"reference_stack" "dota_src1_3d"
+	"operator_variables"
+	{
+	"vsnd_files"
+	{
+	"value"
+	{
+	"value0" "sounds/weapons/hero/ember_spirit/breeze.vsnd"
+	}
+	}
+	"volume" { "value" "10.00000" }
+	"pitch_rand_min" { "value" "-0.05000" }
+	"pitch_rand_max" { "value" "0.050000" }
+	"pitch" { "value" "1.000000" }
+	"soundlevel" { "value" "68.00000" }
+	"distance_max" { "value" "1600.000" }
+	"event_type" { "value" "1.000000" }
+	}
+	}
+	}
+	}
+}
