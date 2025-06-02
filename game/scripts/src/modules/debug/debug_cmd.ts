@@ -1,6 +1,6 @@
-// cmd enum
+// debug cmd enum
 
-export enum CMD {
+export enum DEBUG_CMD {
   V = '-v', // 获取当前vector
   M = '-m', // 获取当前modifier
   REFRESH_AI = '-r', // 刷新AI
