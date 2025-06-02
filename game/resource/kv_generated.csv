@@ -1,4 +1,63 @@
 ﻿Tokens,SChinese,English
+,,
+npc_dota_hero_lina,博丽灵梦,Hakurei Reimu
+DOTA_Tooltip_ability_ability_dota2x_reimuEx,乐园的可爱巫女,Wonderful Shrine Maiden of Paradise
+DOTA_Tooltip_ability_ability_dota2x_reimuEx_Description,博丽灵梦的技能每对一名敌人造成一次伤害就会获得一层「异变解决」，每层「异变解决」会为博丽灵梦提供移动速度与攻击速度，最多二十层。<br><br>二十层「异变解决」时可以主动施放，消耗所有层数，提供大量攻击速度并进入极速与相位状态。期间可以照常叠加，但不会提供加成。,"Grants 1 stack of 「Resolving Incident」 each time Reimu hits an enemy with a spell, stacks up to 20. <br><br>Can be casted when have 20 stacks of 「Resolving Incident」, consumes all stacks, gains attack speed greatly, haste and phased movement. During the duration, it can be stacked as usual, but will not provide bonus."
+DOTA_Tooltip_ability_ability_dota2x_reimuEx_Lore,通过不断地解决异变，乐园的巫女小姐也在不断变强，就算是那个博丽灵梦也一样。,"By constantly solving the Incidents, the Shrine Maiden of Paradise is also constantly becoming stronger, even Hakurei Reimu is the same."
+DOTA_Tooltip_ability_ability_dota2x_reimuEx_attack_speed_bonus,攻击速度加成：,ATTACK SPEED BONUS PER STACK: 
+DOTA_Tooltip_ability_ability_dota2x_reimuEx_move_speed_bonus,移动速度加成：,MOVE SPEED BONUS PER STACK: 
+DOTA_Tooltip_ability_ability_dota2x_reimuEx_duration,持续时间：,DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimuEx_a_attack_speed_bonus,主动攻击速度加成：,ACTIVE ATTACK SPEED BONUS: 
+DOTA_Tooltip_modifier_ability_dota2x_reimuEx_buff,「异变解决」,「Resolving Incident」
+DOTA_Tooltip_modifier_ability_dota2x_reimuEx_buff_Description,灵梦正在变强，提供%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%的攻击速度和%dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT%的移动速度。,"Reimu is becoming stronger, gains %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed and %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% move speed."
+DOTA_Tooltip_modifier_ability_dota2ex_reimuex_buff_the_most_strong,「最强最棒的异变解决巫女」,「The Strongest and Most Wonderful Shrine Maiden of Incident Resolution」
+DOTA_Tooltip_modifier_ability_dota2ex_reimuex_buff_the_most_strong_Description,灵梦是最强最棒的异变解决巫女，获得%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻击速度和极速与相位状态,"Reimu is The Strongest and Most Wonderful Shrine Maiden of Incident Resolution.<br>Gains %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed, haste and phased movement"
+DOTA_Tooltip_ability_ability_dota2x_reimu01,宝符「阴阳宝玉」,Treasure Sign「Yin-Yang Treasured Orb」
+DOTA_Tooltip_ability_ability_dota2x_reimu01_Description,丢出一枚阴阳玉，在目标位置弹弹碾碾，每次落地都会对范围内敌人造成伤害和晕眩，每次弹跳降低一定比例的伤害。,"Reimu summons a massive orb to bounce at the target location, dealing damage and stunning enemies with each hit. The damage is reduced with each subsequent hit."
+DOTA_Tooltip_ability_ability_dota2x_reimu01_Lore,可在境界上反弹的奇异之玉,The strange orb with the power to bounce across dimensions.
+DOTA_Tooltip_ability_ability_dota2x_reimu01_first_damage,初次伤害：,INITIAL DAMAGE: 
+DOTA_Tooltip_ability_ability_dota2x_reimu01_stun_duration,晕眩时间（秒）：,STUN DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimu01_radius,伤害范围：,RADIUS: 
+DOTA_Tooltip_ability_ability_dota2x_reimu01_abilitycastrange,施法距离：,CAST RANGE: 
+DOTA_Tooltip_ability_ability_dota2x_reimu01_damage_follow_pct,%伤害衰减：,%DAMAGE REDUCTION PER BOUNCE: 
+DOTA_Tooltip_ability_ability_dota2x_reimu02,灵符「梦想封印」,Divine Spirit「Fantasy Seal」
+DOTA_Tooltip_ability_ability_dota2x_reimu02_Description,瞬间连射数个具有追尾性能的五彩灵弹，能在周围范围内寻找目标追击。,Reimu releases a volley of colourful shots that home in on nearby targets.
+DOTA_Tooltip_ability_ability_dota2x_reimu02_Lore,梦想系基础的最终形态之一。以大量带有追尾性能的弹幕来封杀敌人。,One of the final forms of the dream-sealing spells. Forcibly seals the opponent with bullets of light that ignore the laws of physics.
+DOTA_Tooltip_ability_ability_dota2x_reimu02_number,灵弹数量：,NUMBER OF SHOTS: 
+DOTA_Tooltip_ability_ability_dota2x_reimu02_duration,持续时间（秒）：,DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimu02_damage,灵弹伤害：,DAMAGE PER SHOT: 
+DOTA_Tooltip_ability_ability_dota2x_reimu02_follow_radius,索敌范围：,SEARCH RADIUS: 
+DOTA_Tooltip_ability_ability_dota2x_reimu03,梦符「二重结界」,Dream Sign「Duplex Barrier」
+DOTA_Tooltip_ability_ability_dota2x_reimu03_Description,为一个目标罩上二重结界。<br><br>如果这个目标是友方单位，则结界作为防御结界，帮助其抵挡一切<font color='#af3029'>物理</font>伤害；如果这个目标是敌方单位，则结界作为封魔结界，封锁其施法能力。<br><br>二重结界会将灵梦技能伤害转换为<font color='#d8ae54'>纯粹</font>伤害。,"Reimu seals the target away with a barrier, making allies immune to <font color='#af3029'>physical</font> damage or silencing enemies.<br><br>「Duplex Barrier」 will convert Reimu skill damage to <font color='#d8ae54'>pure</font> damage."
+DOTA_Tooltip_ability_ability_dota2x_reimu03_Lore,据说结界似乎就是事物的境界线的样子，而其变成二重的意思据灵梦说就和没有境界的世界一样了。好像是如果能发现潜藏于各处的空间的缝隙的话，就能张开二重结界了。,"A barrier is a boundary line between things, and having two barriers on top of each other is equivalent to a world with no boundaries. If you can find the gaps in space that are hiding just about everywhere, you'll be able to set up a duplex barrier."
+DOTA_Tooltip_ability_ability_dota2x_reimu03_duration,持续时间：,DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimu03_abilitycastrange,施法距离：,CAST RANGE: 
+DOTA_Tooltip_ability_ability_dota2x_reimu03_scepter_description,变成范围技能。,Becomes an area of effect ability.
+DOTA_Tooltip_ability_ability_dota2x_reimu03_scepter_radius,作用范围：,RADIUS: 
+DOTA_Tooltip_modifier_ability_dota2x_reimu03_ally,梦符「二重结界」,Dream Sign「Duplex Barrier」
+DOTA_Tooltip_modifier_ability_dota2x_reimu03_ally_Description,物理免疫。,Physical immunity.
+DOTA_Tooltip_modifier_ability_dota2x_reimu03_enemy,梦符「二重结界」,Dream Sign「Duplex Barrier」
+DOTA_Tooltip_modifier_ability_dota2x_reimu03_enemy_Description,被沉默。,Silenced.
+DOTA_Tooltip_ability_ability_dota2x_reimu04,神技「八方鬼缚阵」,Divine Arts「Omnidirectional Oni-Binding Circle」
+DOTA_Tooltip_ability_ability_dota2x_reimu04_Description,灵梦最强的符卡之一。<br><br>张开一个大型结界让周围友方单位处于魔法免疫的状态，对进入结界的敌方单位多次灵击。（造成短暂晕眩和伤害）<br><br>敌方目标会持续受到灵击，即使她们走出法阵。,"Reimu deploys a powerful barrier, granting allies within spell immunity while damage and ministunning enemies.\nEnemies will continue to be struck even if they leave the circle."
+DOTA_Tooltip_ability_ability_dota2x_reimu04_duration,持续时间：,DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_radius,作用范围：,RADIUS: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_stun_duration,眩晕时间：,STUN DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_damage,灵击伤害：,DAMAGE: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_root_duration,晕眩时间：,ROOT DURATION: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_damage_interval,灵击间隔：,DAMAGE INTERVAL: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_damage_count,灵击次数：,DAMAGE INSTANCES: 
+DOTA_Tooltip_ability_ability_dota2x_reimu04_Lore,灵梦用不可思议的力量夺取对手身体自由的符卡，可以束缚鬼，也能束缚住人。,Reimu uses mysterious powers that take away her enemies' freedom of movement. Can bind demons and humans just as well.
+DOTA_Tooltip_modifier_ability_dota2x_reimu04_circle,神技「八方鬼缚阵」,Divine Arts「Omnidirectional Oni-Binding Circle」
+DOTA_Tooltip_modifier_ability_dota2x_reimu04_circle_Description,结界内有友军魔法免疫，敌方受到灵击。,Granting allies within immunity to magic and subjecting enemies.
+DOTA_Tooltip_modifier_ability_dota2x_reimu04_immue,神技「八方鬼缚阵」,Divine Arts「Omnidirectional Oni-Binding Circle」
+DOTA_Tooltip_modifier_ability_dota2x_reimu04_immue_Description,对魔法技能免疫。,Immune to magic skills.
+DOTA_Tooltip_modifier_ability_dota2x_reimu04_root,神技「八方鬼缚阵」,Divine Arts「Omnidirectional Oni-Binding Circle」
+DOTA_Tooltip_modifier_ability_dota2x_reimu04_root_Description,被缠绕,rooted.
+DOTA_Tooltip_ability_special_bonus_unique_reimu_1,「八方鬼缚阵」附加缠绕效果,「Omnidirectional Oni...」continuously roots enemies
+DOTA_Tooltip_ability_special_bonus_unique_reimu_1_Description,该效果不可驱散,The rooted effect cannot be purged
+DOTA_Tooltip_ability_special_bonus_unique_reimu_3,「阴阳宝玉」伤害范围,+{s:bonus_radius}「Yin-Yang Treasured Orb」Radius
+,,
 dota_tooltip_ability_crystal_nova_x,冰霜新星,
 dota_tooltip_ability_crystal_nova_x_Description,召唤具有破坏性的冰爆，降低目标区域内的敌人的移动速度。,
 dota_tooltip_ability_crystal_nova_x_aoe_radius,持续时间,
@@ -14,6 +73,5 @@ dota_tooltip_ability_counter_helix_x_hit_count,范围,
 dota_tooltip_ability_tiny_toss_x,投掷,
 dota_tooltip_ability_tiny_toss_x_Description,投掷的技能描述！（懒得去找了）你们自己看看这对不对吧！,
 dota_tooltip_ability_tiny_toss_x_grab_radius,持续事件,
-dota_tooltip_ability_tiny_toss_x_bonus_damage_pct30,范围,
-dota_tooltip_ability_tiny_toss_x_toss_damage,被投掷者额外伤害,
 dota_tooltip_ability_tiny_toss_x_bonus_damage_pct,范围,
+dota_tooltip_ability_tiny_toss_x_toss_damage,被投掷者额外伤害,
