@@ -1,0 +1,49 @@
+"DOTAAbilities"
+{
+	"item_jiduzhixinyan"
+	{
+		"BaseClass"	"item_lua"
+		"AbilityTextureName"	"item_jiduzhixinyan"	//图标By 橘橘子
+		"ScriptFile"                    "items/item_jiduzhixinyan"
+		"ItemDeclarations"        "DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+		"AbilityUnitTargetType"	"DOTA_UNIT_TARGET_HERO"
+		"AbilityUnitTargetTeam"	"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		// Stats
+		// -------------------------------------------------------------------------------------------------------------
+		"AbilityCastPoint"	"0.0"
+		"AbilityCooldown"	"1"
+		"AbilityManaCost"	"0"
+		"AbilityCastRange"	"0"
+		// Item Info
+		// -------------------------------------------------------------------------------------------------------------
+		"ItemCost"	"4000"
+		"ItemShopTags"	"mana_pool"
+		"ItemPurchasable"				"1"
+		"ItemDroppable"					"1"
+		"ItemSellable"					"1"
+		"AllowedInBackpack"				"0"
+		"ItemStockMax"					"2"
+		"ItemStockInitial"				"0"
+		"ItemStockTime"					"1800.0"
+		"ItemInitialStockTime"			"690.0"
+		"Model"	"models/props_gameplay/neutral_box.vmdl"
+		"precache"
+		{
+			"particle" "particles/econ/items/undying/undying_pale_augur/undying_pale_augur_decay_strength_xfer.vpcf"
+			"particle" "particles/thd2/items/item_jiduzhixinyan_number.vpcf"
+			// "soundfile"	"soundevents/game_sounds_heroes/game_sounds_antimage.vsndevts"
+		}
+		"AbilityValues"
+		{
+			"bonus_health"	"450"
+			"bonus_mana"	"350"
+			"bonus_movespeed"	"30"
+
+			"respawn_bonus"	"30"
+			"bonus_aura_duration"	"5"
+			"bonus_aura_movespeed"	"20"
+			"bonus_aura_health_regen_pct"	"30"
+		}
+	}
+}
