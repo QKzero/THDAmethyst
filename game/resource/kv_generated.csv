@@ -8,16 +8,16 @@ BP_Explain6,"<font color='#00FFFF'>BP选择阶段结束,5秒后进入正常角�
 BP_New_Explain1,<font color='#00FFFF'>启用Dota2 BP模式（旧），但时间结束时不会随机禁用</font>,"<font color='#00FFFF'>Enabled Dota2 BP Mode(Old), but it will not randomly ban when the time is end</font>"
 BP_New_Explain2,<font color='#00FFFF'>选择一名少女禁用</font>,<font color='#00FFFF'>Choose a gril to ban</font>
 BP_New_Explain3,<font color='#00FFFF'>若在时间内未选择禁用，将不会禁用任何一名少女</font>,"<font color='#00FFFF'>If didnt choose one to ban within the time, it will not ban anyone</font>"
-BotMode_Explain1,<font color='#00FFFF'>欢迎来到THD2人机模式，在这里通过与Bot对抗，熟悉THD2的少女和装备吧</font>,"<font color='#00FFFF'>Welcome to THD2 bots mode, where you can practice and get familiar with the various girls and items.</font>"
+BotMode_Explain1,<font color='#6633CC'>正在使用紫水晶地图</font>,"<font color='#00FFFF'>Welcome to THD2 bots mode, where you can practice and get familiar with the various girls and items.</font>"
 BotMode_Explain10,<font color='#00FFFF'>其他常用指令如下，更多可在群内询问：</font>,<font color='#00FFFF'>Some other useful commands include (but not limited to):</font>
-BotMode_Explain11,<font color='#00FFFF'>-pause 暂停，再次输入恢复游戏</font>,"<font color='#00FFFF'>'-pause' Pause the game, enter again to resume.</font>"
-BotMode_Explain12,<font color='#00FFFF'>-allowsame 允许选择同一英雄，可输入-unallowsame关闭</font>,<font color='#00FFFF'>'-allowsame' Allows the same girl to be selected multiple times. You can enter '-unallowsame' to turn it off after.</font>
-BotMode_Explain13,<font color='#00FFFF'>-setmaxplayer X 设置每队的最大人数，X最大为12</font>,"<font color='#00FFFF'>'-setmaxplayer X' Sets the maximum number of players per team to X, up to 12.</font>"
-BotMode_Explain14,<font color='#00FFFF'>-setmaxbot X 设置守矢神社的最大人数，X最大为12</font>,"<font color='#00FFFF'>'-setmaxbot X' Sets the maximum number of players Moriya team to X, up to 12.</font>"
-BotMode_Explain15,<font color='#00FFFF'>-banbots X 禁用bot机体，x是机体覆盖的dota英雄名字，多个机体用空格隔开</font>,"<font color='#00FFFF'>'-banbots X' Prevents bots from selecting the specified girl using the name of the dota hero they use, can specify multiple girls by separating each entry with a space.</font>"
-BotMode_Explain16,<font color='#00FFFF'>-strawberry 启用草莓模式，测试未实装的游戏性改动</font>,<font color='#00FFFF'>'-strawberry' Enable Strawberry Mode to test gameplay changes that have not been implemented yet.(No Translation)</font>
-BotMode_Explain17,<font color='#00FFFF'>-dota 启用Dota乱入</font>,<font color='#00FFFF'>'-dota' Enable Dota Mixed.</font>
-BotMode_Explain2,<font color='#00FFFF'>欢迎新人加入QQ群474907856与新老玩家共勉，也可通过 https://thd2.cc/ 获取信息发布</font>,<font color='#00FFFF'>Newcomers are welcome to join the English discord at https://discord.gg/pKm5Sqqwnj</font>
+BotMode_Explain11,<font color='#00FFFF'>-allowsame 允许选择同一英雄，可输入-unallowsame关闭</font>,"<font color='#00FFFF'>'-pause' Pause the game, enter again to resume.</font>"
+BotMode_Explain12,<font color='#00FFFF'>-setmaxbot X 设置守矢神社的最大人数，X最大为12</font>,<font color='#00FFFF'>'-allowsame' Allows the same girl to be selected multiple times. You can enter '-unallowsame' to turn it off after.</font>
+BotMode_Explain13,<font color='#00FFFF'>-banbots X 禁用bot机体，x是机体覆盖的dota英雄名字，多个机体用空格隔开</font>,"<font color='#00FFFF'>'-setmaxplayer X' Sets the maximum number of players per team to X, up to 12.</font>"
+BotMode_Explain14,<font color='#6633CC'>正在使用紫水晶地图</font>,"<font color='#00FFFF'>'-setmaxbot X' Sets the maximum number of players Moriya team to X, up to 12.</font>"
+BotMode_Explain15,,"<font color='#00FFFF'>'-banbots X' Prevents bots from selecting the specified girl using the name of the dota hero they use, can specify multiple girls by separating each entry with a space.</font>"
+BotMode_Explain16,,<font color='#00FFFF'>'-strawberry' Enable Strawberry Mode to test gameplay changes that have not been implemented yet.(No Translation)</font>
+BotMode_Explain17,,<font color='#00FFFF'>'-dota' Enable Dota Mixed.</font>
+BotMode_Explain2,<font color='#00FFFF'>欢迎新人加入QQ群348605266与新老玩家共勉，也可通过 https://thd2.cc/ 获取信息发布</font>,<font color='#00FFFF'>Newcomers are welcome to join the English discord at https://discord.gg/pKm5Sqqwnj</font>
 BotMode_Explain3,<font color='#00FFFF'>THBWiki搜索桃花岛获取更多角色攻略</font>,"<font color='#00FFFF'>There is also a (incomplete, work-in-progress) wiki at https://thdots-new.fandom.com/</font>"
 BotMode_Explain4,<font color='#00FFFF'>默认难度为easy(容易)，可通过以下指令修改难度：</font>,"<font color='#00FFFF'>The difficulty defaults to easy, but can be changed with the following commands:</font>"
 BotMode_Explain5,<font color='#00FFFF'>-easy 该难度下Bot会平地摔，适合没有或缺少MOBA经验的玩家</font>,"<font color='#00FFFF'>'-easy' In this difficulty, bots will randomly be stunned, for those with little to no MOBA experience.</font>"
@@ -116,14 +116,6 @@ DOTA_Tooltip_ability_ability_dota2x_reimuEx_a_attack_speed_bonus,主动攻击速
 DOTA_Tooltip_ability_ability_dota2x_reimuEx_attack_speed_bonus,攻击速度加成：,"ATTACK SPEED BONUS PER STACK: "
 DOTA_Tooltip_ability_ability_dota2x_reimuEx_duration,持续时间：,"DURATION: "
 DOTA_Tooltip_ability_ability_dota2x_reimuEx_move_speed_bonus,移动速度加成：,"MOVE SPEED BONUS PER STACK: "
-DOTA_Tooltip_ability_ability_kasenbear_01,暴怒,
-DOTA_Tooltip_ability_ability_kasenbear_01_Description,每次攻击有15%概率提升自身攻击速度，持续5秒。,
-DOTA_Tooltip_ability_ability_kasenbear_01_attackspeed_bonus,提升攻击速度:,
-DOTA_Tooltip_ability_ability_kasenbear_02,缠雷,
-DOTA_Tooltip_ability_ability_kasenbear_02_Description,"每次攻击减少目标10点攻击速度,最多叠加%limit%层。",
-DOTA_Tooltip_ability_ability_kasenbear_02_duration,持续时间:,
-DOTA_Tooltip_ability_ability_kasenbear_03,雷云,
-DOTA_Tooltip_ability_ability_kasenbear_03_Description,"每3秒向周围550码内3个单位造成%damage%魔法伤害并降低1点护甲和1魔抗,持续时间4秒,每次雷电叠加并刷新时间。",
 DOTA_Tooltip_ability_ability_system_criticalstrike,15%暴击几率,15% critical strike
 DOTA_Tooltip_ability_ability_system_criticalstrike_2,40%暴击几率,40% critical strike
 DOTA_Tooltip_ability_ability_thdots_Jyoon_1,财祸「雁过拔毛」,Financial Ruin「Pluck Pidgeon」
@@ -535,35 +527,6 @@ DOTA_Tooltip_ability_ability_thdots_ellen04_cast_range,施法距离：,"Cast ran
 DOTA_Tooltip_ability_ability_thdots_ellen04_efficient_upwards_limit,层数上限：,"Limit of stack: "
 DOTA_Tooltip_ability_ability_thdots_ellen04_hit_damage,直接命中伤害：,"Hit damage: "
 DOTA_Tooltip_ability_ability_thdots_ellen04_stack_damage,爆发伤害：,"Burst damage: "
-DOTA_Tooltip_ability_ability_thdots_exrumia01,月符 「月的暗面」,Darkness Sign「Dark Side of the Moon」
-DOTA_Tooltip_ability_ability_thdots_exrumia01_Description,露米娅使目标陷入一片黑暗之中，目标单位任何动作不显影且获得闪避能力。\n对敌释放时还将会将目标沉默缴械，持续时间为黑暗持续时间的一半。,"Rumia hides her target in a cloud of shadows, making it invisible and increasing it's evasion. Attacking, casting spells, and using items will not reveal itself.\nDisarm and silence the target for half the duration if it is an enemy."
-DOTA_Tooltip_ability_ability_thdots_exrumia01_cast_range,施法距离：,"Cast Range: "
-DOTA_Tooltip_ability_ability_thdots_exrumia01_duration,持续时间：,"Duration: "
-DOTA_Tooltip_ability_ability_thdots_exrumia01_evasion,闪避几率：,"Evasion: "
-DOTA_Tooltip_ability_ability_thdots_exrumia01_note0,虽然目标的动作不会令她显形，但是真视视野仍然可以发现她。,
-DOTA_Tooltip_ability_ability_thdots_exrumia02,暗符 「境界线」,Darkness Sign「Demarcation」
-DOTA_Tooltip_ability_ability_thdots_exrumia02_Description,露米娅大肆收割周围血肉，提高攻击速度，并且普通攻击能造成额外的溅射伤害，造成额外伤害的50%%会治疗自身。,"Rumia reaps flesh around wantonly, granting bonus attack speed and cleave on attack(causes permanent damage). Rumia heals herself by 50%% of the damage made by cleave."
-DOTA_Tooltip_ability_ability_thdots_exrumia02_attack_speed,攻速加成：,"Bonus Attack Speed: "
-DOTA_Tooltip_ability_ability_thdots_exrumia02_damage,溅射伤害：,"Cleave Damage: "
-DOTA_Tooltip_ability_ability_thdots_exrumia02_duration,持续时间：,"Duration: "
-DOTA_Tooltip_ability_ability_thdots_exrumia02_note0,露米娅获得的回复量是基于额外税前伤害的一半，目标实际受到的伤害与露米娅获得的回复无关。,Damage taken by enemies in reality does nothing with healing.
-DOTA_Tooltip_ability_ability_thdots_exrumia02_radio,溅射范围：,"Cleave Radius: "
-DOTA_Tooltip_ability_ability_thdots_exrumia03,「宵暗之盾」,「Dusk Shield」
-DOTA_Tooltip_ability_ability_thdots_exrumia03_Description,露米娅在%duration%秒内持续引导一个诡异的护盾，吸收%block_constant%伤害后破碎。护盾破碎会对自身周围的敌人造成伤害和%stuntime%秒眩晕，同时恢复自身魔法值。,"Rumia channelling a weird shield which can absorb %block_constant% damage for %duration% seconds. Enemies around will take damage and be stunned for %stuntime% seconds if the shield breaks, while Rumia will restore mana."
-DOTA_Tooltip_ability_ability_thdots_exrumia03_break_damage,破碎伤害：,"Damage: "
-DOTA_Tooltip_ability_ability_thdots_exrumia03_radio,作用范围：,"Radius: "
-DOTA_Tooltip_ability_ability_thdots_exrumia03_regen_mana,恢复魔法：,"Mana Restoring: "
-DOTA_Tooltip_ability_ability_thdots_exrumia04,食罪,Sin Devouring
-DOTA_Tooltip_ability_ability_thdots_exrumia04_Description,露米娅先对目标少女发动一次宏伟终结，造成魔法伤害，之后冲向目标打出一次无法闪避的暴击。\n冲刺期间不会被击晕，无视地形。失去目标后将结束状态。\n目标少女会因其罪孽而痛苦不堪，期间降低所有伤害，若状态持续期间目标死亡则恢复露米娅最大生命值的25%%\n对少于35%%生命值的少女造成双倍伤害。,"Rumia launches a grand shutdown to the target enemy girl, dealing damage to her, then dashes towards her and cause an unevadable critical attack.\nBe able to pass impassable terrain and won't be stunned while dashing.\nThe target girl suffering for her sins, damage casued reduced. Rumia will heal herself by 25%% of max health if the target dies in the duration.\nDeals double damage to girls whose health percentage is less than 35%%."
-DOTA_Tooltip_ability_ability_thdots_exrumia04_block,降低伤害：,"Damage Casued Reducing: "
-DOTA_Tooltip_ability_ability_thdots_exrumia04_cast_range,施法距离：,"Cast Range: "
-DOTA_Tooltip_ability_ability_thdots_exrumia04_crit,暴击倍率：,"Critical Damage: "
-DOTA_Tooltip_ability_ability_thdots_exrumia04_damage,魔法伤害：,"Magical Damage: "
-DOTA_Tooltip_ability_ability_thdots_exrumia04_duration,负面状态持续时间：,"Debuff Duration: "
-DOTA_Tooltip_ability_ability_thdots_exrumia04_note0,食罪造成的伤害减少debuff是通过造成伤害后给予一定治疗实现的，换言之，影响治疗效果的装备和技能会对这个debuff的实际效果产生影响。,Heal amplification and reducing influence the actual effect of damage casued reducing.
-DOTA_Tooltip_ability_ability_thdots_exrumia04_scepter_description,食罪对35%%生命以下的目标少女造成一倍额外伤害；普攻%chance%%%触发食罪。,Deals double damage to girls whose health percentage is less than 35%%; Rumia has %chance%%% chance to spell Sin Devouring on each attack.
-DOTA_Tooltip_ability_ability_thdots_exrumiaEx,夜符 「午夜」,Night Sign 「Midnight Bird」
-DOTA_Tooltip_ability_ability_thdots_exrumiaEx_Description,夜间获得%speed%%%攻击力和移速加成,Get %speed%%% attack damage and attack speed bonus at night.
 DOTA_Tooltip_ability_ability_thdots_flandre01,,Taboo「Four of a Kind」
 DOTA_Tooltip_ability_ability_thdots_flandre01_Description,,Flandre employs devilish powers to create clones of herself which inherit some of her abilities.
 DOTA_Tooltip_ability_ability_thdots_flandre01_Lore,,"A Spell Card where she clones herself, then attacks wherever she wants."
@@ -817,13 +780,6 @@ DOTA_Tooltip_ability_ability_thdots_kasen2_s3_Description,<font color='#FFD700'>
 DOTA_Tooltip_ability_ability_thdots_kasen2_sEx,天生,Innate ability
 DOTA_Tooltip_ability_ability_thdots_kasen2_sEx_Description,影华扇为华扇分摊部分伤害。,Kasen would distribute partial damage to Shadow Kasen.
 DOTA_Tooltip_ability_ability_thdots_kasen2_sEx_percent,%分摊伤害百分比：,"%Damage Distributed: "
-DOTA_Tooltip_ability_ability_thdots_kasen3_01,包符「假肢变形」,
-DOTA_Tooltip_ability_ability_thdots_kasen3_01_Description,华扇向目标扔出一条绷带，缠绕对手限制行动造成持续伤害，对友军释放造成等量治疗。,
-DOTA_Tooltip_ability_ability_thdots_kasen3_01_Scepter_Description,绷带会额外对离目标300码范围内的最近目标生效，少女优先,
-DOTA_Tooltip_ability_ability_thdots_kasen3_01_damage_per_tick,每秒伤害/治疗:,
-DOTA_Tooltip_ability_ability_thdots_kasen3_01_duration,持续时间:,
-DOTA_Tooltip_ability_ability_thdots_kasen3_04,「奸佞邪智的鬼」,
-DOTA_Tooltip_ability_ability_thdots_kasen3_04_Description,华扇和她的右臂合二为一，获得鬼王的力量。力量提升%strength_bonus_pct%%，自身范围 %distance% 码内所有单位死亡会生成死士,
 DOTA_Tooltip_ability_ability_thdots_kasenEx_duration,,DURATION:
 DOTA_Tooltip_ability_ability_thdots_kasenEx_strength_bonus_ex,获得额外力量：,BONUS STRENGTH:
 DOTA_Tooltip_ability_ability_thdots_keine01,产灵「初始的历史鸿流」,Spiritual Birth「Origin Historical Tide」
@@ -875,7 +831,6 @@ DOTA_Tooltip_ability_ability_thdots_kisume05,「飞入桶中」,「Like a Moth t
 DOTA_Tooltip_ability_ability_thdots_kisume05_Description,将一个队友塞进自己的桶里，持续%duration%秒，时间内使用皿数燃尽将会造成双倍伤害，同时队友的血量也会降低。自己死亡或者持续时间到了会把队友弹射出去。\n\n队友可以自己出来。,"Tuck an ally girl into Kisume's bucket for %duration% seconds. In this state, 「Sarayashiki's Burning Out」will deal double damage, but the health of the ally tucked will be set to %max_health%%% of the max as well.\nThe ally tucked will be ejected in next four situations:\n-Kisume dies;\n-Time is up;\n-Kisume ejects her;\n-She gets out by herself."
 DOTA_Tooltip_ability_ability_thdots_kisume05_Note0,为了防止误操作，队友1秒后才可以自己出来。,"To avoid misoperation, the ally tucked cannot choose to get out by herself in the first 1 second."
 DOTA_Tooltip_ability_ability_thdots_kisume05_cast_range,施法距离：,Cast range:
-DOTA_Tooltip_ability_ability_thdots_kisume05_scepter_description,获得新技能：「飞入桶中」,Get a new skill:「Like a Moth to a Bucket」
 DOTA_Tooltip_ability_ability_thdots_kisumeEx,吊瓶「Well Destructor」,Well Bucket「Well Destructor」
 DOTA_Tooltip_ability_ability_thdots_kisumeEx_Description,琪斯美每%count%次施法的下一次施法，会附带%duration%秒眩晕，眩晕时间可以与其他技能叠加。,"After %count% spells, kisume's next spell will stun targets effected for %duration% seconds. The stun duration can be superposed with kisume's other skills'."
 DOTA_Tooltip_ability_ability_thdots_koakuma01,火符「传火配对」,Magic 「Jack-o'-Lantern Bombs」
@@ -1008,80 +963,20 @@ DOTA_Tooltip_ability_ability_thdots_komachi04_Description,把目标作为索命�
 DOTA_Tooltip_ability_ability_thdots_komachi04_duration,持续时间：,"DURATION: "
 DOTA_Tooltip_ability_ability_thdots_komachi04_note0,进入斩杀阶段的前后4秒中，小町和目标少女均为无敌状态，无法选中，且即使在这4秒中小町死亡，斩杀也会完成。\n与「三步必杀」不同，该技能的斩杀可以被「蓬莱之药」救起。,"Both Komachi and the target are invulnerable and untargetable during the 4 second execution. Even if Komachi somehow dies during the execution, the target will be executed anyway."
 DOTA_Tooltip_ability_ability_thdots_komachi04_note1,,"Unlike「Knock Out In Three Steps」, this execution can be prevented by「Hourai Elixir」."
-DOTA_Tooltip_ability_ability_thdots_kurumi01,「颤栗的突击」,「Trembling Strike」
-DOTA_Tooltip_ability_ability_thdots_kurumi01_Description,瞬间出现在一个敌方目标单位身边，对目标造成伤害。,"Instantly appears next to an enemy target unit, deals damage to the target."
-DOTA_Tooltip_ability_ability_thdots_kurumi01_Lore,胡桃以极高的速度冲击并撕裂敌人。,Kurumi charges and tears the enemy at extremely high speed.
-DOTA_Tooltip_ability_ability_thdots_kurumi01_attack_multiple,攻击力系数：,"BONUS DAMAGE PER ATTACK DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi01_cast_range,施法距离：,"CAST RANGE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi01_damage,基础伤害：,"BASE DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi02,暗葬「血之湖」,Dark Funeral「Lake of Blood」
-DOTA_Tooltip_ability_ability_thdots_kurumi02_Description,胡桃跳入棺材中睡眠。棺材附近的敌人无法施法。当棺材被破坏或睡眠时间达到%coffin_duration%秒时，胡桃会从棺材里出来。\n胡桃可以自行中止睡眠。,"Kurumi jumps into the coffin to sleep. Enemies near the coffin cannot cast spells. When the coffin is destroyed or the sleep time reaches %coffin_duration% seconds, kurumi will come out of the coffin.\nKurumi can interrupt sleep on her own."
-DOTA_Tooltip_ability_ability_thdots_kurumi02_Lore,胡桃就在你的身边。,Kurumi is right beside you.
-DOTA_Tooltip_ability_ability_thdots_kurumi02_Note0,胡桃跳入棺材期间无敌，持续%cast_time%秒。<br>棺材获得额外护甲和魔法抗性，基于胡桃的%armor_pct%%%护甲和%magic_resist_pct%%%魔法抗性。,"Kurumi is invulnerable when she is jumping into coffin, lasts for %cast_time% second. <br>The coffin gains bonus armor and magic resistance, based on Kurumi's %armor_pct%%% armor and %magic_resist_pct%%% magic resistance."
-DOTA_Tooltip_ability_ability_thdots_kurumi02_coffin_armor,棺材护甲：,"COFFIN ARMOR: "
-DOTA_Tooltip_ability_ability_thdots_kurumi02_coffin_hp,棺材生命值：,"COFFIN HP: "
-DOTA_Tooltip_ability_ability_thdots_kurumi02_coffin_magic_resist,%棺材魔法抗性：,"%COFFIN MAGIC RESISTANCE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi02_out,破棺而出,Break the Coffin and Emerge
-DOTA_Tooltip_ability_ability_thdots_kurumi02_out_Description,主动苏醒，从棺材里出来。,"Proactively wake up, come out of the coffin."
-DOTA_Tooltip_ability_ability_thdots_kurumi02_radius,作用范围：,"RADIUS: "
-DOTA_Tooltip_ability_ability_thdots_kurumi03,门卫「逆向压制」,Gatekeeper「Reverse Quelling」
-DOTA_Tooltip_ability_ability_thdots_kurumi03_Description,胡桃的攻击附带吸血鬼的诅咒，令敌人难以还手。每次攻击对目标及其附近%radius%范围内的敌人造成伤害并降低他们的攻击速度。,"Kurumi attacks with Vampire Curse, causing enemies hard to counter. Each attack deals damage to target and enemies around target within %radius% radius and reduces their attack speed."
-DOTA_Tooltip_ability_ability_thdots_kurumi03_atk_speed_slow,攻击速度降低：,"ATTACK SPEED SLOW: "
-DOTA_Tooltip_ability_ability_thdots_kurumi03_atk_speed_slow_duration,减速持续时间：,"SLOW DURATION: "
-DOTA_Tooltip_ability_ability_thdots_kurumi03_damage,伤害：,"DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi04,血红「安息破坏日」,Blood Red「Sabbath Sabbath Sabbath」
-DOTA_Tooltip_ability_ability_thdots_kurumi04_Description,胡桃的攻击破坏敌人的伤口，造成基于他们损失生命值百分比的额外伤害。目标的生命值越低，伤害越高。,"Kurumi's attacks break enemies' wounds, deal bonus damage based on the percentage of their missing health. The lower the health of target, the greater the damage dealt."
-DOTA_Tooltip_ability_ability_thdots_kurumi04_base_attack_damage_bonus_pct,%基础攻击力额外伤害:,"%BONUS BASE DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi04_damage,基础伤害：,"BASE DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_kurumi04_note0,伤害 = 基础伤害 + 基础攻击力额外伤害 x 目标损失生命值百分比。,Damage = base damage + bonus base damage x the percentage of target's missing health.
-DOTA_Tooltip_ability_ability_thdots_kurumiEx,吸血鬼「血色收割者」,Vampire「Blood Reaper」
-DOTA_Tooltip_ability_ability_thdots_kurumiEx_Description,胡桃每次攻击时还会根据自身等级回复一定量的生命。,Kurumi's attacks restore health based on her level.
-DOTA_Tooltip_ability_ability_thdots_kurumiEx_Lore,请让鲜血都流出来吧。,Please let all the blood flow out.
-DOTA_Tooltip_ability_ability_thdots_kurumiEx_level_multiple,等级加成：,"BONUS HEAL PER LEVEL: "
-DOTA_Tooltip_ability_ability_thdots_kurumiEx_lifesteal_constant,基础回复：,"BASE HEAL: "
-DOTA_Tooltip_ability_ability_thdots_larva01,蝶符「盛夏振翅」,Butterfly Sign「Midsummer Wingbeats」
-DOTA_Tooltip_ability_ability_thdots_larva01_Description,拉尔瓦快速的向前飞行，到达最远处后返回，对沿途的敌人造成基于双方全属性差值的伤害。\n全属性差值伤害倍率：2\n再次按下可直接在当前位置降落,"Eternity Larva dives forward in an arc towards the target point, returning after reaching either the target point or the maximum distance. Enemies along the way will be dealt damage based on the difference between their total attributes and Eternity Larva's.\nDamage bonus per difference of attribute: %damage_bonus_per_difference%\nEternity Larva can cancel the dive at any point by casting this spell again."
-DOTA_Tooltip_ability_ability_thdots_larva01_damage,固定伤害：,"BASE DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_larva01_duration,飞行一周耗时：,"DURATION: "
-DOTA_Tooltip_ability_ability_thdots_larva01_length,长度：,"MAX DISTANCE: "
-DOTA_Tooltip_ability_ability_thdots_larva01_lore,夏日的正午 凤蝶妖精仍然在太阳花田中勤恳的授粉。,"Even under the midsummer noon sun, the swallowtail butterflies still diligently pollinate the sunflower fields."
-DOTA_Tooltip_ability_ability_thdots_larva01_width,宽度：,"ARC WIDTH: "
+DOTA_Tooltip_ability_ability_thdots_larva01_1,蝶符「盛夏振翅」,Butterfly Sign「Midsummer Wingbeats」
+DOTA_Tooltip_ability_ability_thdots_larva01_1_Description,拉尔瓦快速的向前飞行，到达最远处后返回，对沿途的敌人造成基于双方全属性差值的伤害。\n全属性差值伤害倍率：%damage_mul_bonus%\n再次按下可直接在当前位置降落,"Eternity Larva dives forward in an arc towards the target point, returning after reaching either the target point or the maximum distance. Enemies along the way will be dealt damage based on the difference between their total attributes and Eternity Larva's.\nDamage bonus per difference of attribute: %damage_bonus_per_difference%\nEternity Larva can cancel the dive at any point by casting this spell again."
+DOTA_Tooltip_ability_ability_thdots_larva01_1_damage,固定伤害：,"BASE DAMAGE: "
+DOTA_Tooltip_ability_ability_thdots_larva01_1_duration,飞行一周耗时：,"DURATION: "
+DOTA_Tooltip_ability_ability_thdots_larva01_1_length,长度：,"MAX DISTANCE: "
+DOTA_Tooltip_ability_ability_thdots_larva01_1_lore,夏日的正午 凤蝶妖精仍然在太阳花田中勤恳的授粉。,"Even under the midsummer noon sun, the swallowtail butterflies still diligently pollinate the sunflower fields."
+DOTA_Tooltip_ability_ability_thdots_larva01_1_width,宽度：,"ARC WIDTH: "
+DOTA_Tooltip_ability_ability_thdots_larva01_2,蝶符「盛夏振翅」,Butterfly Sign「Midsummer Wingbeats」
+DOTA_Tooltip_ability_ability_thdots_larva01_2_Description,立即降落至当前位置,Land immediately at current position.
 DOTA_Tooltip_ability_ability_thdots_larva02,蝶符「沾身难下的鳞粉」,Butterfly Sign「Surrounding Scales」
-DOTA_Tooltip_ability_ability_thdots_larva02_01,蝶符「盛夏振翅」,Butterfly Sign「Midsummer Wingbeats」
-DOTA_Tooltip_ability_ability_thdots_larva02_01_Description,<h1>被动：</h1>鳞粉会减缓敌人的步伐，每层「鳞粉」降低他们%speed_down%%%移动速度。\n<h1>主动：</h1>拉尔瓦进入飞行状态，增加移动速度，并移动无视地形阻挡。在飞行结束时，会扇动翅膀将鳞粉撒向四周，使周围%radius%范围内敌方单位粘上「鳞粉」，但不会刷新持续时间。,"<h1>Passvie: </h1>Scales slow enemies' steps, slow thier move speed by %speed_down%%% for each stack of 「Scales」.\n<h1>Active: </h1>Larva enters flight, increases move speed, and free pathing. At the end of the flight, Larva flaps her wings to sprinkle scales around, causing enemy units within a %radius% range to stick 「Scales」, but it will not refresh the duration."
-DOTA_Tooltip_ability_ability_thdots_larva02_01_duration,飞行持续时间：,"FIGHT DURATION: "
-DOTA_Tooltip_ability_ability_thdots_larva02_01_max_speed_down_value,%最大移动速度降低：,"%MAX MOVE SPEED SLOW: "
-DOTA_Tooltip_ability_ability_thdots_larva02_01_speed_up,%移动速度加成：,"%MOVE SPEED BONUS: "
-DOTA_Tooltip_ability_ability_thdots_larva02_01_stack_get,层数增加：,"STACKS: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02,「仲夏的妖精梦」,「A Midsummer Fairy's Dream」
-DOTA_Tooltip_ability_ability_thdots_larva02_02_AbilityCastRange,作用范围：,"RADIUS: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_Description,<h1>被动：</h1>每当拉尔瓦受到来自粘有「鳞粉」的单位的伤害时，根据受到伤害的一定百分比回复生命值，「鳞粉」层数越多效果越强。\n<h1>主动：</h1>将周围少女困入拉尔瓦的梦境之中，若被困少女没有在持续时间内离开拉尔瓦身边%runrange%距离，则会受到眩晕和伤害。,"<h1>Passive: </h1>Each time Larva is attacked by enemies with 「Scales」, restores health based on a percentage of the damage taken. The more stacks of 「Scales」, the stronger the effect.\n<h1>Active: </h1>Traps the surrounding girls into Larva's dream. If the trapped girls do not leave Larva's side %runrange% range within the duration, they will suffer stun and damage."
-DOTA_Tooltip_ability_ability_thdots_larva02_02_bone_damage,伤害：,"DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_duration,梦境持续时间：,"DREAM DURATION: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_heal_stack,%每层回复：,"%RESTORE PER STACK: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_illusion_incoming_damage,%幻象承受伤害：,"%ILLUSION DAMAGE TAKEN: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_illusion_outgoing_damage,%幻象继承攻击力：,"%ILLUSION DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_illusions_duration,幻象持续时间：,"ILLUSION DURATION: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_scepter_description,若被困少女没能成功逃脱拉尔瓦的梦境，则在该少女身旁产生一个拉尔瓦的幻象。若该少女粘有「鳞粉」，还将为她们叠加「鳞粉」。,"If the trapped girl fails to escape from Larva's dream, a Larva's illusion will be created next to the girl. If the girl has 「Scales」 attached, also applies 「Scales」."
-DOTA_Tooltip_ability_ability_thdots_larva02_02_stack_get,层数增加：,"STACKS: "
-DOTA_Tooltip_ability_ability_thdots_larva02_02_stun_duration,眩晕持续时间：,"STUN DURATION: "
-DOTA_Tooltip_ability_ability_thdots_larva02_03,蝶符「沾身难下的鳞粉」,Butterfly Sign「Surrounding Scales」
-DOTA_Tooltip_ability_ability_thdots_larva02_03_Description,<h1>被动：</h1>「鳞粉」根据层数持续造成伤害。\n<h1>主动：</h1>拉尔瓦向周围%radius%范围内撒下鳞粉，对范围内的敌人造成伤害，并使他们粘上「鳞粉」，但不会刷新持续时间。,"<h1>Passive: </h1>「Scales」 deal damage based on the stacks over time.\n<h1>Active: </h1>Larva sprinkles scales on the %radius% radius area around her, dealing damage to enemies within the radius and causing them to stick 「Scales」, but it will not refresh the duration."
-DOTA_Tooltip_ability_ability_thdots_larva02_03_bone_damage,主动施法伤害：,"ACTIVE DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_larva02_03_stack_damage,被动每层伤害：,PASSIVE DAMAGE PER STACK
-DOTA_Tooltip_ability_ability_thdots_larva02_03_stack_get,层数增加：,"STACKS: "
-DOTA_Tooltip_ability_ability_thdots_larva02_04,梦蝶「Crazy Butterfly」,Dream Butterfly「Crazy Butterfly」
-DOTA_Tooltip_ability_ability_thdots_larva02_04_Description,拉尔瓦向前方发射蝴蝶弹幕，对击中的少女造成伤害并使他们粘上「鳞粉」，然后清除目标所有的「鳞粉」层数，根据减少的层数造成额外伤害。,"Larva fires butterfly barrages towards the front, causing damage to the hit girls and causing them to stick 「Scales」. Then, clears all stacks of 「Scales」 on the target and deals bonus damage based on the cleared stacks."
-DOTA_Tooltip_ability_ability_thdots_larva02_04_bone_damage,基础伤害：,"BASE DAMAGE: "
-DOTA_Tooltip_ability_ability_thdots_larva02_04_stack_damage,每层额外伤害：,"BONUS DAMAGE PER STACK: "
-DOTA_Tooltip_ability_ability_thdots_larva02_04_stack_get,层数增加：,"STACKS: "
 DOTA_Tooltip_ability_ability_thdots_larva02_Description,向周围撒下含有毒性的鳞粉，吸入鳞粉的敌人将被减速并持续受到伤害。\n敌人在此期间释放技能将刷新持续时间并使伤害提高。,"Scatters poisonous scales around, slowing and dealing continuous damage to enemies who breathe them in.\nIf the enemy casts a spell while under this effect, the duration will be refreshed, and the damage will increase."
 DOTA_Tooltip_ability_ability_thdots_larva02_damage,持续伤害：,"BASE DAMAGE PER SECOND: "
 DOTA_Tooltip_ability_ability_thdots_larva02_damage_bonus,"每次施法伤害提高: ","DAMAGE PER STACK: "
 DOTA_Tooltip_ability_ability_thdots_larva02_duration,基础持续时间：,"BASE DURATION: "
-DOTA_Tooltip_ability_ability_thdots_larva02_ex,「鳞粉」,「Scales」
-DOTA_Tooltip_ability_ability_thdots_larva02_ex_Description,拉尔瓦会不停地向周围撒出鳞粉，每%think_time%秒使%auraRangeRadius%范围内的敌方单位粘上一层「鳞粉」并刷新持续时间，持续%duration%秒。每层降低目标%attackspeed%攻击速度。,Larva constantly sprinkles scales around her. Applies a stack of 「Scales」 to enemy units within a %auraRangeRadius% range every %think_time% seconds and refreshes the duration for %duration% seconds. Reduces target's attack speed by %attackspeed% every stack.
-DOTA_Tooltip_ability_ability_thdots_larva02_ex_note0,该技能对幻象生效。效果不可叠加。,The ability is functional for illusions. The effect cannot stack with itself.
 DOTA_Tooltip_ability_ability_thdots_larva02_lore,集体的意识群中难免存在阴影。,There will always a shadow within the collective unconscious.
 DOTA_Tooltip_ability_ability_thdots_larva02_slow,%移速降低：,"%MOVE SLOW: "
 DOTA_Tooltip_ability_ability_thdots_larva03,梦蝶「Crazy Butterfly」,Dream Butterfly「Crazy Butterfly」
@@ -1098,7 +993,7 @@ DOTA_Tooltip_ability_ability_thdots_larva04_damagelimit,唤醒伤害临界值：
 DOTA_Tooltip_ability_ability_thdots_larva04_duration,持续时间：,"DURATION: "
 DOTA_Tooltip_ability_ability_thdots_larva04_lore,一切的羁绊都是纠缠与束缚，身处幻想乡中 也犹如这梦境一般。,"All the fetters entangle and bind, just like the dream of living in Gensokyo."
 DOTA_Tooltip_ability_ability_thdots_larva04_movelimit,逃脱距离：,"ESCAPE DISTANCE: "
-DOTA_Tooltip_ability_ability_thdots_larva04_radio,作用范围：,"RADIUS: "
+DOTA_Tooltip_ability_ability_thdots_larva04_radius,作用范围：,"RADIUS: "
 DOTA_Tooltip_ability_ability_thdots_larva04_scepter_description,敌人逃出梦境后将刷新剩余敌人梦境持续时间，每当有人逃出梦境伤害都将增加一倍基础值。,Refreshes the dream for other trapped girls and doubles damage dealt whenever one of them escapes.
 DOTA_Tooltip_ability_ability_thdots_larva04_slow,降低攻速：,"ATTACK SPEED SLOW: "
 DOTA_Tooltip_ability_ability_thdots_larva04_stuntime,眩晕时间：,"SLEEP DURATION: "
@@ -1301,42 +1196,6 @@ DOTA_Tooltip_ability_ability_thdots_medicineEx_duration,持续时间：,"DURATIO
 DOTA_Tooltip_ability_ability_thdots_medicineEx_radius,光环范围：,"AURA RADIUS: "
 DOTA_Tooltip_ability_ability_thdots_medicineEx_resistance_decrepify,%魔抗降低：,%MAGIC RESISTANCE REDUCTION:
 DOTA_Tooltip_ability_ability_thdots_medicineEx_slow_amount,%速度降低：,%MOVE SPEED SLOW:
-DOTA_Tooltip_ability_ability_thdots_meira01_1,「刀符.破戒」,「Sword.Break Precept」
-DOTA_Tooltip_ability_ability_thdots_meira01_1_description,明罗前冲，并击飞敌人。<br><br><font color='#5A6F8A'>击飞时间：</font>%knockback_dur%<font color='#5A6F8A'><br>冲撞伤害：</font>%dash_mul% × 技能等级<br><font color='#5A6F8A'>横扫伤害：</font>%sweep_mul% × 技能等级 × <font color='#DC143C'>力量</font>,"Meira will dash to the target location, dealing damage to enemies in the area along the way, and then will launch a sweep at the target location, knocking back enemies in a circular area and dealing damage.<br><br>Meira can spell 「Mercy.The Wisdom of Meira」 in %next_time% after spelling.<br><br><font color='#5A6F8A'>Dash Distance: </font>%cast_range%<br><font color='#5A6F8A'>Dash width: </font>%dash_width%<br><font color='#5A6F8A'>Sweep Radius: </font>%sweep_radius%<br><font color='#5A6F8A'>Knockback Time: </font>%knockback_dur%<font color='#5A6F8A'><br>Dash Damage: </font>%dash_mul% × Ability's level<br><font color='#5A6F8A'>Sweep Damage: </font>%sweep_mul% × Ability's level × <font color='#DC143C'>Strength</font>"
-DOTA_Tooltip_ability_ability_thdots_meira01_1_note0,结束后%next_time%秒内可释放下一段。,
-DOTA_Tooltip_ability_ability_thdots_meira01_1_note1,二段：后空翻，造成伤害、眩晕。,
-DOTA_Tooltip_ability_ability_thdots_meira01_1_note2,三段：再次后空翻。然后向前突刺，推走单位并造成伤害。,
-DOTA_Tooltip_ability_ability_thdots_meira01_2,「慈悲.明罗之心得」,「Mercy.The Wisdom of Meira」
-DOTA_Tooltip_ability_ability_thdots_meira01_2_description,后空翻，造成伤害、眩晕。<br><br><font color='#5A6F8A'>眩晕时间：</font>%stun_dur%<br><font color='#5A6F8A'>伤害数值：</font>%level_mul% × 技能等级 + %agi_mul% × <font color='#26E030'>敏捷</font>,"Minro will backflip and slash enemies in his path, dealing damage and stun.<br><br>Meira can spell 「Exorcism.Purification And Crusade」 in %next_time% after spelling.<br><br><font color='#5A6F8A'>Stun Duration: </font>%stun_dur%<br><font color='#5A6F8A'>Move Distance:</font>%back_length%<br><font color='#5A6F8A'>Slash Width: </font>%back_width%<br><font color='#5A6F8A'>Damage: </font>%level_mul% × Ability's Level + %agi_mul% × <font color='#26E030'>Agility</font>"
-DOTA_Tooltip_ability_ability_thdots_meira01_3,「伏魔.净讨」,「Exorcism.Purification And Crusade」
-DOTA_Tooltip_ability_ability_thdots_meira01_3_description,再次后空翻。然后向前突刺，推走单位并造成伤害。<br><br><font color='#5A6F8A'>突刺伤害：</font>%dash_level_mul% × 技能等级 + %dash_agi_mul% × <font color='#26E030'>敏捷</font>,"Meira will backflip once again, and thrust forward quickly and immediately after landing, dealing damage to units in range, and they will be pushed for some distance.<br><br><font color='#5A6F8A'>Backflip Duration: </font>%back_duration%<br><font color='#5A6F8A'>Backflip Distance: </font>%back_length%<br><font color='#5A6F8A'>Thrust Distance: </font>%dash_distance%<br><font color='#5A6F8A'>Thrust Width: </font>%dash_width%<br><font color='#5A6F8A'>Thrust Damage: </font>%dash_level_mul% × Ability's level + %dash_agi_mul% × <font color='#26E030'>Agility</font>"
-DOTA_Tooltip_ability_ability_thdots_meira02,「地走.血海」,「Land Changed.Blood Sea」
-DOTA_Tooltip_ability_ability_thdots_meira02_description,明罗瞬移到目标背后，造成伤害、晕眩和击退，附带一次天生效果。<br><br><font color='#5A6F8A'>伤害数值：</font>%int_bonus%倍<font color='#5BC0DE'>智力</font>。,"Meira move immediately to the location behind units, dealing a precision strike to close units, stuning and knocking back close units, and dealing damage for <font color='#5BC0DE'>Intelligence</font> × %int_bonus%, with a dark power swordiness effect."
-DOTA_Tooltip_ability_ability_thdots_meira02_knockback_dist,击退距离：,Knock Back Distance
-DOTA_Tooltip_ability_ability_thdots_meira02_note0,眩晕时间不包括击退时间。,Stun duration don't include knock back duration.
-DOTA_Tooltip_ability_ability_thdots_meira02_stun_dur,眩晕时间：,"Stun Duration: "
-DOTA_Tooltip_ability_ability_thdots_meira03,「居合.明月」,「Iaido.Bright Moon」
-DOTA_Tooltip_ability_ability_thdots_meira03_description,明罗收刀进入防守反击姿态。期间若受到来自少女的伤害，立即击飞周围单位。<br><br>伤害数值为%agi_mul%倍<font color='#26E030'>敏捷</font>。若当前<font color='#26E030'>敏捷</font>大于%agi_pure_floor%，伤害类型变成<font color='#d8ae54'>纯粹</font>。,"Meira will in the posture of defence and fight back.<br><br>In this time, if Meira recives the attack or ability damage from other girls, she will slash and knock back close units immidiately, dealing damage with the number of %agi_mul% × <font color='#26E030'>Agility</font><br><br>if <font color='#26E030'>Agility</font> is more than %agi_pure_floor%, the damage type will be <font color='#d8ae54'>Pure</font>.<br><br>She can fight back in advance if she spell moving actively."
-DOTA_Tooltip_ability_ability_thdots_meira03_knockback_duration,击飞时间：,"Knockback Duration: "
-DOTA_Tooltip_ability_ability_thdots_meira03_note0,主动释放位移技能会提前进入反击。,"If the damage source has a reverse damage effect, the defense of this skill will not trigger."
-DOTA_Tooltip_ability_ability_thdots_meira04_1,「绝剑.壹佰肆拾尊」,「Sword.The One Hundred and Thirty Arhats」
-DOTA_Tooltip_ability_ability_thdots_meira04_1_AbilityCastRange,施法范围：,"Cast Range: "
-DOTA_Tooltip_ability_ability_thdots_meira04_1_description,明罗将瞬移到目标背后，造成三次伤害，削减目标攻速和移速，不可驱散。<br><br>三次伤害基础%damage_const%，分别增加<font color='#DC143C'>力量</font> × %str_mul%，<font color='#26E030'>敏捷</font> × %agi_mul%，<font color='#5BC0DE'>智力</font> × %int_mul%。,"Meira will move to the location behind target. Then appears directly in front of the target with Meira's doppelganger cutting three slash at great speed, and the damage of slash is <font color='#DC143C'>Strength</font> × %str_mul%，<font color='#26E030'>Agility</font> × %agi_mul%，<font color='#5BC0DE'>Intelligence</font> × %int_mul%, and there is a constant damage at per slash with %damage_const%.<br><br>After slash, the number of target unit's move speed and attack speed will be reduced. The effect can't be purged.<br><br>If Meira has acquired 「Sword.All Sides」, Meira can spell this abiltiy in %next_dur% seconds after spelling."
-DOTA_Tooltip_ability_ability_thdots_meira04_1_note0,获得二段后，释放本技能后%next_time%秒内可使用二段。,
-DOTA_Tooltip_ability_ability_thdots_meira04_1_speed_dur,减速时间：,"Speed Reduction Time: "
-DOTA_Tooltip_ability_ability_thdots_meira04_1_speed_pct,%速度削减：,"%Speed Reduction: "
-DOTA_Tooltip_ability_ability_thdots_meira04_2,「绝剑.四方」,「Sword.All Sides」
-DOTA_Tooltip_ability_ability_thdots_meira04_2_description,无敌%duration%秒，释放法阵，造成伤害。<br><br><font color='#5A6F8A'>伤害：</font><font color='#FFFFFF'>%basic_damage%</font> + <font color='#26E030'>敏捷</font> × <font color='#FFFFFF'>%agi_mul%</font>。,Meira will be invincible and mark a square in place. The unit in the square will take a slash damaged that is <font color='#d8ae54'>pure</font> with <font color='#FFFFFF'>%basic_damage%</font> + <font color='#26E030'>Agility</font> × <font color='#FFFFFF'>%agi_mul%</font>.
-DOTA_Tooltip_ability_ability_thdots_meira05,刀符「明罗.尊者」,Sword「Meira.Arhats」
-DOTA_Tooltip_ability_ability_thdots_meira05_damage_rad_pct,%减伤比例：,"%Damage Reduction: "
-DOTA_Tooltip_ability_ability_thdots_meira05_description,明罗进入冥想姿态，期间减伤。\n<h1>冥想期间如果受到少女伤害：</h1>打断冥想，刷新天生，对伤害来源施加%sword_time%次伤害。\n<h1>冥想期间如果进入眩晕、沉默、恐惧：</h1>打断冥想，立即释放「居合.明月」，并获得%immune_dur%秒无敌。,"Bring the knife back to the handle and enter meditation mode, during which damage from other girls will be reduced.\n<h1>Meditation is interrupted by girls' damage</h1>If Meira takes damage from girls during meditation, she can refresh 「Dark Power」 and fire a sword against the girl.\n<h1>Meditation is interrupted by special effect</h1>If meditation is interrupted by a special state, she will spell 「Iaido.Bright Moon」 and gain invincibles with %immune_dur% seconds."
-DOTA_Tooltip_ability_ability_thdots_meira05_lore,明罗尊者，壹佰肆拾，五百罗汉，降伏众魔，洞察众生，最上彼岸，心极平等，虚空无边，地火风缘，金刚不坏，以此一击，万籁俱寂，度化众生。,
-DOTA_Tooltip_ability_ability_thdots_meira05_note0,伤害为「黑暗的力量」的剑气效果。,"If the damage source has a reverse damage effect, the defense of this skill will not trigger."
-DOTA_Tooltip_ability_ability_thdots_meira05_scepter_description,获得技能刀符「明罗.尊者」,Acquire Ability named Sword「Meira.Arhats」
-DOTA_Tooltip_ability_ability_thdots_meiraEx,「黑暗的力量」,「Dark Power」
-DOTA_Tooltip_ability_ability_thdots_meiraEx_description,<h1>基础效果</h1>明罗每次释放技能后，下次普攻附带剑气，伤害为当前<font color='#DC143C'>力量</font>。\n<h1>大招等级达到<font color='#FFFFFF'>1</font>后：</h1>主动使用本技能时，明罗向前跳跃%B_jump_dist%码。\n<h1>大招等级达到<font color='#FFFFFF'>3</font>后：</h1>「绝剑.壹佰肆拾尊」解锁二段。,"The effect of this abiltiy will be added by the upgrade of 「Sword.The One Hundred and Thirty Arhats」.\n<h1>The level of「Sword.The One Hundred and Thirty Arhats」 is <font color='#FFFFFF'>0</font>: </h1>If Meira spell ability, there will be an additional danmaku damage, and the range of that is %A_damage_len%×%A_damage_wid%.\n<h1>The level of「Sword.The One Hundred and Thirty Arhats」 is <font color='#FFFFFF'>1</font>: </h1>If Meira spell this ability, she will jump that with %B_jump_dist%. She can ignore damage in the period.\n<h1>The level of「Sword.The One Hundred and Thirty Arhats」 is <font color='#FFFFFF'>2</font>: </h1>The cast range of 「Sword.The One Hundred and Thirty Arhats」 will be increased。\n<h1>The level of「Sword.The One Hundred and Thirty Arhats」 is <font color='#FFFFFF'>3</font>: </h1>Meira will acquire the ability named 「Sword.All Sides」."
-DOTA_Tooltip_ability_ability_thdots_meiraEx_lore,以凡人之躯挑战妖怪神明，其心只为修行悟道，当剑道大成之时，即是蝼蚁也要蚀骨钻心。,
-DOTA_Tooltip_ability_ability_thdots_meiraEx_note0,剑气范围为笔直的%A_damage_len%×%A_damage_wid%矩形（中心点为明罗身前%A_damage_len%）。,
 DOTA_Tooltip_ability_ability_thdots_meirin01,气符「地龙天龙脚」,Chi Sign「Earth Dragon Sky Dragon Kick」
 DOTA_Tooltip_ability_ability_thdots_meirin01_Description,向目标地点飞踢过去，把路径上的所有敌方单位踢到终点，并对她们造成伤害。,"Meiling unleashes a flying kick towards the target location, dragging along any girls along the way and dealing damage to them."
 DOTA_Tooltip_ability_ability_thdots_meirin01_range,最远距离：,"CAST RANGE: "
@@ -1384,24 +1243,6 @@ DOTA_Tooltip_ability_ability_thdots_miko04_Description,指定一个友方少女�
 DOTA_Tooltip_ability_ability_thdots_miko04_healcount,每秒治疗：,"HEALING PER SECOND: "
 DOTA_Tooltip_ability_ability_thdots_miko04_lore,从长眠中苏醒过来的圣人。刚出生时就已经拥有非同寻常的才能，远远超越了人类的超级人物。,"A saint awakened from a long sleep. From the moment of her birth, she possessed extraordinary talents, and was one who was fated to surpass humanity."
 DOTA_Tooltip_ability_ability_thdots_miko04_note0,蓄力满后打断施法将直接降临到友方少女身旁,
-DOTA_Tooltip_ability_ability_thdots_miko2_1,名誉「十二阶之色彩」,
-DOTA_Tooltip_ability_ability_thdots_miko2_1_Description,开启后，每秒发射%num%个弹幕追踪%radius%范围内最近的敌人造成<font color='#FFFFFF'>基础伤害</font>+%mana_damage_percent%%%最大魔法值的魔法伤害。\n如果敌人被神光「无忤为宗」控制，则弹幕追踪该敌人。\n每发弹幕魔法消耗%mana_cost_constant% + %mana_cost_percent%%%,
-DOTA_Tooltip_ability_ability_thdots_miko2_1_Note0,可以发射弹幕攻击战争迷雾中乃至隐身的敌人，但是不会造成伤害，且无法实时追踪她们的位置。,
-DOTA_Tooltip_ability_ability_thdots_miko2_1_damage,基础伤害：,
-DOTA_Tooltip_ability_ability_thdots_miko2_2,神光「无忤为宗」,
-DOTA_Tooltip_ability_ability_thdots_miko2_2_Description,持续控制一个敌方少女，持续期间双方无法行动。\n施法距离：%cast_range%,
-DOTA_Tooltip_ability_ability_thdots_miko2_2_damage,每秒造成伤害：,
-DOTA_Tooltip_ability_ability_thdots_miko2_2_duration,持续时间：,
-DOTA_Tooltip_ability_ability_thdots_miko2_3,德符「圣德的威望」,
-DOTA_Tooltip_ability_ability_thdots_miko2_3_Description,<h1>主动</h1>神子在%duration%秒内的下一次普攻将附带%radius%范围的魔法伤害，范围内的敌人将受到持续%slow_duration%秒%slow_percent%%%的减速\n力量加成：%strength_bonus%\n<h1>被动</h1>获得%percent%%%技能吸血,
-DOTA_Tooltip_ability_ability_thdots_miko2_3_Lore,此剑斩尽桃花岛奸小,
-DOTA_Tooltip_ability_ability_thdots_miko2_3_damage,范围伤害：,
-DOTA_Tooltip_ability_ability_thdots_miko2_4,「新生的神灵」,
-DOTA_Tooltip_ability_ability_thdots_miko2_4_Description,完全降低目标敌方少女的移动速度，在%duration%内逐渐恢复正常。期间生成4个%damage%点伤害的弹幕攻击目标\n神子可以再次释放技能向目标突进（即使目标死亡），沿途造成%last_damage%点魔法伤害\n若该目标在减速期间死亡，神子将获得一层能量点数，每层能量点数提高%stack_damage%点伤害。,
-DOTA_Tooltip_ability_ability_thdots_miko2_4_scepter_description,降低30秒冷却时间，且神子向目标突进后将在负面状态结束时再次飞向敌人并沿途造成伤害。,
-DOTA_Tooltip_ability_ability_thdots_miko2_Ex,「尸解仙」,
-DOTA_Tooltip_ability_ability_thdots_miko2_Ex_Description,<h1>被动：</h1>免疫致死伤害并对自身施加强驱散，同时获得%duration%秒内匀速衰减的护盾，护盾值为等级x%shield%,
-DOTA_Tooltip_ability_ability_thdots_miko2_Ex_Note0,这个效果对小町的终极技能「余命无几许」无效且仍然会进入冷却。,
 DOTA_Tooltip_ability_ability_thdots_mikoEx,「能够同时听十人讲话程度的能力」,「The Ability to Listen to Ten People at the Same Time」
 DOTA_Tooltip_ability_ability_thdots_mikoEx_Description,神子可以听到附近%radius%范围内敌人的呼吸。,Miko can hear her enemies' breathing. Grants a small amount of vision (but not True Sight) around nearby visible enemies.
 DOTA_Tooltip_ability_ability_thdots_mikoEx_lore,救救我啊！神子A梦！ 这样大喊的话耳朵灵光的她或许能听到。,"If you shout 'Help meee, Mikoemooon!', she might hear you with her sharp ears."
@@ -1845,7 +1686,7 @@ DOTA_Tooltip_ability_ability_thdots_reisen_2_02_scepter_description,增加一个
 DOTA_Tooltip_ability_ability_thdots_reisen_2_03,捣符「愚者的反抗」,Pound Sign「Fool's Rebellion」
 DOTA_Tooltip_ability_ability_thdots_reisen_2_03_Description,<h1>被动: </h1>每过一段时间的下次一次攻击，造成额外纯粹伤害并回复生命值，每次攻击敌人或被敌人攻击，都将减少一秒所需时间。,Empowers your attacks with additional pure damage every few seconds and heals you for a portion of the extra pure damage dealt. The cooldown is reduced by 1 second every time you attack an enemy or are attacked by an enemy.
 DOTA_Tooltip_ability_ability_thdots_reisen_2_03_Lore,勤练带来力量，自律已有成果。,"With practice comes strength, and self-discipline bears fruit."
-DOTA_Tooltip_ability_ability_thdots_reisen_2_03_Note0,无法被破坏。\n冷却完毕时即刻攻击，额外攻击不会触发分裂。,"Attack instantly after the cooldown, extra attack can not cleave."
+DOTA_Tooltip_ability_ability_thdots_reisen_2_03_Note0,冷却完毕时即刻攻击，额外攻击不会触发分裂。,"Attack instantly after the cooldown, extra attack can not cleave."
 DOTA_Tooltip_ability_ability_thdots_reisen_2_03_Note1,攻击防御塔时，可以造成一次纯粹伤害，,Deals only 1 pure damage to towers.
 DOTA_Tooltip_ability_ability_thdots_reisen_2_03_agility_bonus,敏捷加成：,"BONUS DAMAGE PER AGI: "
 DOTA_Tooltip_ability_ability_thdots_reisen_2_03_cooldown,冷却时间：,"COOLDOWN: "
@@ -2135,7 +1976,7 @@ DOTA_Tooltip_ability_ability_thdots_seijaEx,逆符「天下翻覆」,Reverse Sig
 DOTA_Tooltip_ability_ability_thdots_seijaEx_AbilityCastRange,施法距离：,"Cast range: "
 DOTA_Tooltip_ability_ability_thdots_seijaEx_duration,持续时间：,"Duration: "
 DOTA_Tooltip_ability_ability_thdots_shikieiki01,审判「Guilty or Not Guilty」,Judgement「Guilty or Not Guilty」
-DOTA_Tooltip_ability_ability_thdots_shikieiki01_AOE,作用范围：,"%RADIUS: "
+DOTA_Tooltip_ability_ability_thdots_shikieiki01_AOE,作用范围：,"RADIUS: "
 DOTA_Tooltip_ability_ability_thdots_shikieiki01_AbilityCastRange,施法距离：,"CAST RANGE: "
 DOTA_Tooltip_ability_ability_thdots_shikieiki01_Description,被动：降低持有罪名的少女的移动速度，罪名最多叠加%max_accusation_num%条。\n主动：为范围内敌方少女添加1条罪名并短时间标记目标，使其在击杀单位时清除罪名并受到额外伤害，若击杀了少女则受到基于最大生命值的伤害，罪名越多伤害越高。,"<h1>Passive:</h1>Enemies with the Guilt status are slowed.\n<h1>Active:</h1>Places a Guilt stack on enemy girls in radius and marks them. When the marked target kills a unit, consumes all Guilt stacks from the target to deal additional damage to itself. If the victim is girl, the damage is based on the killer's max health. Each Guilt stack consumed increases the damage dealt."
 DOTA_Tooltip_ability_ability_thdots_shikieiki01_Lore,单纯以强大的力量裁决对方是否有罪，宛如地狱一般的审判。,Using physical force to decide whether or not they were guilty truly is a hell-like trial.
@@ -2159,7 +2000,7 @@ DOTA_Tooltip_ability_ability_thdots_shikieiki03_damage_on_max_accusation,每层�
 DOTA_Tooltip_ability_ability_thdots_shikieiki03_scepter_description,去除叠罪上限，攻击时50%%概率额外增加一层罪名,"Removes max stacks of guilt, and Eiki has a 50%% chance to inflict an additional Guilt stack with each attack."
 DOTA_Tooltip_ability_ability_thdots_shikieiki04,审判「Last Judgement」,Judgement「Last Judgement」
 DOTA_Tooltip_ability_ability_thdots_shikieiki04_AbilityCastRange,施法距离：,"CAST RANGE: "
-DOTA_Tooltip_ability_ability_thdots_shikieiki04_Description,目标少女无法使用主动技能和所有物品，其被动技能也会暂时失效，在持续时间内每秒对其造成纯粹伤害。如果目标少女在四季映姬的周边%radius_keep_duration%码范围内，审判的时间不会减少。,"The target girl cannot use spells and items, has their passive abilities disabled, takes pure damage every second. The duration won't count down as long as they stay near Eiki."
+DOTA_Tooltip_ability_ability_thdots_shikieiki04_Description,目标少女无法使用主动技能和所有物品，在持续时间内每秒对其造成纯粹伤害。如果目标少女在四季映姬的周边%radius_keep_duration%码范围内，审判的时间不会减少。,"The target girl cannot use spells and items, has their passive abilities disabled, takes pure damage every second. The duration won't count down as long as they stay near Eiki."
 DOTA_Tooltip_ability_ability_thdots_shikieiki04_Note0,不能对技能免疫单位施放，但是伤害和限制效果无视技能免疫。,"Cannot be cast on spell immune targets, but the damage and debuffs ignore spell immunity."
 DOTA_Tooltip_ability_ability_thdots_shikieiki04_debuff_damage_per_sec,每秒伤害：,"DAMAGE PER SECOND: "
 DOTA_Tooltip_ability_ability_thdots_shikieiki04_debuff_duration,审判持续时间：,"DURATION: "
@@ -2477,7 +2318,7 @@ DOTA_Tooltip_ability_ability_thdots_tensi03_max_stack_count,最大层数：,"STA
 DOTA_Tooltip_ability_ability_thdots_tensi03_scepter_description,获得新技能：气符「无念无想的境界」,Grants the spell Spirit Sign「State of Freedom from Worldly Thoughts」
 DOTA_Tooltip_ability_ability_thdots_tensiex,气符「无念无想的境界」,Spirit Sign「State of Freedom from Worldly Thoughts」
 DOTA_Tooltip_ability_ability_thdots_tensiex_AbilityCastRange,,"CAST RANGE: "
-DOTA_Tooltip_ability_ability_thdots_tensiex_Description,天子能够操控任意个体的气质，破坏目标的被动技能，使其获得%damage_reduction_percent%%%减伤，但不可进行攻击、使用技能和道具，持续%duration%s。若目标为友方单位，则还会使其获得%hp_regen%%%每秒的最大生命恢复。\n施法距离：800,"Tenshi manipulates a girl's temperaments, granting %damage_reduction_percent%%% damage reduction but disabling her passives and preventing her from attacking, casting spells or using items for %duration% seconds. If the target is an ally, they restore %hp_regen%%% of their max HP per second."
+DOTA_Tooltip_ability_ability_thdots_tensiex_Description,天子能够操控任意个体的气质，使其获得%damage_reduction_percent%%%减伤，但不可进行攻击、使用技能和道具，持续%duration%s。若目标为友方单位，则还会使其获得%hp_regen%%%每秒的最大生命恢复。\n施法距离：800,"Tenshi manipulates a girl's temperaments, granting %damage_reduction_percent%%% damage reduction but preventing her from attacking, casting spells or using items for %duration% seconds. If the target is an ally, they restore %hp_regen%%% of their max HP per second."
 DOTA_Tooltip_ability_ability_thdots_tojiko01,神明「稻目之怨」,Deity「Iname's Resentment」
 DOTA_Tooltip_ability_ability_thdots_tojiko01_Description,向目标位置打出两串直线的闪电，对目标地点[%width%*%length%]范围内造成基础 + [目标护甲 * %armor_damage_bonus%]法术伤害并在击中少女的情况下眩晕其%stun_duration%秒。,"Summons two rows of lightning towards the target location, causing additional damage equal to %armor_damage_bonus% times the target's armor within a %width%x%length% area. When the lightning hits an enemy girl, it will stun for %stun_duration% seconds."
 DOTA_Tooltip_ability_ability_thdots_tojiko01_cast_range,施法距离：,"CAST RANGE: "
@@ -2567,10 +2408,8 @@ DOTA_Tooltip_ability_ability_thdots_yamame02_passive_damage,%转换物理伤害�
 DOTA_Tooltip_ability_ability_thdots_yamame02_radius,影响范围：,"Radius: "
 DOTA_Tooltip_ability_ability_thdots_yamame03,瘴气「原因不明之热病」,Miasma「Unexplained Fever」
 DOTA_Tooltip_ability_ability_thdots_yamame03_Description,让目标敌方单位得到热病。\n持续%duration%秒，持续时间内该单位每秒受到法术伤害并处于受伤状态。\n若该单位死亡时热病依然存在，会传染至%radius%范围内%num%位敌方单位上（优先传染没有获得热病的。）\n可叠加，并且叠加的每一个热病都会传染\n处于受伤状态的目标受到的治疗与回复效果降低%regen_reduce%%%。,"Fevers an enemy for %duration% seconds.\nThe enemy takes magical damage per second and is in the state of Injured.\nInjured targets' HP regeneration and healing reduce by %regen_reduce%%%.\nIf an fevered unit dies, the fever will infect %num% enemies within %radius%.(infects enemies not fevered first)\nStackable, and every single state of fever is infectious."
-DOTA_Tooltip_ability_ability_thdots_yamame03_cast_range,施法距离：,"Cast Range: "
 DOTA_Tooltip_ability_ability_thdots_yamame03_damage,每秒伤害：,"Damage(per second): "
 DOTA_Tooltip_ability_ability_thdots_yamame04,细网「犍陀多绳索」,Small Thread「Kandata's Rope」
-DOTA_Tooltip_ability_ability_thdots_yamame04_cast_range,施法距离：,"Cast Range: "
 DOTA_Tooltip_ability_ability_thdots_yamame04_duration,缠绕时间：,"Root duration: "
 DOTA_Tooltip_ability_ability_thdots_yamame04_times,连续使用次数：,"Number of Charges: "
 DOTA_Tooltip_ability_ability_thdots_yamameEx,病符「瘴气场」,Miasma Sign「Filled Miasma」
@@ -2624,7 +2463,7 @@ DOTA_Tooltip_ability_ability_thdots_yasaka41_radius,影响范围：,"DROP RADIUS
 DOTA_Tooltip_ability_ability_thdots_yasaka41_rate,掉落频率：,"ONBASHIRA PER SECOND: "
 DOTA_Tooltip_ability_ability_thdots_yasaka41_stun_duration,眩晕时间：,"STUN DURATION: "
 DOTA_Tooltip_ability_ability_thdots_yasaka42,「神明的威光」,「Sacred Authority of the Gods」
-DOTA_Tooltip_ability_ability_thdots_yasaka42_Description,神奈子使一片区域内敌方单位的速度大幅度下降，普通攻击有概率落空，被动技能也完全失效。该效果无法被驱散。,"Kanako debuffs enemies in the target area, disabling their passives, slowing them down and blinding them. Cannot be dispelled."
+DOTA_Tooltip_ability_ability_thdots_yasaka42_Description,神奈子使一片区域内敌方单位的速度大幅度下降，普通攻击有概率落空。该效果无法被驱散。,"Kanako debuffs enemies in the target area, slowing them down and blinding them. Cannot be dispelled."
 DOTA_Tooltip_ability_ability_thdots_yasaka42_Lore,在神奈子所习得的结界里，有一种能使胆敢挑战神的无知之徒们感受到强大威压的神光结界。,Among the various boundary techniques Kanako knows is a barrier of divine light which exerts intense pressure on any fool who would dare challenge a god.
 DOTA_Tooltip_ability_ability_thdots_yasaka42_attack_miss_pct,攻击落空几率：,"%MISS CHANCE: "
 DOTA_Tooltip_ability_ability_thdots_yasaka42_duration,持续时间：,"DURATION: "
@@ -2840,9 +2679,6 @@ DOTA_Tooltip_ability_ability_thdots_yuuka04,幻想「花鸟风月、啸风弄月
 DOTA_Tooltip_ability_ability_thdots_yuuka04_AbilityCastRange,施法距离：,"CAST RANGE: "
 DOTA_Tooltip_ability_ability_thdots_yuuka04_Description,指定一朵向日葵，将该向日葵幻化成自己的分身，分身会在本体施放技能时施放相同技能。,"Yuuka converts a sunflower into an illusion of herself. Whenever Yuuka casts a spell, the illusion will cast the same spell simultaneously."
 DOTA_Tooltip_ability_ability_thdots_yuuka04_duration,持续时间：,"DURATION: "
-DOTA_Tooltip_ability_ability_thdots_yuumaEx,战无不胜的刚欲同盟盟主，随无限食欲成长的晚成型。,Refinement「Recollection of Cursed Blood」
-DOTA_Tooltip_ability_ability_thdots_yuumaEx_Description,尤魔每秒损失%curr_hp_loss_pct%%%当前生命值。当前生命值低于%hp_threshold%%%时，消耗速度减半。<br>每有%every_max_hp%点最大生命值获得%as_every_max_hp%攻击速度，每损失%every_loss_hp%点生命值获得%as_every_loss_hp%攻击速度。,"Yuuma loses %curr_hp_loss_pct%%% current health per second. When current health is below %hp_threshold%%%, the losing speed is halved.<br>Gains %as_every_max_hp% attack speed for every %every_max_hp% max health, and %as_every_loss_hp% attack speed for every %every_loss_hp% missing health."
-DOTA_Tooltip_ability_ability_thdots_yuumaEx_Lore,,"Undefeated Matriarch of the Gouyoku Alliance, Late-Blooming Type who Grows via Infinite Appetite."
 DOTA_Tooltip_ability_ability_thdots_yuyuko01,樱符「全然墨染之樱」,Cherry Blossom Sign「Perfect Ink-Black Cherry Blossom」
 DOTA_Tooltip_ability_ability_thdots_yuyuko01_AbilityCastRange,施法距离：,"CAST RANGE: "
 DOTA_Tooltip_ability_ability_thdots_yuyuko01_Description,向前方施放一道樱花波，对一条直线上的敌方单位造成伤害。,"Sends a wave of cherry blossoms towards the target point, damaging enemies alone the path."
@@ -3084,10 +2920,10 @@ DOTA_Tooltip_ability_item_card_kid_man,逗人卡,Joker's Card
 DOTA_Tooltip_ability_item_card_kid_man_Description,<h1>使用：我便是要来逗人</h1>选择目标少女，延迟%delay%秒后使其向面朝方向推进350距离\n眩晕状态可以使用。,"<h1>Use: I Just Want to be Funny</h1>After a %delay% second delay, the target will be pushed 350 units in the direction they are currently facing.<br><br>Usable while stunned.<br><br>Cast Range: %AbilityCastRange%"
 DOTA_Tooltip_ability_item_card_kid_man_Lore,I am a Joker,I am a Joker
 DOTA_Tooltip_ability_item_card_kid_man_Note0,该物品在队友间完全共享。<br>与其他所有的卡共享冷却时间。<br><br>商店补充存货时间：120秒<br>商店存货上限：2<br><br>效果无法驱散,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2<br><br>The effect cannot be dispelled.
-DOTA_Tooltip_ability_item_card_kid_man_shop,逗人卡（商店展示）,Joker's Card
-DOTA_Tooltip_ability_item_card_kid_man_shop_Description,<h1>使用：我便是要来逗人</h1>使自身延迟%delay%秒后向面朝方向推进350距离\n眩晕状态可以使用。,"<h1>Use: I Just Want to be Funny</h1>After a %delay% second delay, the target will be pushed 350 units in the direction they are currently facing.<br><br>Usable while stunned."
-DOTA_Tooltip_ability_item_card_kid_man_shop_Lore,I am a Joker,I am a Joker
-DOTA_Tooltip_ability_item_card_kid_man_shop_Note0,该物品在队友间完全共享。<br>与其他所有的卡共享冷却时间。<br><br>商店补充存货时间：120秒<br>商店存货上限：2<br><br>效果无法驱散,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2<br><br>The effect cannot be dispelled.
+DOTA_Tooltip_ability_item_card_kid_man_shop,,Joker's Card
+DOTA_Tooltip_ability_item_card_kid_man_shop_Description,,"<h1>Use: I Just Want to be Funny</h1>After a %delay% second delay, the target will be pushed 350 units in the direction they are currently facing.<br><br>Usable while stunned."
+DOTA_Tooltip_ability_item_card_kid_man_shop_Lore,,I am a Joker
+DOTA_Tooltip_ability_item_card_kid_man_shop_Note0,,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2<br><br>The effect cannot be dispelled.
 DOTA_Tooltip_ability_item_card_love_man,爱人卡,Lover's Card
 DOTA_Tooltip_ability_item_card_love_man_Description,<h1>使用：你是一个爱人</h1>为目标友方少女回复%heal_amount%点生命值。30分钟后效果翻倍。<br><br>施法距离：%AbilityCastRange%,<h1>Use: You're a Loving Girl</h1>Instantly heal the target by %heal_amount%.<br><br>The effect is doubled after 30 minutes.<br><br>Cast Range: %AbilityCastRange%
 DOTA_Tooltip_ability_item_card_love_man_Lore,,You're my Lover
@@ -3100,18 +2936,18 @@ DOTA_Tooltip_ability_item_card_moon_man,月人卡,Lunarian's Card
 DOTA_Tooltip_ability_item_card_moon_man_Description,<h1>使用：我是外星人</h1>只对自己释放诡计之雾，并增加%movement_bonus%移速，持续%duration%秒。,"<h1>Use: I am an Alien</h1>Casts Smoke of Deceit on yourself only, and you gain %movement_bonus% flat movement speed for %duration% seconds."
 DOTA_Tooltip_ability_item_card_moon_man_Lore,I am a Alien,I am an Alien
 DOTA_Tooltip_ability_item_card_moon_man_Note0,该物品在队友间完全共享。<br>与其他所有的卡共享冷却时间。<br><br>商店补充存货时间：120秒<br>商店存货上限：2,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2
-DOTA_Tooltip_ability_item_card_moon_man_shop,月人卡,Lunarian's Card
-DOTA_Tooltip_ability_item_card_moon_man_shop_Description,<h1>使用：我是外星人</h1>只对自己释放诡计之雾，并增加%movement_bonus%移速，持续%duration%秒。,"<h1>Use: I am an Alien</h1>Casts Smoke of Deceit on yourself only, and you gain %movement_bonus% flat movement speed for %duration% seconds."
-DOTA_Tooltip_ability_item_card_moon_man_shop_Lore,I am a Alien,I am an Alien
-DOTA_Tooltip_ability_item_card_moon_man_shop_Note0,该物品在队友间完全共享。<br>与其他所有的卡共享冷却时间。<br><br>商店补充存货时间：120秒<br>商店存货上限：2,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2
+DOTA_Tooltip_ability_item_card_moon_man_shop,,Lunarian's Card
+DOTA_Tooltip_ability_item_card_moon_man_shop_Description,,"<h1>Use: I am an Alien</h1>Casts Smoke of Deceit on yourself only, and you gain %movement_bonus% flat movement speed for %duration% seconds."
+DOTA_Tooltip_ability_item_card_moon_man_shop_Lore,,I am an Alien
+DOTA_Tooltip_ability_item_card_moon_man_shop_Note0,,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2
 DOTA_Tooltip_ability_item_card_super_man,超人卡,Superhuman's Card
 DOTA_Tooltip_ability_item_card_super_man_Description,<h1>使用：我是一个超人</h1>%duration%秒内提升%bonus_damage_percentage%%%状态抗性。,<h1>Use: I am a Superhuman</h1>Grants %bonus_damage_percentage%%% status resistance for %duration% seconds.
 DOTA_Tooltip_ability_item_card_super_man_Lore,I am a Super Man,I am a Superhuman
 DOTA_Tooltip_ability_item_card_super_man_Note0,该物品在队友间完全共享。<br>与其他所有的卡共享冷却时间。<br><br>商店补充存货时间：120秒<br>商店存货上限：2,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2
-DOTA_Tooltip_ability_item_card_super_man_shop,超人卡,Superhuman's Card
-DOTA_Tooltip_ability_item_card_super_man_shop_Description,"<h1>使用：我是一个超人</h1>使自身状态抗性提升%bonus_damage_percentage%%%,持续%duration%秒。",<h1>Use: I am a Superhuman</h1>Grants %bonus_damage_percentage%%% status resistance for %duration% seconds.
-DOTA_Tooltip_ability_item_card_super_man_shop_Lore,I am a Super Man,I am a Superhuman
-DOTA_Tooltip_ability_item_card_super_man_shop_Note0,该物品在队友间完全共享。<br>与其他所有的卡共享冷却时间。<br><br>商店补充存货时间：120秒<br>商店存货上限：2,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2
+DOTA_Tooltip_ability_item_card_super_man_shop,,Superhuman's Card
+DOTA_Tooltip_ability_item_card_super_man_shop_Description,,<h1>Use: I am a Superhuman</h1>Grants %bonus_damage_percentage%%% status resistance for %duration% seconds.
+DOTA_Tooltip_ability_item_card_super_man_shop_Lore,,I am a Superhuman
+DOTA_Tooltip_ability_item_card_super_man_shop_Note0,,The item is fully shareable with allies.<br>Shares a cooldown with all other cards.<br><br>Restock Time: 120 seconds <br>Max Stock: 2
 DOTA_Tooltip_ability_item_card_worse_man,衰人卡,Sad Girl Card
 DOTA_Tooltip_ability_item_card_worse_man_Description,<h1>使用：你是一个衰人</h1>吸取目标少女最多%absorb_mana_amount%点魔法值，为自己恢复等量的魔法值。并造成%absorb_damage%点纯粹伤害。30分钟后效果翻倍。<br><br>施法距离：%AbilityCastRange%,"<h1>Use: You're a Loser</h1>Steals up to %absorb_mana_amount% mana from the target. Deals pure damage based on mana stolen, up to %absorb_damage%.<br><br>The effect is doubled after 30 minutes.<br><br>Cast Range: %AbilityCastRange%"
 DOTA_Tooltip_ability_item_card_worse_man_Lore,,You are a Sad Girl
@@ -3213,7 +3049,7 @@ DOTA_Tooltip_ability_item_fan_bonus_intellect,+$int,+$int
 DOTA_Tooltip_ability_item_fan_bonus_strength,+$str,+$str
 DOTA_Tooltip_ability_item_fan_of_crow,,fan_of_crow
 DOTA_Tooltip_ability_item_feixiangjian,绯想剑,Sword of Hisou
-DOTA_Tooltip_ability_item_feixiangjian_Description,<h1>主动：气质破坏</h1>使目标无力使用任何物品，其被动技能也会失效，持续%duration%秒。<br><br>施法距离：%AbilityCastRange%\n<h1>被动：诅咒攻击</h1>每次普通攻击时有%chance%%%概率使目标降低%maim_movement_speed%%%移动速度和%maim_attack_speed%攻击速度，持续%debuff_duration%秒。,<h1>Active: Spirit Destruction</h1>Prevents the target from using items and disables their passives for %duration% seconds.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Curse Attack</h1>Grants each attack a %chance%%% chance to slow the target's movement speed by %maim_movement_speed%%% and attack speed by %maim_attack_speed% for %debuff_duration% seconds.
+DOTA_Tooltip_ability_item_feixiangjian_Description,<h1>主动：气质破坏</h1>使目标无力使用任何物品，持续%duration%秒。<br><br>施法距离：%AbilityCastRange%\n<h1>被动：诅咒攻击</h1>每次普通攻击时有%chance%%%概率使目标降低%maim_movement_speed%%%移动速度和%maim_attack_speed%攻击速度，持续%debuff_duration%秒。,<h1>Active: Spirit Destruction</h1>Prevents the target from using items for %duration% seconds.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Curse Attack</h1>Grants each attack a %chance%%% chance to slow the target's movement speed by %maim_movement_speed%%% and attack speed by %maim_attack_speed% for %debuff_duration% seconds.
 DOTA_Tooltip_ability_item_feixiangjian_bonus_attack_speed,+$attack,+$attack
 DOTA_Tooltip_ability_item_feixiangjian_bonus_damage,+$damage,+$damage
 DOTA_Tooltip_ability_item_feixiangjian_bonus_strength,+$str,+$str
@@ -3256,6 +3092,10 @@ DOTA_Tooltip_ability_item_ganggenier_bonus_agility,+$agi,+$agi
 DOTA_Tooltip_ability_item_ganggenier_bonus_damage,+$damage,+$damage
 DOTA_Tooltip_ability_item_ganggenier_bonus_strength,+$str,+$str
 DOTA_Tooltip_ability_item_ganggenier_note0,命运效果在装备的英雄对其他单位造成伤害时触发，造成一个额外的伤害实例，其伤害类型是纯粹。,"Fate triggers when the wielder deals damage to other units, causing an additional instance of pure damage."
+DOTA_Tooltip_ability_item_gap_creator,八云间隙发生器,Yakumo Sukima Generator
+DOTA_Tooltip_ability_item_gap_creator_Description,<h1>被动：间隙</h1>降低间隙通行证的冷却时间。\n多个扫把类物品提供的移动速度加成不叠加。,<h1>Passive: Gap</h1>Reduces the cooldown for Gap Ticket. Gap Ticket can be used to teleport to any friendly non-girl unit.\nMovement speed bonuses from multiple brooms do not stack.
+DOTA_Tooltip_ability_item_gap_creator_bonus_movement_speed,+$move_speed,+$move_speed
+DOTA_Tooltip_ability_item_gap_creator_lore,有了这个就不用再凭票排队了。,"With this, there's no more need to line up for tickets."
 DOTA_Tooltip_ability_item_gem,鸦天狗,Baby Tengu
 DOTA_Tooltip_ability_item_gem_Description,<h1>被动：真实视域</h1> 携带者自身和周围%radius%范围内的友方单位可以看见隐身单位和守卫。\n<h1>被动：永恒</h1><font color='#e03e2e'>死亡后掉落，而且不能被摧毁。</font>,"<h1>Passive: True Sight</h1>Grants the ability to see invisible units and wards to any allied vision within %radius% range of its carrier.\n<h1>Passive: Everlasting</h1><font color='#e03e2e'>Dropped on death, and cannot be destroyed.</font>"
 DOTA_Tooltip_ability_item_gem_Lore,传说中嗅觉异常灵敏的天狗可以看到平时看不到的东西哦！带一只天狗出门不再怕被偷袭了！,Legend has it that the hypersensitive tengu are able to see what others ordinarily cannot. Bring a tengu out and you'll never be afraid of sneak attacks!
@@ -3347,6 +3187,7 @@ DOTA_Tooltip_ability_item_horse_king_Description,<h1>切换：炽热</h1>开启�
 DOTA_Tooltip_ability_item_horse_king_bonus_all_stats,+$all,+$all
 DOTA_Tooltip_ability_item_horse_king_bonus_attack_speed,+$attack,+$attack
 DOTA_Tooltip_ability_item_horse_king_bonus_movement_speed,+$move_speed,+$move_speed
+DOTA_Tooltip_ability_item_horse_king_compressor,炽热彗星压缩包,Blazing Comet Compress Package
 DOTA_Tooltip_ability_item_horse_red,格斗扫把,Fighting Broom
 DOTA_Tooltip_ability_item_horse_red_Description,<h1>主动：格斗之力</h1>增加%bonus_health_regen%生命恢复，持续%duration%秒，受到来自少女的伤害会中断\n多个扫把类物品提供的移动速度加成不叠加。,"<h1>Active: Fighting Power</h1>Grants %bonus_health_regen% health regeneration to the target for %duration% seconds.<br><br>If you are attacked by an enemy girl, the effect is lost.\nMovement speed bonuses from multiple brooms do not stack."
 DOTA_Tooltip_ability_item_horse_red_bonus_attack_speed,+$attack,+$attack
@@ -3383,11 +3224,11 @@ DOTA_Tooltip_ability_item_jiaokeshu_Description,<h1>被动：历史教学</h1>�
 DOTA_Tooltip_ability_item_jiaokeshu_Note0,同类型道具减复活时间效果不会叠加；不与慧音的技能「最初的金字塔」叠加，「最初的金字塔」会覆盖道具的效果。,Doesn't stack with other items or skills which also reduce respawn timer.<br>Doesn't stack with Keine's「First Pyramid」and it will instead override the effect of this item.
 DOTA_Tooltip_ability_item_jiaokeshu_bonus_all_stats,+$all,+$all
 DOTA_Tooltip_ability_item_jiduzhixinyan,嫉妒之心眼,Green Eye of Jealousy
-DOTA_Tooltip_ability_item_jiduzhixinyan_Description,<h1>被动：桥下拉扯</h1>被敌方少女击杀时，暴露其视野%exposed_duration%秒，并降低其%heal_reduce%%%受治疗效果和视野半径，令其受到的伤害提升%bonus_damage_percentage%%%，直至自己复活或该少女死亡；如果击杀自己的敌方少女等级不低于自己，她还会受到(%damage%+等级差×%per_level_damage%)点纯粹伤害。,"<h1>Passive: Pull Under the Bridge</h1>When an enemy girl kills you, your team gains vision of her for %exposed_duration% seconds. Her healing and vision radius are reduced by %heal_reduce%%% and she takes %bonus_damage_percentage%%% more damage until you respawn or the target dies.<br><br>If your level is equal to or lower than the one who killed you, you also deal pure damage to her on death based on the level difference.<br><br>Base Damage: %damage%<br>Bonus Damage per Level Difference: %per_level_damage%"
-DOTA_Tooltip_ability_item_jiduzhixinyan_Note0,暴露视野的效果可驱散，其余效果无法驱散。,"The vision effect is dispellable, but the other effects cannot be dispelled."
-DOTA_Tooltip_ability_item_jiduzhixinyan_bonus_day_vision,+$day_vision,+$day_vision
+DOTA_Tooltip_ability_item_jiduzhixinyan_Description,<h1>主动：</h1>标记一个少女，当自身死亡时，若该少女处于死亡状态，该少女立即复活，自己增加%respawn_bonus%% 复活时间。<br>对其他少女真身施法设定标记，对自己真身施法取消标记。<br>若目标少女已标记其他少女则不会被触发。\n<h1>被动：</h1>自身死亡后，%bonus_aura_duration%秒内恢复己方所有少女%bonus_aura_health_regen_pct%% 生命值，并提供%bonus_aura_movespeed%% 移速加成。,"<h1>Active:</h1>Mark a girl so that she can respawn immediatly, when you die and have to increase respawn time with %respawn_bonus%% .<br>Spell other girls to make a mark, or spell yourself to cancel the mark.<br>There will be no effect if target girl has marked others.\n<h1>Passive: </h1>During %bonus_aura_duration% seconds after dying, all ally grils will be healed with %bonus_aura_health_regen_pct%%  of max health, and increased movespeed with %bonus_aura_movespeed%% ."
+DOTA_Tooltip_ability_item_jiduzhixinyan_Note0,基础属性加成持续时间内，多个生命恢复不叠加。,"While this buff's base stat boost is active, multiple HP regen effects do not stack."
+DOTA_Tooltip_ability_item_jiduzhixinyan_bonus_health,+$health,+$health
 DOTA_Tooltip_ability_item_jiduzhixinyan_bonus_mana,+$mana,+$mana
-DOTA_Tooltip_ability_item_jiduzhixinyan_bonus_movement_speed,+$move_speed,+$move_speed
+DOTA_Tooltip_ability_item_jiduzhixinyan_bonus_movespeed,+$move_speed,+$move_speed
 DOTA_Tooltip_ability_item_jinkela,,Jinkela
 DOTA_Tooltip_ability_item_jinkela1,金坷垃,
 DOTA_Tooltip_ability_item_jinkela1_Description,<h1>使用：强化</h1>为周围友军回复%heal_amount%点生命值，并提升%buff_bonus_damage_percent%%%攻击力，%buff_bonus_armor%点护甲，持续%buff_duration%秒。<br><br>作用范围：%effect_radius%<br>可以使用%tooltip_charges%次。,
@@ -3401,7 +3242,7 @@ DOTA_Tooltip_ability_item_jinkela_heal_amount,,"HP RESTORE: "
 DOTA_Tooltip_ability_item_juice,无色水晶,Colorless Crystal
 DOTA_Tooltip_ability_item_juice_bonus_mana_regen,+$mana_regen,+$mana_regen
 DOTA_Tooltip_ability_item_kafziel,死神之大镰刀,Great Scythe of Shinigami
-DOTA_Tooltip_ability_item_kafziel_Description,<h1>主动：薄命</h1>持续%duration%秒使目标受到的治疗回复减少%regen_amplify%%%，如果期间目标生命小于%min_health_pct%%%，则对其造成%damage%纯粹伤害并移除效果。<br><br>施法距离：%AbilityCastRange%\n<h1>被动：收割</h1>每次普通攻击时有%harvest_chance_melee%%%几率触发，造成额外的魔法伤害，双方当前生命值相差越大伤害越高。<br><br>收割伤害：(自身生命值-目标生命值)x%harvest_damage_factor%+100。,"<h1>Active: Pitiable Life</h1>Reduces an enemy's health regeneration and healing by %regen_amplify%%% for %duration% seconds. If the target's health drops below %min_health_pct%%% during this time, they instantly take %damage% pure damage and the debuff is removed.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Reap</h1>Grants each attack a %harvest_chance_melee%%% chance to deal bonus magical damage based on the difference between you and your target's current health. If you have less health than your target, this passive does not work.<br><br>Damage: (Your Health - Target's Health) * %harvest_damage_factor% + 100"
+DOTA_Tooltip_ability_item_kafziel_Description,<h1>主动：薄命</h1>持续%duration%秒使目标受到的治疗回复减少%regen_amplify%%%，如果期间目标生命小于%min_health_pct%%%，则对其造成%damage%纯粹伤害并移除效果。<br><br>施法距离：%AbilityCastRange%\n<h1>被动：收割</h1>每次普通攻击时有%reap_chance%%%几率触发，造成额外%reap_damage%魔法伤害。自身生命值高于目标时，还将额外造成%reap_health_pct%%%生命值差的伤害。,"<h1>Active: Pitiable Life</h1>Reduces an enemy's health regeneration and healing by %regen_amplify%%% for %duration% seconds. If the target's health drops below %min_health_pct%%% during this time, they instantly take %damage% pure damage and the debuff is removed.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Reap</h1>Grants each attack a %reap_chance%%% chance to deal %reap_damage% bonus magical damage. If your health is higher than target's, also dealing bonus damage equal to %reap_health_pct%%% of health difference."
 DOTA_Tooltip_ability_item_kafziel_bonus_damage,+$damage,+$damage
 DOTA_Tooltip_ability_item_kafziel_bonus_health_regen,+$hp_regen,+$hp_regen
 DOTA_Tooltip_ability_item_kafziel_bonus_strength,+$str,+$str
@@ -3438,9 +3279,9 @@ DOTA_Tooltip_ability_item_luna_chip_bonus_attack_speed,+$attack,+$attack
 DOTA_Tooltip_ability_item_luna_chip_bonus_damage,+$damage,+$damage
 DOTA_Tooltip_ability_item_magic_guide_book,初阶魔法书,Elementary Grimoire
 DOTA_Tooltip_ability_item_magic_guide_book_bonus_intellect,+$int,+$int
-DOTA_Tooltip_ability_item_magic_mushroom,神奇蘑菇,Magic Mushroom
-DOTA_Tooltip_ability_item_magic_mushroom_Description,<h1>使用：吞食蘑菇</h1>立即回复%regen_mana%点魔法。,<h1>Use: Eat Mushroom</h1>Instantly restores %regen_mana% mana.
-DOTA_Tooltip_ability_item_magic_mushroom_Lore,产自魔法森林的看起来人畜无害的蘑菇，一定很好吃吧。啊喂！为什么这蘑菇在发光？！,"Harmless mushroom from Forest of Magic, must be delicious...Wait! Why is it shining?!"
+DOTA_Tooltip_ability_item_magic_mushroom,神奇芒果,Magic Mango
+DOTA_Tooltip_ability_item_magic_mushroom_Description,<h1>使用：吞食芒果</h1>立即回复%regen_mana%点魔法。,<h1>Use: Eat Mango</h1>Instantly restores %regen_mana% mana.
+DOTA_Tooltip_ability_item_magic_mushroom_Lore,产自魔法森林的看起来人畜无害的芒果，一定很好吃吧。啊喂！为什么这芒果在发光？！,"Harmless Mango from Forest of Magic, must be delicious...Wait! Why is it shining?!"
 DOTA_Tooltip_ability_item_magic_mushroom_bonus_health_regen,+$hp_regen,+$hp_regen
 DOTA_Tooltip_ability_item_moon_bow,月面之弓弦,Moon Bow
 DOTA_Tooltip_ability_item_moon_bow_Description,<h1>主动：月之箭</h1>向指定方向射出一穿透箭，对被击中少女造成跟自身智力挂钩的物理伤害。<br><br>施法距离：%AbilityCastRange%<br><br>飞行速率：%arrow_speed%<br>最远距离：%arrow_range%<br>判定半径：%arrow_radius%<br>基础伤害：%arrow_damage_const%<br>智力加成伤害系数：%arrow_damage_int_mult%<br>施法距离：%AbilityCastRange%,<h1>Active: Moon Arrow</h1>Fires a piercing arrow which deals physical damage to enemy girls based on your intelligence. <br><br>Projectile Speed: %arrow_speed%<br>Arrow Range: %arrow_range%<br>Arrow Width: %arrow_radius%<br>Base Damage: %arrow_damage_const%<br>Bonus Damage per Int: %arrow_damage_int_mult%<br>Cast Range: %AbilityCastRange%
@@ -3586,6 +3427,7 @@ DOTA_Tooltip_ability_item_recipe_flower_umbrella,花之领主阳伞制作书,Rec
 DOTA_Tooltip_ability_item_recipe_frock,花毒的连衣裙制作书,Recipe: Nightshade Dress
 DOTA_Tooltip_ability_item_recipe_frozen_frog,冰精完美钻石制作书,Recipe: Perfect Freeze Crystal
 DOTA_Tooltip_ability_item_recipe_ganggenier,神枪冈格尼尔制作书,Recipe: Gungnir
+DOTA_Tooltip_ability_item_recipe_gap_creator,八云间隙发生器制作书,Recipe: Yakumo Sukima Generator
 DOTA_Tooltip_ability_item_recipe_ghost_balloon,幽灵气球制作书,Recipe: Myon Balloon
 DOTA_Tooltip_ability_item_recipe_god_lunchbox,退魔御币制作书,Recipe: Exorcist's Gohei
 DOTA_Tooltip_ability_item_recipe_good_lunchbox,御币制作书,Recipe: Gohei
@@ -3639,7 +3481,6 @@ DOTA_Tooltip_ability_item_recipe_tentacle,僧侣的降魔杵制作书,Recipe: Mo
 DOTA_Tooltip_ability_item_recipe_three_dimension,巴瓦鲁幽魂之书制作书,Recipe: Voile's Ghost Book
 DOTA_Tooltip_ability_item_recipe_tingshiyice,,Recipe: Youki Bamboo Slips
 DOTA_Tooltip_ability_item_recipe_tishen,替身地藏制作书,Recipe: Substitute Jizo
-DOTA_Tooltip_ability_item_recipe_travel_boots,八云间隙发生器制作书,Recipe: Yakumo Sukima Generator
 DOTA_Tooltip_ability_item_recipe_tsundere,亡灵送行提灯制作书,Recipe: Ghastly Send-Off Lantern
 DOTA_Tooltip_ability_item_recipe_umbrella,长舌头的伞制作书,Recipe: Tongue Umbrella
 DOTA_Tooltip_ability_item_recipe_verity,真实割夺之刃制作书,Recipe: Shinzanken
@@ -3795,10 +3636,6 @@ DOTA_Tooltip_ability_item_touhou_banana_movement_speed_percent_bonus,%+$move_spe
 DOTA_Tooltip_ability_item_tpscroll,,Gap Ticket
 DOTA_Tooltip_ability_item_tpscroll_Description,<h1>使用：传送</h1>经过3秒持续施法后传送到一个指定的友方建筑<br><br>双击将直接传送至己方泉水。,"<h1>Use: Teleport</h1>After channeling for 3 seconds, teleports you to a target friendly building.<br><br>Double-click to teleport to your team's base fountain."
 DOTA_Tooltip_ability_item_tpscroll_Lore,咪叽，有了这个票就可以便利的到达朋友的家了哦！,"Chen, you can go to your friend’s house easily with this!"
-DOTA_Tooltip_ability_item_travel_boots,八云间隙发生器,Yakumo Sukima Generator
-DOTA_Tooltip_ability_item_travel_boots_Description,<h1>被动：间隙</h1>降低间隙通行证的冷却时间。\n多个扫把类物品提供的移动速度加成不叠加。,<h1>Passive: Gap</h1>Reduces the cooldown for Gap Ticket. Gap Ticket can be used to teleport to any friendly non-girl unit.\nMovement speed bonuses from multiple brooms do not stack.
-DOTA_Tooltip_ability_item_travel_boots_bonus_movement_speed,+$move_speed,+$move_speed
-DOTA_Tooltip_ability_item_travel_boots_lore,有了这个就不用再凭票排队了。,"With this, there's no more need to line up for tickets."
 DOTA_Tooltip_ability_item_tsundere,亡灵送行提灯,Ghastly Send-Off Lantern
 DOTA_Tooltip_ability_item_tsundere_Description,,<h1>Active: Ferry to the Underworld</h1>Grants a strong dispel and becomes invulnerable for %invulnerable_duration% seconds.
 DOTA_Tooltip_ability_item_tsundere_bonus_health,+$health,+$health
@@ -3979,18 +3816,6 @@ DOTA_Tooltip_ability_kasen_dragon_splash_attack,溅射攻击,Splash Attack
 DOTA_Tooltip_ability_kasen_dragon_splash_attack_Description,周围所有敌人都感受到黑龙的爆炸攻击。,The explosive attacks are felt by all nearby enemies.
 DOTA_Tooltip_ability_kasen_dragon_splash_attack_distance,距离：,Splash Radius:
 DOTA_Tooltip_ability_kasen_dragon_splash_attack_outgoing_damagePercent,%伤害：,%Splash Damage:
-DOTA_Tooltip_ability_kasen_holy_persuasion,「喜欢动物且爱多管闲事的仙人」,
-DOTA_Tooltip_ability_kasen_holy_persuasion_Description,华扇控制住敌方小兵或者中立生物。若被驯养的目标拥有的生命值低于最小生命值，其生命值将会提升到最小生命值。\n\n可对已驯养的单位施放，将其传送到华扇身边。对华扇自身施放则华扇控制的所有神圣劝化单位都会传送到她身边。若目标受到伤害将导致效果被驱散。,
-DOTA_Tooltip_ability_kasen_holy_persuasion_Note0,如果达到劝化生物的数量上限后再劝化生物，最早劝化的单位将立即死亡。,
-DOTA_Tooltip_ability_kasen_holy_persuasion_Note2,升级此技能后在升级前劝化的单位并不会增加生命值。,
-DOTA_Tooltip_ability_kasen_holy_persuasion_Note3,劝化时单位的魔法恢复至满魔。,
-DOTA_Tooltip_ability_kasen_holy_persuasion_abilitydraft_note,远古生物的最大可控数量等于终极技能的等级。,
-DOTA_Tooltip_ability_kasen_holy_persuasion_damage_bonus,攻击力加成：,
-DOTA_Tooltip_ability_kasen_holy_persuasion_health_min,最低生命值：,
-DOTA_Tooltip_ability_kasen_holy_persuasion_level_req,非英雄单位最高等级：,
-DOTA_Tooltip_ability_kasen_holy_persuasion_max_units,最多劝化数量：,
-DOTA_Tooltip_ability_kasen_holy_persuasion_movement_speed_bonus,移动速度加成：,
-DOTA_Tooltip_ability_kasen_holy_persuasion_teleport_delay,传送延迟：,
 DOTA_Tooltip_ability_kasen_magicalResistance_aura,魔抗光环,
 DOTA_Tooltip_ability_kasen_magicalResistance_aura_Description,这个生物的魔抗光环保护它的友军。对非英雄单位的效果翻倍。,
 DOTA_Tooltip_ability_kasen_magicalResistance_aura_magicResistance_percent,%魔法抗性：,
@@ -3999,13 +3824,6 @@ DOTA_Tooltip_ability_kasen_movespeed_aura,速度光环,
 DOTA_Tooltip_ability_kasen_movespeed_aura_Description,牛头人长官残酷地追求效率，提高他和附近所有牛头人战士的移动速度。,
 DOTA_Tooltip_ability_kasen_movespeed_aura_movespeed,%移动速度提升：,
 DOTA_Tooltip_ability_kasen_movespeed_aura_radius,光环作用范围：,
-DOTA_Tooltip_ability_kasen_spirit_bear,雷符「低速的务光」,
-DOTA_Tooltip_ability_kasen_spirit_bear_Description,召唤一只可以装备物品的动物伙伴务光。若务光与华扇的距离超过1100，则不能攻击。如果务光死亡，华扇会受到自身最大生命值的%backlash_damage%%%作为反冲伤害。\n务光拥有暴怒，缠雷和雷云技能。,
-DOTA_Tooltip_ability_kasen_spirit_bear_bear_armor,务光护甲：,
-DOTA_Tooltip_ability_kasen_spirit_bear_bear_bat,务光基础攻击间隔：,
-DOTA_Tooltip_ability_kasen_spirit_bear_bear_hp,务光生命值：,
-DOTA_Tooltip_ability_kasen_spirit_bear_bear_regen_tooltip,务光每秒生命恢复：,
-DOTA_Tooltip_ability_kasen_spirit_bear_movespeed_tooltip,务光移动速度：,
 DOTA_Tooltip_ability_kasen_weird_attack,诡异攻击,Eerie Attack
 DOTA_Tooltip_ability_kasen_weird_attack_Description,鬼魂放出的寒霜攻击，让敌人感受到刺骨的寒冷。,An eerie attack that chills her enemies to their bones.
 DOTA_Tooltip_ability_kasen_weird_attack_atspslow,攻击速度降低：,"Attack Speed Slow: "
@@ -4017,7 +3835,6 @@ DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_attack_speed_bonus,增加攻速�
 DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_max_stacks,最高叠加：,
 DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_move_speed_bonus,增加移速：,
 DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_stack_duration,持续时间：,
-DOTA_Tooltip_ability_lone_druid_spirit_bear_retrun_scepter_description,允许务光无视华扇位置进行攻击，并且在德鲁伊死亡时不会消失。,
 DOTA_Tooltip_ability_medusa_mana_shield,Native God「Kero-chan Braves the Elements」,Native God「Kero-chan Braves the Elements」
 DOTA_Tooltip_ability_medusa_mana_shield_Description,"Activates a magic shield, which absorbs damage using spirit. Absorbs 60% of total damage taken.Has a passive effect of returning the damage dealt by the usage of skills as mana(mana gain does not work on ultimate).","Activates a magic shield, which absorbs damage using spirit. Absorbs 60% of total damage taken.Has a passive effect of returning the damage dealt by the usage of skills as mana(mana gain does not work on ultimate)."
 DOTA_Tooltip_ability_medusa_mana_shield_damage_per_mana,"Damage absorb per mana： ","Damage absorb per mana: "
@@ -4040,13 +3857,8 @@ DOTA_Tooltip_ability_roshan_purge,巨大上海的魔彩光,Magic Light of Giant 
 DOTA_Tooltip_ability_roshan_purge_Description,巨大上海每隔一段时间会移除身上的所有敌对状态,Giant Shanghai would cast a strong dispel on herself at short intervals.
 DOTA_Tooltip_ability_rumia02_grace_crit,暗符「境界线」,
 DOTA_Tooltip_ability_rumia02_grace_crit_Description,15%%概率暴击。,
-DOTA_Tooltip_ability_special_bonus_god_strength_duration,+8秒「八百万神灵」持续时间,+{s:value}s「Myriad Gods」Duration
-DOTA_Tooltip_ability_special_bonus_movdspeed_1000,+800「召请火雷神」飞行速度,+{s:value}「Honoikazuchi」Charge Speed
 DOTA_Tooltip_ability_special_bonus_mp_regen_1,+28魔法恢复,
-DOTA_Tooltip_ability_special_bonus_radius_99999,天生和大招全图判定,「Izunome」and「Myriad Gods」Become Global
-DOTA_Tooltip_ability_special_bonus_shield_strength,「召请金山彦命」加两倍力量的护盾值,+{s:value}*STR「Kanayamahiko-no-Mikoto」Shield Health
 DOTA_Tooltip_ability_special_bonus_strength_100,+{s:value} 力量,+{s:value} Strength
-DOTA_Tooltip_ability_special_bonus_stun_time,+1.5秒「召请火雷神」眩晕和无敌时间,+{s:value}s「Honoikazuchi」Stun/Invul Duration
 DOTA_Tooltip_ability_special_bonus_unique_Jyoon_ability1_crit,"「雁过拔毛」额外致命一击倍率：{s:value}% ",+{s:value}% 「Pluck Pigeon」 Critical Damage
 DOTA_Tooltip_ability_special_bonus_unique_Jyoon_ability1_gold,「雁过拔毛」金钱窃取：{s:value},+{s:value} 「Pluck Pidgeon」 Gold Steal
 DOTA_Tooltip_ability_special_bonus_unique_Jyoon_ability2_radius,+{s:value}「超贫穷玉」作用范围,+{s:value} 「Super Poverty Bomb」 Radius
@@ -4097,15 +3909,6 @@ DOTA_Tooltip_ability_special_bonus_unique_ellen_1,「Empty Starlight」光粒+2,
 DOTA_Tooltip_ability_special_bonus_unique_ellen_2,+90秒 「Self Have」存在时间,+90 seconds「Self Have」imprints' duration
 DOTA_Tooltip_ability_special_bonus_unique_ellen_3,+0.2「Tabula Rasa」爆发倍率,+0.2「Tabula Rasa」burst magnification
 DOTA_Tooltip_ability_special_bonus_unique_ellen_4,+100 力量,+100 strength
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_01,+15敏捷,+15 Agility
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_02,暗符「境界线」持续时间延长2秒,+2 seconds Darkness Sign「Demarcation」duration
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_03,+35移动速度,+35 move speed
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_04,「境界线」 额外50%回复,+50%「Demarcation」healing
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_05,夜符「午夜」双倍加成,Night Sign 「Midnight Bird」double bouns
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_06,+15护甲,+15 armor
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_07,食罪期间窃取目标40力量,Steals 40 strength in duration
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_07_Description,无法驱散,Undispellable
-DOTA_Tooltip_ability_special_bonus_unique_exrumia_08,+55攻击速度,+55 attack speed
 DOTA_Tooltip_ability_special_bonus_unique_flandre,-{s:bonus_AbilityCooldown}秒终极技能冷却,-{s:bonus_AbilityCooldown}s「And Then Will There Be None?」Cooldown
 DOTA_Tooltip_ability_special_bonus_unique_flandre_2,+{s:bonus_attack_count} 终极技能可攻击次数,+{s:bonus_attack_count}「And Then Will There Be None?」Attack Count
 DOTA_Tooltip_ability_special_bonus_unique_flandre_3,「莱瓦汀」与「毁灭」不可驱散,Laevateinn and Ruin Undispellable
@@ -4152,11 +3955,6 @@ DOTA_Tooltip_ability_special_bonus_unique_kasen2_5,+{s:value}% 影华扇继承�
 DOTA_Tooltip_ability_special_bonus_unique_kasen2_6,双倍「引导动物的能力」力量加成,Damage dealt by Kasen could heal shadow Kasen
 DOTA_Tooltip_ability_special_bonus_unique_kasen2_7,影华扇可以使用主动装备,Shadow Kasen could use all of Kasen's current items
 DOTA_Tooltip_ability_special_bonus_unique_kasen2_8,影华扇和华扇 独立存活,Both Kasen and Shadow Kasen would not disappear when the other is killed
-DOTA_Tooltip_ability_special_bonus_unique_kasen3_1,包符「假肢变形」持续时间1s,
-DOTA_Tooltip_ability_special_bonus_unique_kasen3_2,务光普攻附带雷云效果,
-DOTA_Tooltip_ability_special_bonus_unique_kasen3_3,「喜欢动物且爱多管闲事的仙人」+2最大劝说数量,
-DOTA_Tooltip_ability_special_bonus_unique_kasen3_4,务光和劝说单位+1500最大生命值,
-DOTA_Tooltip_ability_special_bonus_unique_kasen3_5,「奸佞邪智的鬼」-40冷却时间,
 DOTA_Tooltip_ability_special_bonus_unique_kasen_1,「猿之手啊！捏碎敌人」力量偷取持续时间增加60秒,"+{s:value} *Monkey's Paw, Crush my Enemy!* Steal Duration"
 DOTA_Tooltip_ability_special_bonus_unique_kasen_2,常态「猿之手啊！捏碎敌人」作用范围增加95,"+{s:value} *Monkey's Paw, Crush my Enemy!* Radius"
 DOTA_Tooltip_ability_special_bonus_unique_kasen_2_Description,,Only affects her Hermit Form active component.
@@ -4205,21 +4003,10 @@ DOTA_Tooltip_ability_special_bonus_unique_komachi_1,「生魂流离之镰」+{s:
 DOTA_Tooltip_ability_special_bonus_unique_komachi_2,+{s:bonus_damage}「生魂流离之镰」伤害,+{s:bonus_damage}「Scythe of Roaming Spirits」Damage
 DOTA_Tooltip_ability_special_bonus_unique_komachi_3,恶灵爆发血量上限伤害+{s:bonus_soul_percent_damage}%,+{s:bonus_soul_percent_damage}%「Regretful Bound Spirits」Max HP Damage
 DOTA_Tooltip_ability_special_bonus_unique_komachi_4,「无间之狭间」斩杀线+{s:bonus_kill_hp}%,+{s:bonus_kill_hp}%「Your Days Are Numbered」Threshold
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_1,+{s:bonus_radius}「血之湖」作用范围,+{s:bonus_radius}「Lake of Blood」Radius
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_3,+{s:bonus_cast_range}「颤栗的突击」施法距离,+{s:bonus_cast_range}「Trembling Strike」Cast Range
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_4,-{s:bonus_AbilityCooldown}秒「颤栗的突击」冷却,-{s:bonus_AbilityCooldown}s「Trembling Strike」Cooldown
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_6,+{s:bonus_atk_speed_slow}「逆向压制」攻击速度降低,+{s:bonus_atk_speed_slow}「Reverse Quelling」Attack Speed Slow
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_7,+{s:bonus_coffin_movespeed}「血之湖」棺材移动速度,+{s:bonus_coffin_movespeed}「Lake of Blood」Coffin Move Speed
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_8,+{s:bonus_lifesteal_constant}「血色收割者」基础回复,+{s:bonus_lifesteal_constant}「Blood Reaper」Base Heal
-DOTA_Tooltip_ability_special_bonus_unique_kurumi_9,+{s:bonus_base_attack_damage_bonus_pct}%「安息破坏日」基础攻击力额外伤害,+{s:bonus_base_attack_damage_bonus_pct}%「Sabbath Sabbath Sabbath」Bonus Base Damage
-DOTA_Tooltip_ability_special_bonus_unique_larva_02_1_1,-{s:value}秒「盛夏振翅」冷却时间，飞行获得高空视野,"-{s:value}s「Midsummer Wingbeats」Cooldown, fight gains flying vision"
-DOTA_Tooltip_ability_special_bonus_unique_larva_02_2_1,+{s:value}「仲夏的妖精梦」逃脱距离,+{s:value}「A Midsummer Fairy's Dream」Escape Range
-DOTA_Tooltip_ability_special_bonus_unique_larva_02_2_2,+{s:value}%「仲夏的妖精梦」回复效果,+{s:value}%「A Midsummer Fairy's Dream」Resotre
-DOTA_Tooltip_ability_special_bonus_unique_larva_02_ex_1,+{s:value}「鳞粉」作用范围,+{s:value}「Scales」Radius
 DOTA_Tooltip_ability_special_bonus_unique_larva_1,梦蝶「Crazy Butterfly」 冷却时间 {s:bonus_AbilityCooldown}s,-{s:bonus_AbilityCooldown}s「Crazy Butterfly」Cooldown
 DOTA_Tooltip_ability_special_bonus_unique_larva_2,蝶符「盛夏振翅」 长度+{s:bonus_length},+{s:bonus_length}「Midsummer Wingbeats」Max Distance
 DOTA_Tooltip_ability_special_bonus_unique_larva_3,「仲夏的妖精梦」 逃离伤害+{s:bonus_damage},+{s:bonus_damage}「A Midsummer Fairy's Dream」Escape Damage
-DOTA_Tooltip_ability_special_bonus_unique_larva_4,蝶符「盛夏振翅」 结束后获得5秒飞行能力,Gain flight for {s:value}s after「Midsummer Wingbeats」
+DOTA_Tooltip_ability_special_bonus_unique_larva_4,蝶符「盛夏振翅」 结束后获得{s:bonus_fly_duration}秒飞行能力,Gain flight for {s:value}s after「Midsummer Wingbeats」
 DOTA_Tooltip_ability_special_bonus_unique_larva_4_Description,拥有高空视野,Also gains flying vision.
 DOTA_Tooltip_ability_special_bonus_unique_larva_5,「仲夏的妖精梦」 无法驱散,「A Midsummer Fairy's Dream」Undispellable
 DOTA_Tooltip_ability_special_bonus_unique_larva_6,普攻附加当前 蝶符「沾身难下的鳞粉」,Inflicts「Surrounding Scales」on Attacks
@@ -4257,16 +4044,12 @@ DOTA_Tooltip_ability_special_bonus_unique_marisa_2,-{s:value}秒 魔炮冷却时
 DOTA_Tooltip_ability_special_bonus_unique_marisa_3,+{s:value}魔符「星尘狂欢」伤害,+{s:value}「Stardust Reverie」damage
 DOTA_Tooltip_ability_special_bonus_unique_marisa_4,-{s:value}秒「炽热之星」冷却时间,-{s:value}s「Blazing Star」cooldown
 DOTA_Tooltip_ability_special_bonus_unique_medicine_0,+150「忧郁之毒」光环范围,+150 Melancholic Poison aura range
-DOTA_Tooltip_ability_special_bonus_unique_medicine_1,+2倍「忧郁之毒」光环效果,+200%「Melancholic Poison」Effects
+DOTA_Tooltip_ability_special_bonus_unique_medicine_1,+{s:bonus_slow_amount}%「忧郁之毒」移速/魔抗降低,+{s:bonus_slow_amount}%「Melancholic Poison」Movespeed/Magic Resistance Reduction
 DOTA_Tooltip_ability_special_bonus_unique_medicine_2,「甜蜜毒素」,「Sweet Poison」
 DOTA_Tooltip_ability_special_bonus_unique_medicine_2_Description,+10%目标当前生命值「神经之毒」每秒伤害,Poison Sign「Nerve Poison」deals an extra 10% of the enemy's current health as damage per second.
 DOTA_Tooltip_ability_special_bonus_unique_medicine_3,+200「毒气花园」伤害,+{s:value}「Gassing Garden」DPS
 DOTA_Tooltip_ability_special_bonus_unique_medicine_4,「盛开的铃兰花」,「Blooming Lily of the Valley」
 DOTA_Tooltip_ability_special_bonus_unique_medicine_4_Description,「猛毒气息」嘲讽周围450码敌人1.6秒,「Poison Breath」taunts enemies within 450 range for 1.6 seconds.
-DOTA_Tooltip_ability_special_bonus_unique_meira_1,黑暗之力,The Dark Power
-DOTA_Tooltip_ability_special_bonus_unique_meira_1_description,剑气伤害翻倍,Sword damage will be doubled.
-DOTA_Tooltip_ability_special_bonus_unique_meira_2,博丽之求,Thirst for Hakurei
-DOTA_Tooltip_ability_special_bonus_unique_meira_2_description,「绝剑.壹佰肆拾尊」不再抬手且冷却时间-{s:bonus_AbilityCooldown}秒,The colldown of「Sword.The One Hundred and Thirty Arhats」 reduced {s:bonus_AbilityCooldown}
 DOTA_Tooltip_ability_special_bonus_unique_meirin_1,「猛虎内劲」继承80%攻击力,+50%「Fierce Tiger Energy Release」Damage Scaling
 DOTA_Tooltip_ability_special_bonus_unique_meirin_2,+{s:value} 格挡伤害,+{s:value}「Rainbow Taijiquan」Damage Block
 DOTA_Tooltip_ability_special_bonus_unique_meirin_3,+{s:value} 反击伤害,+{s:value}「Rainbow Taijiquan」Counter Damage
@@ -4283,15 +4066,7 @@ DOTA_Tooltip_ability_special_bonus_unique_miko05,-{s:value}s 仙符「日出之�
 DOTA_Tooltip_ability_special_bonus_unique_miko06,「尸解仙」,「Shikaisen」
 DOTA_Tooltip_ability_special_bonus_unique_miko06_Description,升仙后解锁技能的特殊效果,Enables Hermit Form effects.
 DOTA_Tooltip_ability_special_bonus_unique_miko07,+{s:value} 仙符「日出之处的道士」 伤害与范围,+{s:value}「Taoist of the...」Damage and Radius
-DOTA_Tooltip_ability_special_bonus_unique_miko08,「丙子椒林剑」 连击+1,+1「Heishi Shorinken」Attacks
-DOTA_Tooltip_ability_special_bonus_unique_miko2_1,+6 魔法回复,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_2,+6 护甲,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_3,+15 魔法抗性,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_4,+{s:value} 「新生的神灵」弹幕伤害,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_5,+{s:value}% 德符「圣德的威望」吸血,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_6,名誉「十二阶之色彩」附带3%最大法力值伤害,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_7,+{s:value} 「新生的神灵」突进魔法伤害,
-DOTA_Tooltip_ability_special_bonus_unique_miko2_8,+{s:value} 名誉「十二阶之色彩」弹幕伤害,
+DOTA_Tooltip_ability_special_bonus_unique_miko08,+{s:bonus_fast_attack_times}「丙子椒林剑」连击,+{s:bonus_fast_attack_times}「Heishi Shorinken」Attacks
 DOTA_Tooltip_ability_special_bonus_unique_minamitsu_1,-{s:bonus_AbilityCooldown}秒 幽灵船重造时间,-{s:bonus_AbilityCooldown}s「Phantom Ship Harbor」Cooldown
 DOTA_Tooltip_ability_special_bonus_unique_minamitsu_2,-{s:bonus_AbilityCooldown}秒 菠菜冷却时间,-{s:bonus_AbilityCooldown}s「Spinach」Cooldown
 DOTA_Tooltip_ability_special_bonus_unique_minamitsu_3,-{s:bonus_AbilityCooldown}秒 钩子冷却时间,-{s:bonus_AbilityCooldown}s「Sinking Anchor」Cooldown
@@ -4448,7 +4223,7 @@ DOTA_Tooltip_ability_special_bonus_unique_sumireko_8,「ＥＳＰカード手裏
 DOTA_Tooltip_ability_special_bonus_unique_sunny_1,「黄光偏斜」+30%移速,+30%「Yellow Deflection」move speed bonus
 DOTA_Tooltip_ability_special_bonus_unique_sunny_2,「蓝光反射」+2弹射次数,+2「Blue Deflection」bounces
 DOTA_Tooltip_ability_special_bonus_unique_suwako_2,-7秒 「岩浆的两栖类」冷却,-7s cd Native God「Magma Amphibian」
-DOTA_Tooltip_ability_special_bonus_unique_suwako_6,+100「赤口吞噬」缠绕范围,+100 bind range Curse God「Mishaguji-sama」
+DOTA_Tooltip_ability_special_bonus_unique_suwako_6,+{s:bonus_AbilityCastRange}「赤口吞噬」缠绕范围,+100 bind range Curse God「Mishaguji-sama」
 DOTA_Tooltip_ability_special_bonus_unique_suwako_7,「岩浆的两栖类」移速翻倍，并取消沉默与锁闭,Native God「Magma Amphibian」 Double move speed and no longer silences and mutes Suwako
 DOTA_Tooltip_ability_special_bonus_unique_suwako_8,「洩矢之小铁轮」伤害翻倍," damage x2 Divine Instrument「Moriya's Iron Ring」"
 DOTA_Tooltip_ability_special_bonus_unique_tei_1,「帝的逃跑路线」+120伤害,+{s:value}「Tewi's Escape Route」Damage
@@ -4495,9 +4270,14 @@ DOTA_Tooltip_ability_special_bonus_unique_yasaka_2,+{s:value}「大和环面」�
 DOTA_Tooltip_ability_special_bonus_unique_yasaka_3,-{s:value}秒 古战场冷却,-{s:value}s「The Venerable Ancient Battlefield」Cooldown
 DOTA_Tooltip_ability_special_bonus_unique_yasaka_4,+{s:value}   御柱伤害,+{s:value} Onbashira Damage
 DOTA_Tooltip_ability_special_bonus_unique_yasaka_5,「信仰之山」,「Mountain of Faith」
-DOTA_Tooltip_ability_special_bonus_unique_yasaka_5_Description,「风神之神德」额外提供2%的最大生命值恢复与1%的最大魔法值恢复,「Divine Virtues of Wind God」also grants 2% max health regen and 1% max mana regen
+DOTA_Tooltip_ability_special_bonus_unique_yasaka_5_Description,「风神之神德」额外提供{s:bonus_health_regen_pct}%的最大生命值恢复与{s:bonus_mana_regen_pct}%的最大魔法值恢复,「Divine Virtues of Wind God」also grants {s:bonus_health_regen_pct}% max health regen and {s:bonus_mana_regen_pct}% max mana regen
 DOTA_Tooltip_ability_special_bonus_unique_yorihime_1,-6秒「召请金山彦命」冷却,-{s:value}s「Kanayamahiko-no-Mikoto」Cooldown
 DOTA_Tooltip_ability_special_bonus_unique_yorihime_2,+{s:value}「召请天钿女命」护甲加成,+{s:value}「Ame no Uzume」Armor
+DOTA_Tooltip_ability_special_bonus_unique_yorihime_3,「召请金山彦命」加两倍力量的护盾值,+{s:value}*STR「Kanayamahiko-no-Mikoto」Shield Health
+DOTA_Tooltip_ability_special_bonus_unique_yorihime_4,+1.5秒「召请火雷神」眩晕和无敌时间,+{s:value}s「Honoikazuchi」Stun/Invul Duration
+DOTA_Tooltip_ability_special_bonus_unique_yorihime_5,+800「召请火雷神」飞行速度,+{s:value}「Honoikazuchi」Charge Speed
+DOTA_Tooltip_ability_special_bonus_unique_yorihime_6,+8秒「八百万神灵」持续时间,+{s:value}s「Myriad Gods」Duration
+DOTA_Tooltip_ability_special_bonus_unique_yorihime_7,天生和大招全图判定,「Izunome」and「Myriad Gods」Become Global
 DOTA_Tooltip_ability_special_bonus_unique_youmu2_1,+{s:bonus_break_duration}秒「六根清净斩」破坏持续时间,+{s:bonus_break_duration}s「Slash Clearing the Six Senses」Break Duration
 DOTA_Tooltip_ability_special_bonus_unique_youmu2_2,+{s:bonus_duration}秒「幽明求闻持聪明之法」持续时间,+{s:bonus_duration}s「Dharma of Gumonji Wisdom...」Duration
 DOTA_Tooltip_ability_special_bonus_unique_youmu2_3,「六根清净斩」效果无法驱散,「Slash Clearing the Six Senses」Undispellable
@@ -4629,24 +4409,18 @@ DOTA_Tooltip_modifier_ability_dota2x_reimu04_root,神技「八方鬼缚阵」,Di
 DOTA_Tooltip_modifier_ability_dota2x_reimu04_root_Description,被缠绕,rooted.
 DOTA_Tooltip_modifier_ability_dota2x_reimuEx_buff,「异变解决」,「Resolving Incident」
 DOTA_Tooltip_modifier_ability_dota2x_reimuEx_buff_Description,灵梦正在变强，提供%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%的攻击速度和%dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT%的移动速度。,"Reimu is becoming stronger, gains %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed and %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% move speed."
-DOTA_Tooltip_modifier_ability_exrumia01_disable,月符 「月的暗面」,Darkness Sign「Dark Side of the Moon」
-DOTA_Tooltip_modifier_ability_exrumia01_disable_Description,被缴械，沉默,Disarmed and silenced.
-DOTA_Tooltip_modifier_ability_exrumia01_shadow,月符 「月的暗面」,Darkness Sign「Dark Side of the Moon」
-DOTA_Tooltip_modifier_ability_exrumia01_shadow_Description,拥有隐身及闪避能力,Invisible and evasion increased
-DOTA_Tooltip_modifier_ability_exrumia02_attack,暗符 「境界线」,Darkness Sign 「Demarcation」
-DOTA_Tooltip_modifier_ability_exrumia02_attack_Description,获得溅射能力，造成额外伤害的50%将治疗露米娅,"Cleaving, heal yourself by 50% of cleaving damage."
-DOTA_Tooltip_modifier_ability_exrumia03_block,「宵暗之盾」,「Dusk Shield」
-DOTA_Tooltip_modifier_ability_exrumia03_block_Description,吸收伤害,Absorbing damage
-DOTA_Tooltip_modifier_ability_exrumia04_debuff,食罪,Sin Devouring
-DOTA_Tooltip_modifier_ability_exrumia04_debuff_Description,降低33%%伤害，期间死亡将治疗露米娅,"%block%%% damage caused reduced, healing Rumia if dead in duration."
-DOTA_Tooltip_modifier_ability_exrumiaEx_night,夜符 「午夜」,Night Sign 「Midnight Bird」
-DOTA_Tooltip_modifier_ability_exrumiaEx_night_Description,增加攻击力和移动速度,Get attack damage and attack speed bonus
 DOTA_Tooltip_modifier_ability_kasen2_3strengthBonus,「引导动物的能力」,「Ability to guide animals」
 DOTA_Tooltip_modifier_ability_kasen2_3strengthBonus_Description,力量加成,Strength Bonus
-DOTA_Tooltip_modifier_ability_larva01_debuff,蝶符「盛夏振翅」,Butterfly Sign「Midsummer Wingbeats」
-DOTA_Tooltip_modifier_ability_larva01_debuff_Description,被扑棱蛾子撞到啦！,Hit by the butterfly！
-DOTA_Tooltip_modifier_ability_larva01_flyvision,蝶符「盛夏振翅」,Butterfly Sign「Midsummer Wingbeats」
-DOTA_Tooltip_modifier_ability_larva01_flyvision_Description,扑棱蛾子拥有飞行能力,Butterflies can fly.
+DOTA_Tooltip_modifier_ability_larva01_damaged_flag,蝶符「盛夏振翅」,
+DOTA_Tooltip_modifier_ability_larva01_damaged_flag_Description,被扑棱蛾子撞到啦！,
+DOTA_Tooltip_modifier_ability_larva01_dash,蝶符「盛夏振翅」,
+DOTA_Tooltip_modifier_ability_larva01_dash_Description,冲刺,
+DOTA_Tooltip_modifier_ability_larva01_debuff,,Butterfly Sign「Midsummer Wingbeats」
+DOTA_Tooltip_modifier_ability_larva01_debuff_Description,,Hit by the butterfly！
+DOTA_Tooltip_modifier_ability_larva01_fly,蝶符「盛夏振翅」,
+DOTA_Tooltip_modifier_ability_larva01_fly_Description,扑棱蛾子拥有飞行能力,
+DOTA_Tooltip_modifier_ability_larva01_flyvision,,Butterfly Sign「Midsummer Wingbeats」
+DOTA_Tooltip_modifier_ability_larva01_flyvision_Description,,Butterflies can fly.
 DOTA_Tooltip_modifier_ability_larva02_attack,蝶符「沾身难下的鳞粉」,Butterfly Sign「Surrounding Scales」
 DOTA_Tooltip_modifier_ability_larva02_attack_Description,攻击附带技能效果,Triggers on attacks
 DOTA_Tooltip_modifier_ability_larva02_debuff,蝶符「沾身难下的鳞粉」,Butterfly Sign「Surrounding Scales」
@@ -4671,22 +4445,6 @@ DOTA_Tooltip_modifier_ability_miko04_speed,「新生的神灵」,「Newborn Divi
 DOTA_Tooltip_modifier_ability_miko04_speed_description,增加移速,Gain movement speed bonus.
 DOTA_Tooltip_modifier_ability_miko04_tready,「新生的神灵」,「Newborn Divine Spirit」
 DOTA_Tooltip_modifier_ability_miko04_tready_description,神子A梦准备进度,Progress of Mikoemon
-DOTA_Tooltip_modifier_ability_miko2_1check,名誉「十二阶之色彩」,
-DOTA_Tooltip_modifier_ability_miko2_1check_Description,持续消耗魔法，每秒发射一个弹幕追踪范围内最近的敌人,
-DOTA_Tooltip_modifier_ability_miko2_2c,神光「无忤为宗」,
-DOTA_Tooltip_modifier_ability_miko2_2c_Description,无法行动,
-DOTA_Tooltip_modifier_ability_miko2_2t,神光「无忤为宗」,
-DOTA_Tooltip_modifier_ability_miko2_2t_Description,无法行动,
-DOTA_Tooltip_modifier_ability_miko2_3check,德符「圣德的威望」,
-DOTA_Tooltip_modifier_ability_miko2_3check_Description,下一击附带范围魔法伤害,
-DOTA_Tooltip_modifier_ability_miko2_3debuff,德符「圣德的威望」,
-DOTA_Tooltip_modifier_ability_miko2_3debuff_Description,被减速,
-DOTA_Tooltip_modifier_ability_miko2_4debuff,「新生的神灵」,
-DOTA_Tooltip_modifier_ability_miko2_4debuff_Description,被减速,
-DOTA_Tooltip_modifier_ability_miko2_Ex,「新生的神灵」,
-DOTA_Tooltip_modifier_ability_miko2_ExShield,「尸解仙」,
-DOTA_Tooltip_modifier_ability_miko2_ExShield_Description,无敌,
-DOTA_Tooltip_modifier_ability_miko2_Ex_Description,叠加层数,
 DOTA_Tooltip_modifier_ability_mikoWanbao_disable,神光「无忤为宗」,Divine Light「Honor the Avoidance of Defiance」
 DOTA_Tooltip_modifier_ability_mikoWanbao_disable_description,被缴械、沉默,Disarmed and silenced.
 DOTA_Tooltip_modifier_ability_mystia01_toother,,blinded
@@ -4911,14 +4669,6 @@ DOTA_Tooltip_modifier_ability_thdots_kokoroEx_2,表情丰富的扑克脸,The Exp
 DOTA_Tooltip_modifier_ability_thdots_kokoroEx_2_active,表情丰富的扑克脸,The Expressive Poker Face
 DOTA_Tooltip_modifier_ability_thdots_kokoroEx_2_active_Description,增加主属性,Primary attribute increased.
 DOTA_Tooltip_modifier_ability_thdots_kokoroEx_Description,被凭依的单位受到秦心的攻击和技能伤害转变为纯粹伤害,Damage taken from Kokoro's attacks and skills transformed into pure damage.
-DOTA_Tooltip_modifier_ability_thdots_larva02_01_buff,「盛夏振翅」,「Midsummer Wingbeats」
-DOTA_Tooltip_modifier_ability_thdots_larva02_01_buff_Description,少女振翅中……,NowFlying...
-DOTA_Tooltip_modifier_ability_thdots_larva02_02_debuff,「仲夏的妖精梦」,「A Midsummer Fairy's Dream」
-DOTA_Tooltip_modifier_ability_thdots_larva02_02_debuff_Description,被困于拉尔瓦的梦境之中。,Trapped in Larva's dream.
-DOTA_Tooltip_modifier_ability_thdots_larva02_ex_debuff,沾身难下的鳞粉,Surrounding Scales
-DOTA_Tooltip_modifier_ability_thdots_larva02_ex_debuff_Description,降低%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻击速度和%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移动速度。,Attack speed reduced by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% and move speed reduced by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%.
-DOTA_Tooltip_modifier_ability_thdots_larva02_ex_target,「鳞粉」,「Scales」
-DOTA_Tooltip_modifier_ability_thdots_larva02_ex_target_Description,将会受到拉尔瓦鳞粉的影响。,Will effect by larva's scales.
 DOTA_Tooltip_modifier_ability_thdots_letty02_debuff,「波光」,「Undulation Ray」
 DOTA_Tooltip_modifier_ability_thdots_letty02_debuff_Description,被冻结。,Frozen
 DOTA_Tooltip_modifier_ability_thdots_letty02_dummy,「波光」,「Undulation Ray」
@@ -5252,6 +5002,8 @@ DOTA_Tooltip_modifier_ability_thdots_yorihime_01_debuff_Description,你遭遇了
 DOTA_Tooltip_modifier_ability_thdots_yorihime_01_move,「召请火雷神」,「Channel Honoikazuchi」
 DOTA_Tooltip_modifier_ability_thdots_yorihime_02,「召请天钿女命」,「Channel Ame no Uzume」
 DOTA_Tooltip_modifier_ability_thdots_yorihime_02_Description,你受到了天钿女命的祝福获得了大量加成。,You are blessed by Ame no Uzume and strengthened a lot.
+DOTA_Tooltip_modifier_ability_thdots_yorihime_02_shield_buff,「召请金山彦命」,「Channel Kanayamahiko-no-Mikoto」
+DOTA_Tooltip_modifier_ability_thdots_yorihime_02_shield_buff_Description,你受到了金山彦命的祝福获得了大量加成。,You are blessed by Kanayamahiko-no-Mikoto and strengthened a lot.
 DOTA_Tooltip_modifier_ability_thdots_youmu2_02_buff,「冥想斩」,「Slash of Meditation」
 DOTA_Tooltip_modifier_ability_thdots_youmu2_02_buff_Description,招架一次来自少女的伤害，并瞬移到该少女背后。,Blocks damage taken from girls only once and teleports behind the target girl.
 DOTA_Tooltip_modifier_ability_thdots_youmu2_02_debuff,「冥想斩」,「Slash of Meditation」
@@ -5419,12 +5171,10 @@ DOTA_Tooltip_modifier_item_inaba_illusion_weapon_buff_ranged,远程型幻觉兵�
 DOTA_Tooltip_modifier_item_inaba_illusion_weapon_buff_ranged_Description,你的远程攻击会同时攻击多个目标。,Your ranged attacks hit multiple targets.
 DOTA_Tooltip_modifier_item_jiao_shou_play_debuff,厄运缠身,Misfortune
 DOTA_Tooltip_modifier_item_jiao_shou_play_debuff_Description,你被厄运缠身了，移动速度减少了%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%。,"The misfortune makes your body feel weak, slowing you by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
-DOTA_Tooltip_modifier_item_jiduzhixinyan_debuff,嫉妒之心眼,Green Eye of Jealousy
-DOTA_Tooltip_modifier_item_jiduzhixinyan_debuff_Description,受害者的仇恨诅咒了你，使你的治疗和视野半径减少%dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%%，并使你受到%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%的额外伤害。,"Your victim's hatred curses you, reducing your healing and vision radius by %dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%% and causing you to take %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%% more damage."
-DOTA_Tooltip_modifier_item_jiduzhixinyan_debuff_exposed,嫉妒之心眼,Green Eye of Jealousy
-DOTA_Tooltip_modifier_item_jiduzhixinyan_debuff_exposed_Description,你的位置被嫉妒之心眼暴露了。,Your position is exposed by the Green Eye of Jealousy.
-DOTA_Tooltip_modifier_item_jiduzhixinyan_passive,嫉妒之心眼,Green Eye of Jealousy
-DOTA_Tooltip_modifier_item_jiduzhixinyan_passive_Description,死亡会增加层数。,Gains charges when you die.
+DOTA_Tooltip_modifier_item_jiduzhixinyan_ally_buff,嫉妒之心眼,Green Eye of Jealousy
+DOTA_Tooltip_modifier_item_jiduzhixinyan_ally_buff_Description,移速增加%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%，并每秒恢复生命。,"Move speed increased with %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, and health healed."
+DOTA_Tooltip_modifier_item_jiduzhixinyan_mark,嫉妒之心眼,Green Eye of Jealousy
+DOTA_Tooltip_modifier_item_jiduzhixinyan_mark_Description,当前标记的少女ID。,Current marked girl ID
 DOTA_Tooltip_modifier_item_jinkela_buff,金坷垃,Jinkela
 DOTA_Tooltip_modifier_item_jinkela_buff_Description,掺了金坷垃，能吸收两米下的氮磷钾!,Mixed with Jinkela can absorb NPK two meters below!
 DOTA_Tooltip_modifier_item_kafziel_debuff,死神之大镰刀,Great Scythe of Shinigami
@@ -5557,8 +5307,6 @@ DOTA_Tooltip_modifier_koishi04_bonus_action,变身中,Transformation
 DOTA_Tooltip_modifier_koishi04_bonus_action_Description,准备封闭意识。,Closing off her mind.
 DOTA_Tooltip_modifier_koishi04_bonus_action_end,变身结束,Transformation Ending
 DOTA_Tooltip_modifier_koishi04_bonus_action_end_Description,准备敞开意识。,Consciousness returning.
-DOTA_Tooltip_modifier_kurumi03_slow_debuff,压制,Quelling
-DOTA_Tooltip_modifier_kurumi03_slow_debuff_Description,你被压制了。降低%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻击速度。,You are quelled. reduce attack speed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%%%%.
 DOTA_Tooltip_modifier_light_excuse,光符「Guse Flash」,
 DOTA_Tooltip_modifier_light_excuse_description,增加护甲、魔法抗性,
 DOTA_Tooltip_modifier_light_slave_DB,仙符「日出之处的道士」,
@@ -5604,8 +5352,6 @@ DOTA_Tooltip_modifier_medicine01_debuff,神经毒素,Nerve Poison
 DOTA_Tooltip_modifier_medicine01_debuff_Description,减少攻速和移速,Movement and attack speed reduced.
 DOTA_Tooltip_modifier_medicine01_move_debuff,病毒蛋白,Poisoned
 DOTA_Tooltip_modifier_medicine01_move_debuff_Description,减少移速并不断受到伤害,Poisoned and slowed.
-DOTA_Tooltip_modifier_meira01_swaper,技能状态,Ability State
-DOTA_Tooltip_modifier_meira01_timer,技能计时器,Ability time counter
 DOTA_Tooltip_modifier_meirin02_buff,,Barrier of the Real Dragon
 DOTA_Tooltip_modifier_meirinex,内劲释放,Releasing the Fierce Tiger Energy
 DOTA_Tooltip_modifier_merlin01_enemy_datadriven,冥管「灵之克里福德」,Nether Trumpet「Ghost Clifford」
@@ -5701,8 +5447,6 @@ DOTA_Tooltip_modifier_rumia_03_night,「午夜」,「Midnight Bird」
 DOTA_Tooltip_modifier_rumia_03_night_Description,被动提升攻击速度及移动速度。,Passively increases movement and attack speed.
 DOTA_Tooltip_modifier_sagumeEx_basic,「招来口舌之祸的女神」,「Goddess Who Invites Unfortunate Slips of the Tongue」
 DOTA_Tooltip_modifier_sagumeEx_basic_Description,智力提升。,Extra Intelligence.
-DOTA_Tooltip_modifier_shield_buff,「召请金山彦命」,「Channel Kanayamahiko-no-Mikoto」
-DOTA_Tooltip_modifier_shield_buff_Description,你受到了金山彦命的祝福获得了大量加成。,You are blessed by Kanayamahiko-no-Mikoto and strengthened a lot.
 DOTA_Tooltip_modifier_shizuha01,枯符「枯根结固」,Wither Sign「Withered Tree Roots」
 DOTA_Tooltip_modifier_shizuha01_Description,被缠绕无法移动和攻击。,"Rooted, and cannot move or attack."
 DOTA_Tooltip_modifier_shizuha02_end,睡饱饱,Well Rested
@@ -5867,12 +5611,6 @@ DOTA_Tooltip_modifier_thdots_koakumaex_passive_Description,每缺少1%魔法值�
 DOTA_Tooltip_modifier_thdots_komachi_03_soul,被恶灵缠身,Possessed by Vengeful Spirits
 DOTA_Tooltip_modifier_thdots_komachi_04_debuff,被死神盯上...,Claimed by the Shinigami...
 DOTA_Tooltip_modifier_thdots_komachi_04_debuff_Description,无法回复生命值。,Unable to heal.
-DOTA_Tooltip_modifier_thdots_kurumi02_area_debuff,血之湖水,Lake of Blood
-DOTA_Tooltip_modifier_thdots_kurumi02_area_debuff_Description,被沉默了，无法施法。,"Silenced, cannot cast spells."
-DOTA_Tooltip_modifier_thdots_kurumi02_caster,安心睡觉,Sleep In Peace
-DOTA_Tooltip_modifier_thdots_kurumi02_caster_Description,躲进棺材睡眠。,Hide in the coffin to sleep.
-DOTA_Tooltip_modifier_thdots_kurumi02_coffin,棺材,Coffin
-DOTA_Tooltip_modifier_thdots_kurumi02_coffin_Description,胡桃在里面哦。,Kurumi is inside.
 DOTA_Tooltip_modifier_thdots_margatridex_line_action,「操纵人偶」,「Doll Placement」
 DOTA_Tooltip_modifier_thdots_margatridex_line_action_Description,操纵人偶中,Placing Doll
 DOTA_Tooltip_modifier_thdots_margatroid04_doll_explosion,「旅鼠的盛装游行」,「Lemmings' Parade」
@@ -5902,27 +5640,6 @@ DOTA_Tooltip_modifier_thdots_medicine04_debuff,混乱,Delirium
 DOTA_Tooltip_modifier_thdots_medicine04_debuff_Description,疯狂攻击友方,attacking allies
 DOTA_Tooltip_modifier_thdots_medicine04_delay,「陷入疯狂」,「Into Delirium」
 DOTA_Tooltip_modifier_thdots_medicine04_delay_Description,你即将陷入疯狂!,You are getting delirious!
-DOTA_Tooltip_modifier_thdots_meira01_1_dash,冲刺,Dash
-DOTA_Tooltip_modifier_thdots_meira01_1_sweep,横扫,Sweep
-DOTA_Tooltip_modifier_thdots_meira01_2_back,后空翻,Backflip
-DOTA_Tooltip_modifier_thdots_meira01_3_back,后撤,Backflip
-DOTA_Tooltip_modifier_thdots_meira01_3_dash,冲刺,Thrust
-DOTA_Tooltip_modifier_thdots_meira01_3_dash_target,被推行,Be Pushed
-DOTA_Tooltip_modifier_thdots_meira01_3_states,免疫,Immune
-DOTA_Tooltip_modifier_thdots_meira03_channel,防反状态,Defence and Fight Back
-DOTA_Tooltip_modifier_thdots_meira03_immune,防反无敌,Immune
-DOTA_Tooltip_modifier_thdots_meira04_1_caster,斩击演出,Slash
-DOTA_Tooltip_modifier_thdots_meira04_1_speed_bonus,被减速,Speed Reduction
-DOTA_Tooltip_modifier_thdots_meira04_1_speed_bonus_description,移速减少%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%，攻速减少%dMODIFIER_PROPERTY_ATTACKSPEED_PERCENTAGE%%%。,"The number of move speed is reduced with %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, and the number of attack speed is reduced with %dMODIFIER_PROPERTY_ATTACKSPEED_PERCENTAGE%%%."
-DOTA_Tooltip_modifier_thdots_meira04_1_target,被斩击,Be Slashed
-DOTA_Tooltip_modifier_thdots_meira04_2_slash,斩击,Slash
-DOTA_Tooltip_modifier_thdots_meira04_swarper,四技能切换,Ability State
-DOTA_Tooltip_modifier_thdots_meira05_immune,无敌,Invincibles
-DOTA_Tooltip_modifier_thdots_meira05_medit,冥想,Meditation
-DOTA_Tooltip_modifier_thdots_meira05_scepter,万宝槌检测,Scepter Detector
-DOTA_Tooltip_modifier_thdots_meiraex_attack,黑暗力量,Dark Power
-DOTA_Tooltip_modifier_thdots_meiraex_attack_description,下次攻击时将附带黑暗力量,There is dark power at next slash
-DOTA_Tooltip_modifier_thdots_meiraex_jump,跳跃,Jump
 DOTA_Tooltip_modifier_thdots_meirin01_buff,疾风加护,Rider Kick
 DOTA_Tooltip_modifier_thdots_meirin04_slow,伤筋动骨,Injured Muscles and Bones
 DOTA_Tooltip_modifier_thdots_meirinex_attack,猛虎内劲,Fierce Tiger Energy Charges
@@ -6171,7 +5888,7 @@ RANKDC_Explain4,"<font color='#00FFFF'>该模式无法启用BP,游戏内也无�
 RANKDC_Explain5,".投降已在本局中禁用,本局的比赛结果不会影响天梯分",".The surrender option is disabled, and the ladder rankings will not be updated."
 RANKDC_Explain6,.天梯分已在本局中禁用,Ladder rankings is disabled in this game.
 ShizuhaEXMessage,{s:player_name}：<font color='#FFA07A'>秋叶凋零了</font>（{s:value}伤害）,{s:player_name}: <font color='#FFA07A'>The Autumn Leaves Wither</font> ({s:value} damage)
-StrawberryModeHeroChanges_Content,<font color='#00FFFF'>当前测试版本改动英雄：明罗、胡桃</font>,"<font color='#00FFFF'>Current test version changes heroes: Meira, Kurumi</font>"
+StrawberryModeHeroChanges_Content,,"<font color='#00FFFF'>Current test version changes heroes: Meira, Kurumi</font>"
 SuperSiege_Explain1,<font color='#00FFFF'>游戏已经超过40分钟，双方每过2分钟派出一个超级兵进攻</font>,"<font color='#00FFFF'>As the game has lasted longer than 40 minutes, both sides will now send mega creeps to attack every 2 minutes.</font>"
 SuperSiege_Explain2,<font color='#00FFFF'>杀死超级兵获得500经验，500金币</font>,<font color='#00FFFF'>Mega creeps grant 500 experience and 500 gold when killed.</font>
 Youmu2Explain1,<font color='#00FFFF'>玩家选择魂魄妖梦</font>,<font color='#00FFFF'>The player has chosen Youmu Konpaku.</font>
@@ -6183,7 +5900,7 @@ ability_margatroidex_doll,人形,Doll
 ability_minamitsu_04_ship,幽灵船,Palanquin Ship
 ability_momiji_Spawn_unit,天狗卫队,White Wolf Guardian
 ability_star03_ward,星粒,Stardust Piece
-addon_game_name,东方Dots,Touhou Dots
+addon_game_name,东方Dots·紫水晶,Touhou Dots · Amethyst
 dota_ability_variable_damage_agi_hero,攻击力（敏捷英雄）,
 dota_ability_variable_damage_int_hero,攻击力（智力英雄）,
 dota_ability_variable_damage_str_hero,攻击力（力量英雄）,
@@ -6191,7 +5908,7 @@ dota_ability_variable_day_vision,白天视野,Daytime Vision
 dota_ability_variable_night_vision,夜晚视野,Night Vision
 dota_match_history_Winner_BadGuys,胜方：守矢神社,winner: Moriya Shrine
 dota_match_history_Winner_GoodGuys,胜方：博丽神社,winner: Hakurei Shrine
-game_mode_15,东方Dots,Touhou Dots
+game_mode_15,东方Dots·紫水晶,Touhou Dots · Amethyst
 modifier_ability_thdots_seigaEx_active,「Wall Runner」,
 modifier_ability_thdots_seigaEx_active_Description,无视地形移动。,
 npc_ability_hina01_doll,「流刑人形」,「Exiled Doll」
@@ -6209,14 +5926,11 @@ npc_dota_hero_Tensi,比那名居天子,
 npc_dota_hero_Yugi,星熊勇仪,
 npc_dota_hero_abyssal_underlord,火焰猫燐,Rin Kaenbyou
 npc_dota_hero_abyssal_underlord_hype,觉的宠物。,Satori's pet
-npc_dota_hero_alchemist,饕餮尤魔,Yuuma Toutetsu
 npc_dota_hero_arc_warden,爱莲,Ellen
 npc_dota_hero_axe,琪露诺,Cirno
 npc_dota_hero_axe_hype,Model Name：えと式チルノ\nModel Author：えと\n	她是湖附近妖精们中的领袖般的存在，力量也比其他妖精强。她是属于好战型的，所以必须留神。她身高颇低，穿蓝色的衣服，背后有冰之羽翼。她有操控冷气的能力。能瞬间冻结小东西，比普通的妖精更危险。一直在释放冷气的她周围总是很寒冷。人们不知道她住在哪里，也无法得知她平时的生活是怎样的。不光是琪露诺，所有的妖精都能溶入大自然之中，所以人类们看不见。,
 npc_dota_hero_bane,神绮,Shinki
 npc_dota_hero_batrider,鬼人正邪,Seija Kijin
-npc_dota_hero_bloodseeker,胡桃,Kurumi
-npc_dota_hero_bloodseeker_npedesc1,是Kurumi，不是HuTao。,"It's Kurumi, not HuTao."
 npc_dota_hero_bounty_hunter,犬走椛,Inubashiri Momiji
 npc_dota_hero_bounty_hunter_hype,CV：VV\n台词：台本菌\nModel Name：犬走椛\nModel Author：えと\n	在妖怪之山上巡逻着的天狗。视觉，嗅觉均很优秀，可以瞬间发现侵入者。在发现侵入者后，先是用简单的攻击进行威吓，如果仍不起作用的话，便会马上回去向大天狗大人报告。她的部队在一般情况下，都在瀑布的内侧待机。,
 npc_dota_hero_bristleback,茨木华扇,Kasen Ibaraki
@@ -6225,6 +5939,7 @@ npc_dota_hero_centaur,星熊勇仪,Yuugi Hoshiguma
 npc_dota_hero_centaur_hype,Model Name：星熊勇儀ver1.10\nModel Author：モンテコア/ぷれでたぁ/min.\n	能让哭喊的孩子吓得闭嘴的鬼。虽说现在鬼的行踪再也没人知晓，但得知旧地狱中栖身着这么一个人。恐怕旧地狱中也栖息着其他的鬼。鬼是有同伴意识却亦有我行我素的精神，似乎他们连伙伴们都在哪都不知道的样子。,
 npc_dota_hero_chaos_knight,藤原妹红,Fujiwara no Mokou
 npc_dota_hero_chaos_knight_hype,Model Name：藤原妹紅\nModel Author：モンテコア/nya/ルシール/piron/kurak/鮪P（ムロ）\n	她是人类，但身体不老不灭。活了很久，身上有各种妖术，据说是和妖怪较量时得到的。身为人类却强到被妖怪袭击也能轻松应付。帮助迷路闯进的人从妖怪手中脱离。,
+npc_dota_hero_chen,斯塔·塞菲尔,Star Sapphire
 npc_dota_hero_clinkz,莉格露·奈特巴格,Wriggle Nightbug
 npc_dota_hero_clinkz_hype,CV：星醤\n台词：台本菌\nModel Name：えと式改変モデルver1.08\nModel Author：えと/クレサト\n	要说令人讨厌的妖怪，就得提莉格露·奈特巴格。为什么人们讨厌她呢？因为她伴随着大群昆虫出现，让昆虫自由地活动。想像一下蜈蚣、毛虫、飞蛾、蜘蛛、灶马等一齐飞扑过来的情景，光想就让人毛骨悚然。,
 npc_dota_hero_crystal_maiden,雾雨魔理沙,Marisa Kirisame
@@ -6246,7 +5961,6 @@ npc_dota_hero_earthshaker,比那名居天子,Tenshi Hinanawi
 npc_dota_hero_earthshaker_hype,Model Name：つみ式ひななゐ天子\nModel Author：つみだんご\n	然后有一天，幻想乡的妖怪们以自己的力量引发了异变，在幻想乡境内引发骚动并以此为乐。天子看在眼里，不禁沉思。「我，对无聊的天人生活已经忍无可忍了！就凭我的话，也是可以引发个异变的」于是天子离开了自己的家。带着天界的道具——绯想之剑……,
 npc_dota_hero_elder_titan,小野塚小町,Komachi Onozuka
 npc_dota_hero_elder_titan_hype,CV：シズミ,
-npc_dota_hero_ember_spirit,明罗,Meira
 npc_dota_hero_enchantress,魂魄妖梦,Youmu Konpaku
 npc_dota_hero_flandre,芙兰朵露·斯卡雷特,
 npc_dota_hero_furion,蓬莱山辉夜,Houraisan Kaguya
@@ -6260,7 +5974,6 @@ npc_dota_hero_invoker,帕秋莉·诺雷姬,Patchouli Knowledge
 npc_dota_hero_invoker_hype,CV：明石千曲,
 npc_dota_hero_juggernaut,魂魄妖梦,Youmu Konpaku
 npc_dota_hero_juggernaut_hype,Model Name：魂魄妖夢\nModel Author：追憶の機械人形（エレクトリカ）\n	幽灵是不定形的，纯粹的幽灵很少会化成特定人形。魂魄家不是纯粹的幽灵，而是半幽灵半人类的家系。外表和普通人类无差别。思考方式也和人类一样，据说体温要比普通人低一些。寿命也比人类长很多。可能是因为有一半是无寿命的幽灵。,
-npc_dota_hero_keeper_of_the_light,斯塔·塞菲尔,Star Sapphire
 npc_dota_hero_kunkka,村纱水蜜,Murasa Minamitsu
 npc_dota_hero_kunkka_hype,CV：VV\n台词：台本菌\nModel Name：村紗水蜜\nModel Author：みるちお\n	她是很久以前，在水难事故中丧命的幽灵。虽然已经成为了船幽灵，却依然眷恋着这里所以没有离去，接二连三地将乘船的人们带入河中陪伴她。,
 npc_dota_hero_legion_commander,秦心,Hata no Kokoro
@@ -6273,9 +5986,10 @@ npc_dota_hero_lina,博丽灵梦,Hakurei Reimu
 npc_dota_hero_lina_hype,Model Name：博麗霊夢（鈴奈庵風正式版）\nModel Author：モンテコア\n	幻想乡境内博丽神社的现有巫女，她是历代巫女中最缺乏危机感的一位，不知是因为修行不足，还是因为已经拥有足够的实力。她天生地幸运和敏锐，也退治了不少妖怪。能够摆脱重力，在空中自由地飞行。没东西能束缚她。,
 npc_dota_hero_lion,东风谷早苗,Kochiya Sanae
 npc_dota_hero_lion_hype,Model Name：Kanata式東風谷早苗\nModel Author：Kanata\n	代代单传的拥有秘术的人类。性格上，总是非常认真，而且对自己的力量保持着自信。有时也会自信过头就是了。原本，是祭祀着风之神的人类的样子，但是在使用了秘密的秘术引发呼云唤雨的奇迹之后，周围的人们对施行秘术的人类也产生了信仰。也就是说，由风神大人引发的奇迹，不知何时开始，被错认为是由人类所引发的奇迹了。正因为如此，她们这些使用着秘术的人类，以人类之身收集了信仰，受到了和神同样的待遇。这正是现人神。,
+npc_dota_hero_lone_druid,秋静叶,Shizuha Aki
+npc_dota_hero_lone_druid_npedesc1,悲凉好个秋啊,
 npc_dota_hero_luna,露娜·切露德,Luna Child
 npc_dota_hero_lycan,今泉影狼,Kagerou Imaizumi
-npc_dota_hero_marci,丰聪耳神子,
 npc_dota_hero_marisa,雾雨魔理沙,
 npc_dota_hero_mars,寅丸星,Shou Toramaru
 npc_dota_hero_mirana,铃仙·优昙华院·因幡,Reisen Udongein Inaba
@@ -6284,8 +5998,6 @@ npc_dota_hero_naga_siren,芙兰朵露·斯卡雷特,Flandre Scarlet
 npc_dota_hero_naga_siren_hype,Model Name：C_mellフラン_改\nModel Author：C_mell/ココア/ RAY\n	红魔馆有两位吸血鬼。分别是作为主人的姐姐蕾米莉亚·斯卡雷特，和妹妹芙兰朵露·斯卡雷特。芙兰朵露极少外出红魔馆，进入过红魔馆的人类基本上能确认这点。她有一对散发着七色不可思议之光的翼，浅黄色头发，身高和姐姐蕾米莉亚差不多。背上的一对翼有着其它生物、妖怪、幽灵无法想像的奇怪扭曲形状。,
 npc_dota_hero_necrolyte,西行寺幽幽子,Saigyouji Yuyuko
 npc_dota_hero_necrolyte_hype,CV：落雪\n台词：夕莉莉\nModel Name：西行寺幽々子_N式\nModel Author：nakao\n	她是住在冥界白玉楼的西行寺家的大小姐。保持亡灵状态已有千年以上，只有极少有的长寿的亡灵。,
-npc_dota_hero_nevermore,秋静叶,Shizuha Aki
-npc_dota_hero_nevermore_npedesc1,悲凉好个秋啊,
 npc_dota_hero_night_stalker,米斯蒂娅·萝蕾拉,Mystia Lorelei
 npc_dota_hero_nyx_assassin,大妖精,Daiyousei
 npc_dota_hero_obsidian_destroyer,八云紫,Yakumo Yukari
@@ -6293,7 +6005,6 @@ npc_dota_hero_obsidian_destroyer_hype,Model Name：八雲紫\nModel Author：ゎ
 npc_dota_hero_ogre_magi,洩矢诹访子,Suwako Moriya
 npc_dota_hero_omniknight,琪斯美,Kisume
 npc_dota_hero_oracle,绵月丰姬,Watatsuki no Toyohime
-npc_dota_hero_pangolier,,Flandre Scarlet
 npc_dota_hero_phantom_assassin,封兽鵺,Nue Houjuu
 npc_dota_hero_phantom_assassin_hype,Model Name：封獣ぬえ\nModel Author：C mell/nakao/モンテコア/メカクラゲ\n	在平安物语中是一种让天皇都惴惴不安的妖怪。据记述称，抓住后发现她是长着猴子的头、狸猫的身体、老虎的手脚以及蛇的尾巴的奇美拉虽然这个形象随后就成为了鵺的形象，但其实并没有记载说这样的怪物就是鵺。事实上，妖怪鵺和那个怪物完全是两码事。鵺是彻彻底底的正体不明的妖怪。但是传说中她的鸣叫声却广为人知。也有一种说法是，有她鸣叫的夜晚会成为不祥之夜。在她展现于世间的身姿上，生长着无法言喻的不知是翅膀还是尾巴的迷之触手。各自自由地晃动着，使人看的头晕目眩。,
 npc_dota_hero_phantom_lancer,铃仙,Reisen
@@ -6308,14 +6019,12 @@ npc_dota_hero_riki,多多良小伞,Kogasa Tatara
 npc_dota_hero_rubick,古明地觉,Komeiji Satori
 npc_dota_hero_silencer,八意永琳,Yagokoro Eirin
 npc_dota_hero_silencer_hype,"CV：绯月\n台词：喵子\nModel Name：八意永琳\nModel Author：モンテコア/葡萄P（quinsiene）/逆輸入P/ぷれでたぁ/min/deathell\n	本为月之民,也就是宇宙人。已在地上隐居了相当长的岁月。早在辉夜还是月之公主的时候,两人就已经认识了。不知从何时开始定居于月球的八意家,乃是天才药师家族。而永琳的知识则更是拔群。她的头脑远远凌驾于人类之上,亦因此会经常说一些令人难以理解的说话。",
-npc_dota_hero_skeleton_king,露米娅,Rumia
 npc_dota_hero_skywrath_mage,宇佐见堇子,Sumireko Usami
 npc_dota_hero_slark,射命丸文,Shameimaru Aya
 npc_dota_hero_slark_hype,Model Name：min.式 改造_射命丸文 1.43\nModel Author：モンテコア、ぷれでたぁ、Basilico、min.、moto、いそビー\n	幻想乡的鬼、千年以前就在这里居住的天狗。原形是乌鸦。拥有操纵风程度的能力。射命丸文是天狗之中速度很快的鸦天狗。手持相机，在幻想乡各处奔走，记录下各种有趣的事件。虽说是天狗，外表和人类并无太大差别。,
 npc_dota_hero_sniper,灵乌路空,Utsuho Reiuji
 npc_dota_hero_sniper_hype,Model Name：靈烏路空\nModel Author：ばく/kasuya/sinsinji/kaihey-51/他\n	栖息于旧地狱最深处的地狱鸦。住在旧地狱的妖怪基本上都是因为原住地成了废墟，继而迁居于此，但地狱鸦本来就住在地狱，是这里最早的住民。她总是一副异样的姿态。可疑的存在着的「分解之足」，看起来很重的「融合之足」，手上还安着一门大炮一样的东西，这好像是「第三足」，胸部有着深红的「赤之目」，这全都是寄宿在他身体里的神灵，八咫乌的影响。,
 npc_dota_hero_spectre,河城荷取,Nitori Kawashiro
-npc_dota_hero_star,斯塔·塞菲尔,
 npc_dota_hero_storm_spirit,四季映姬·亚玛萨那度,Shikieiki Yamaxanadu
 npc_dota_hero_storm_spirit_hype,CV：北斗夜\n台词：小明、喵子、夕莉莉\nModel Name：四季映姫·ヤマザナドゥ\nModel Author：雨刻憩/murakawa\n	大量阎魔的其中一人。常担当幻想乡死者的裁决，是和我们关系最密切的阎魔。长寿的人类中也有背负着过于沉重的罪孽的个例，若确实有可能会在死后坠入地狱，只要身处休假之中，这位阎王大人就会直截了当地对其加以警告，敦促其洗心革面。,
 npc_dota_hero_sven,绵月依姬,Watatsuki no Yorihime
@@ -6342,7 +6051,6 @@ npc_dota_hero_warlock,蕾米利亚·斯卡雷特,Remilia Scarlet
 npc_dota_hero_warlock_hype,Model Name：C_mellレミリア_改\nModel Author：C_mell/ココア/RAY\n	说起在幻想乡已经确认的吸血鬼，那就是住在红魔馆的斯卡雷特一家。那里的主人就是绯红恶魔——蕾米莉亚·斯卡雷特。虽然外表看来很年幼，但实际上她已活了超过五百年，拥有吸血鬼一族令人惊异的身体能力。她身高较低，外表看来不满十岁，背后有对比身高还要大的羽翼，光看影子的话显得十分巨大。还有就是态度傲慢。,
 npc_dota_hero_weaver,莉莉卡·普莉兹姆利巴,Lyrica Prismriver
 npc_dota_hero_winter_wyvern,蕾蒂·怀特洛克,Letty Whiterock
-npc_dota_hero_wisp,爱塔妮缇·拉尔瓦,Eternity Larva
 npc_dota_hero_witch_doctor,键山雏,Hina kagiyama
 npc_dota_hero_youmu,魂魄妖梦,
 npc_dota_hero_yuyuko,西行寺幽幽子,
@@ -6352,7 +6060,6 @@ npc_dota_roshan,巨大上海,Giant Shanghai
 npc_rin04_unit,尸体妖精,
 npc_thd_badguys_super_siege,超级兵,Mega Creep
 npc_thd_goodguys_super_siege,超级兵,Mega Creep
-npc_thdots_unit_kurumi02_coffin,棺材,Coffin
 npc_thdots_unit_minoriko02_box,番薯车,Sweet Potato Cart
 npc_thdots_unit_patchouli_fire_fire,火元素章鱼,Fire Element Spirit
 thd_hud_error_cant_be_used_on_others,无法对他人使用,Cannot Be Used On Others
