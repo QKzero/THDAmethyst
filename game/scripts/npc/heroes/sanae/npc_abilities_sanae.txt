@@ -233,7 +233,6 @@
 		"precache"
 		{
 			"soundfile"			"soundevents/thdots_hero_sounds/thdots_sanae_sounds.vsndevts"
-			//"particle_folder"	"particles/thd2/heroes/reimu"
 			"particle"			"particles/heroes/sanae/ability_sanea_04_effect_b.vpcf"
 			"particle"			"particles/heroes/sanae/ability_sanea_04_effect_g.vpcf"
 			"soundfile"			"soundevents/game_sounds_heroes/game_sounds_dazzle.vsndevts"

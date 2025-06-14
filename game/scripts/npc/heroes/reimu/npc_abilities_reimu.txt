@@ -121,6 +121,7 @@
 		{
 			"soundfile"			"soundevents/game_sounds_heroes/game_sounds_wisp.vsndevts"
 			"particle"			"particles/items2_fx/skadi_projectile_copy.vpcf"
+			"model"				"models/thd2/fantasy_seal.vmdl"
 		}
 		"AbilityValues"
 		{
@@ -205,6 +206,7 @@
 			"particle"			"particles/thd2/heroes/reimu/reimu_04_effect.vpcf"
 			"particle"			"particles/thd2/heroes/reimu/reimu_04_effect_buff.vpcf"
 			"soundfile"			"soundevents/game_sounds_heroes/game_sounds_dazzle.vsndevts"
+			"model"				"models/thd2/fantasy_seal.vmdl"
 		}
 		"AbilityValues"
 		{

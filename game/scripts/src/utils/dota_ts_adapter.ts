@@ -1,5 +1,11 @@
-export interface BaseAbility extends CDOTA_Ability_Lua {}
-export class BaseAbility {}
+export interface BaseAbility extends CDOTA_Ability_Lua {
+    GetMinLevel(): number;
+}
+export class BaseAbility implements BaseAbility {
+    GetMinLevel(): number {
+        return 0;
+    }
+}
 
 export interface BaseItem extends CDOTA_Item_Lua {}
 export class BaseItem {}

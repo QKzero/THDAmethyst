@@ -6,6 +6,7 @@
 		"AbilityTextureName"	"custom/ability_thdots_kaguyaEx"
 		"AbilityBehavior"	"DOTA_ABILITY_BEHAVIOR_PASSIVE | DOTA_ABILITY_BEHAVIOR_NOT_LEARNABLE"
 		"MaxLevel"	"4"
+		"MinLevel"	"1"
 		"precache"
 		{
 			"particle"		"particles/thd2/heroes/kaguya/ability_kaguya01_light.vpcf"

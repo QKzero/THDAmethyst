@@ -6,6 +6,7 @@
 		"AbilityTextureName"	"custom/ability_thdots_koakumaex"
 		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"	
 		"MaxLevel"	"1"
+		"MinLevel"	"1"
 		"IsBreakable"			"1"
 		"Modifiers"
 		{

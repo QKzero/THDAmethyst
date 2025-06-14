@@ -7,7 +7,8 @@
 		"AbilityUnitTargetType"		"DOTA_UNIT_TARGET_HERO"
 		"AbilityUnitTargetTeam"		"DOTA_UNIT_TARGET_TEAM_ENEMY"
 		"AbilityTextureName"		"custom/ability_thdots_youmuEx"
-		"MaxLevel"					"1"		
+		"MaxLevel"					"1"
+		"MinLevel"					"1"
 		// Stats
 		//----------------------------------------------------------------
 		"AbilityManaCost"           "35"

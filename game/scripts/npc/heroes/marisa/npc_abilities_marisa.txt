@@ -9,6 +9,7 @@
 		// Stats
 		// ----------------------------------------------------------------
 		"MaxLevel"	"1"	
+		"MinLevel"	"1"
 		"AbilityCooldown"	"10"
 		"IsBreakable"					"1"
 		"precache"
@@ -132,6 +133,7 @@
 			"particle"	"particles/heroes/marisa/marisa_03_stars_b.vpcf"
 			"particle"	"particles/heroes/marisa/marisa_03_stars_c.vpcf"
 			"particle"	"particles/heroes/marisa/marisa_03_stars_d.vpcf"
+			"model"		"models/thd2/fantasy_seal.vmdl"
 		}
 		"OnSpellStart"
 		{
@@ -199,6 +201,7 @@
 			"particle"	"particles/heroes/marisa/marisa_04_spark_circle.vpcf"
 			"soundfile"	"soundevents/thdots_hero_sounds/thdots_marisa_sounds.vsndevts"
 			"soundfile"	"soundevents/game_sounds_heroes/game_sounds_puck.vsndevts"
+			"model"		"models/thd2/masterspark.vmdl"
 		}
 		"AbilityValues"
 		{

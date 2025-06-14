@@ -425,7 +425,7 @@
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityManaCost"				"50"
-	
+
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityValues"
@@ -456,6 +456,10 @@
 		"FightRecapLevel"				"2"
 		"AbilityCastAnimation"			"ACT_DOTA_CAST_ABILITY_2"
 		"HasScepterUpgrade"	"0"
+		"precache"
+		{
+			"particle"		"particles/units/heroes/hero_zuus/zuus_thundergods_wrath.vpcf"
+		}
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityCastPoint"				"1.0 1.0 1.0 1.0"

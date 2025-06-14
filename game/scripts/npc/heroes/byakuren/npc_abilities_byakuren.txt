@@ -200,6 +200,7 @@
 		"AbilityUnitTargetTeam"	"DOTA_UNIT_TARGET_TEAM_ENEMY"
 		"AbilityUnitTargetType"	"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
 		"MaxLevel"	"4"
+		"MinLevel"	"1"
 		"IsBreakable"					"1"
 		// Stats
 		// ----------------------------------------------------------------
@@ -252,9 +253,17 @@
 		{
 			"particle"				"particles/units/heroes/hero_doom_bringer/doom_bringer_doom.vpcf"
 		}
+		"OnUpgrade"
+		{
+			"RunScript"
+			{
+				"Target"	"CASTER"
+				"ScriptFile"	"scripts/vscripts/abilities/abilitybyakuren.lua"
+				"Function"	"OnByakuren05Upgrade"
+			}
+		}
 		"OnSpellStart"
 		{
-			
 			"RunScript"
 			{	
 				"Target"				"TARGET"
@@ -262,7 +271,6 @@
 				"Function"				"OnByakuren05SpellStart"
 				"Duration"				"%debuff_duration"
 			}
-			
 		}
 		"Modifiers"
 		{

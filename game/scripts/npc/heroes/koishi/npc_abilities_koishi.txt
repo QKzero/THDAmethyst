@@ -269,6 +269,8 @@
 			"soundfile"	"soundevents/game_sounds_heroes/game_sounds_vengefulspirit.vsndevts"
 			"particle"	"particles/econ/events/fall_major_2015/teleport_end_fallmjr_2015_lvl2_black.vpcf"
 			"soundfile"	"soundevents/game_sounds_heroes/game_sounds_vengefulspirit.vsndevts"
+			"model"		"models/thd2/koishi/koishi_w_mmd.vmdl"
+			"model"		"models/thd2/koishi/koishi_transform_mmd.vmdl"
 		}
 		"OnAbilityPhaseStart"
 		{

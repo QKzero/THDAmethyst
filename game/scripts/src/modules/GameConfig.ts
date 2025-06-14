@@ -7,7 +7,7 @@ export class GameConfig {
         GameRules.SetCustomGameSetupTimeout(3); // 游戏设置阶段超时
         GameRules.SetHeroSelectionTime(60); // 选择英雄阶段的持续时间
         GameRules.SetShowcaseTime(30); // 选完英雄的展示时间
-        GameRules.SetPreGameTime(0); // 进入游戏后号角吹响前的准备时间
+        GameRules.SetPreGameTime(30); // 进入游戏后号角吹响前的准备时间
         GameRules.SetPostGameTime(30); // 游戏结束后时长
         GameRules.SetSameHeroSelectionEnabled(false); // 是否允许选择相同英雄
         GameRules.SetStartingGold(850); // 设置初始金钱

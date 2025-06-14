@@ -9,6 +9,7 @@
 		"AbilityTextureName"	"custom/lily/ability_thdots_lily05"
 		//"ID"					"40109"
 		"MaxLevel"				"1"
+		"MinLevel"				"1"
 		"precache"
 		{
 			"model"		"models/new_thd/lily/lilywhite.vmdl"

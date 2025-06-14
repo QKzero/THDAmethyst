@@ -226,10 +226,12 @@ modifier_thdots_byakuren04_passive = class({})
 LinkLuaModifier("modifier_thdots_byakuren04_passive", "scripts/vscripts/abilities/abilitybyakuren.lua", LUA_MODIFIER_MOTION_NONE)
 
 function ability_thdots_byakuren04:GetIntrinsicModifierName() return "modifier_thdots_byakuren04_passive" end
-function ability_thdots_byakuren04:InnateAbilityType() return 2 end
 
 function modifier_thdots_byakuren04_passive:OnCreated()
-	if not IsServer() then return end 
+	if not IsServer() then return end
+	
+	self.circleEffect = ParticleManager:CreateParticle("particles/heroes/byakuren/ability_byakuren_04_circle.vpcf", PATTACH_CUSTOMORIGIN_FOLLOW, self:GetCaster())
+
 	self:StartIntervalThink(0.2)
 end
 
@@ -238,6 +240,12 @@ function modifier_thdots_byakuren04_passive:OnIntervalThink()
 	local health_increase = self:GetAbility():GetSpecialValueFor("health_increase")
 	self:SetStackCount(self:GetParent():GetMaxMana()*health_increase)
 	self:GetParent():CalculateStatBonus(true)
+end
+
+function modifier_thdots_byakuren04_passive:OnDestroy()
+	if not IsServer() then return end
+	
+	ParticleManager:DestroyParticle(self.circleEffect, true)
 end
 
 function modifier_thdots_byakuren04_passive:GetEffectName()
@@ -283,6 +291,15 @@ function modifier_thdots_byakuren04_passive:OnAttackLanded(keys)
 		ParticleManager:DestroyParticleSystem(effectIndex,false)
 	end
 	caster:Heal(dealdamage,caster)
+end
+
+function OnByakuren05Upgrade(keys)
+	local caster = keys.caster
+
+	local targetAbility = caster:FindAbilityByName("ability_thdots_byakuren04")
+	if targetAbility ~= nil then
+		targetAbility:SetLevel(targetAbility:GetLevel() + 1)
+	end
 end
 
 function OnByakuren05SpellStart(keys)

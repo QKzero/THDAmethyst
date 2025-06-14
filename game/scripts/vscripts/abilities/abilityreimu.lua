@@ -574,8 +574,6 @@ ability_dota2x_reimuEx = {}
 --     return "modifier_ability_dota2x_reimuEx_buff"
 -- end
 
--- 自定义接口：当技能命中目标时层数增加
--- function ability_dota2x_reimuEx:InnateAbilityType() return 2 end
 function ability_dota2x_reimuEx:OnSpellAppliedTarget()
     if not IsServer() then return end
 
