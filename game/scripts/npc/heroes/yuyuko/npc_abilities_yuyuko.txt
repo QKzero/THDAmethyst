@@ -2,7 +2,8 @@
 {
 	"ability_thdots_yuyukoEx"
 	{
-		"BaseClass"	"ability_datadriven"
+		"BaseClass"	"ability_lua"
+		"ScriptFile"	"scripts/vscripts/abilitiesTs/abilityyuyuko.lua"
 		"AbilityTextureName"	"custom/ability_thdots_yuyukoEx"
 		"AbilityBehavior"	"DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"AbilityUnitTargetFlags"	"DOTA_UNIT_TARGET_FLAG_INVULNERABLE | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
@@ -15,33 +16,9 @@
 			"particle"	"particles/thd2/heroes/yuyuko/ability_yuyuko_04_effect.vpcf"
 			"particle"	"particles/thd2/heroes/yuyuko/ability_yuyuko_04_effect_a.vpcf"
 		}
-		"Modifiers"
-		{
-			"modifier_thdots_yuyukoEx"
-			{
-				"Duration"	"10.0"
-
-				// "AttachEffect"
-				// {
-				// 	"EffectName" "particles/units/heroes/hero_pugna/pugna_decrepify.vpcf"
-				// 	"EffectAttachType"	"follow_origin"
-				// 	"Target"			"CASTER"
-				// }
-				"States"
-				{
-					"MODIFIER_STATE_ATTACK_IMMUNE"	"MODIFIER_STATE_VALUE_ENABLED"
-					"MODIFIER_STATE_DISARMED"	"MODIFIER_STATE_VALUE_ENABLED"
-				}
-				"Properties"
-				{
-					"MODIFIER_PROPERTY_ABSOLUTE_NO_DAMAGE_PHYSICAL"	"1"
-					"MODIFIER_PROPERTY_ABSOLUTE_NO_DAMAGE_MAGICAL"	"1"
-					"MODIFIER_PROPERTY_ABSOLUTE_NO_DAMAGE_PURE"		"1"
-				}
-			}
-		}
 		"AbilityValues"
 		{
+			"duration"	"10"
 		}
 	}
 
