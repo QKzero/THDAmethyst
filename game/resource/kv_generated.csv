@@ -2718,7 +2718,11 @@ DOTA_Tooltip_ability_ability_thdots_yuyuko04_effect_radius,技能范围：,"WAVE
 DOTA_Tooltip_ability_ability_thdots_yuyuko04_scepter_description,"每次伤害结算会对目标造成0.1s眩晕，爆炸后造成0.3s的群体眩晕。 ","Each wave stuns the target for 0.1s, deals 0.3s area stunning on killing units."
 DOTA_Tooltip_ability_ability_thdots_yuyukoEx,「死蝶浮月」,"「Death Butterfly, Floating Moon」"
 DOTA_Tooltip_ability_ability_thdots_yuyukoEx_Description,实体与灵体之间皆於幽幽子予无形。在幽幽子死亡後，幽幽子会变成灵魂形态，无法被任何人所伤害，同时无法攻击，不能被攻击，且强制留在原地，但可继续施法。持续时间结束后才会真正死亡。,"After your perishment, a ghost of yours is summoned to stay nearby. It is immune to any damage and can use any of your spells, but cannot attack and be attacked."
-DOTA_Tooltip_ability_ability_thdots_yuyukoEx_life_duration,持续时间：,"FALSE LIFE DURATION: "
+DOTA_Tooltip_ability_ability_thdots_yuyukoEx_duration,持续时间：,"FALSE LIFE DURATION: "
+DOTA_Tooltip_ability_ability_thdots_yuyukoEx_max_distance,活动范围：,"MAX MOVE DISTANCE: "
+DOTA_Tooltip_modifier_thdots_yuyukoex_passive,「死蝶浮月」,"「Death Butterfly, Floating Moon」"
+DOTA_Tooltip_modifier_thdots_yuyukoex_deathrattle,「死蝶浮月」,"「Death Butterfly, Floating Moon」"
+DOTA_Tooltip_modifier_thdots_yuyukoex_deathrattle_description,亡灵状态,"Gost state"
 DOTA_Tooltip_ability_ability_thdots_yuyukoEx_note0,无法被破坏。,Cannot be broken.
 DOTA_Tooltip_ability_ability_thdotsr_Nazrin01,突进「无畏的寻宝大将」,Rush Sign「The Dauntless Dowser General」
 DOTA_Tooltip_ability_ability_thdotsr_Nazrin01_Description,"向前方位置突进并短暂增加%bonus_damage%攻击，持续%increaseattack_duration%秒\n突进距离: %push_length% \n 突进速度: %push_speed% ",Rushes forwards in the direction she is currently facing and increases her attack damage by %bonus_damage% for %increaseattack_duration% seconds.

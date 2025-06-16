@@ -15,6 +15,7 @@ export class ability_thdots_yuyukoEx extends BaseAbility {
 export class modifier_thdots_yuyukoex_passive extends BaseModifier {
     private caster: CDOTA_BaseNPC = null;
     private ability: CDOTABaseAbility = null;
+    private duration: number = null;
 
     override IsDebuff(): boolean {
         return false;
@@ -35,58 +36,16 @@ export class modifier_thdots_yuyukoex_passive extends BaseModifier {
 
         this.caster = this.GetCaster();
         this.ability = this.GetAbility();
-
-        this.caster.AddNewModifier(this.caster, this.ability, 'modifier_thdots_yuyukoex_listener', {});
-        this.caster.AddNewModifier(this.caster, this.ability, 'modifier_thdots_yuyukoex_deathrattle', {});
-    }
-
-    override DeclareFunctions(): ModifierFunction[] {
-        return [ModifierFunction.ON_RESPAWN];
-    }
-
-    override OnRespawn(event: ModifierUnitEvent): void {
-        if (!IsServer()) {
-            return;
-        }
-
-        if (event.unit != this.caster) {
-            return;
-        }
-
-        this.caster.AddNewModifier(this.caster, this.ability, 'modifier_thdots_yuyukoex_listener', {});
-        this.caster.AddNewModifier(this.caster, this.ability, 'modifier_thdots_yuyukoex_deathrattle', {});
-    }
-}
-
-@registerModifier()
-export class modifier_thdots_yuyukoex_listener extends BaseModifier {
-    private caster: CDOTA_BaseNPC = null;
-    private ability: CDOTABaseAbility = null;
-    private parent: CDOTA_BaseNPC = null;
-    private duration: number = 0;
-
-    override IsDebuff(): boolean {
-        return false;
-    }
-
-    override IsHidden(): boolean {
-        return false;
-    }
-
-    override IsPurgable(): boolean {
-        return false;
-    }
-
-    override OnCreated(params: object): void {
-        this.caster = this.GetCaster();
-        this.ability = this.GetAbility();
-        this.parent = this.GetParent();
 
         this.duration = this.ability.GetSpecialValueFor('duration');
     }
 
     override DeclareFunctions(): ModifierFunction[] {
-        return [ModifierFunction.ON_TAKEDAMAGE, ModifierFunction.ON_DEATH];
+        return [ModifierFunction.MIN_HEALTH, ModifierFunction.ON_TAKEDAMAGE];
+    }
+
+    override GetMinHealth(): number {
+        return this.GetCaster().IsRealHero() && !this.GetCaster().HasModifier('modifier_thdots_yuyukoex_deathrattle') ? 1 : 0;
     }
 
     /**
@@ -103,21 +62,50 @@ export class modifier_thdots_yuyukoex_listener extends BaseModifier {
             return;
         }
 
-        if (this.caster.GetHealth() == 0) {
+        if (event.damage >= this.caster.GetHealth()) {
             this.Destroy();
 
             this.caster.SetHealth(this.caster.GetMaxHealth());
+            this.caster.AddNewModifier(this.caster, this.ability, 'modifier_thdots_yuyukoex_deathrattle', {
+                duration: this.duration,
+            });
         }
     }
+}
 
-    override OnDestroy(): void {
+@registerModifier()
+export class modifier_thdots_yuyukoex_deathrattle extends BaseModifier {
+    private caster: CDOTA_BaseNPC = null;
+    private ability: CDOTABaseAbility = null;
+    private maxDistance: number;
+    // 最后一次攻击者
+    private lastAttacker: CDOTA_BaseNPC;
+    // 起始位置
+    private startPosition: Vector;
+
+    override IsDebuff(): boolean {
+        return false;
+    }
+
+    override IsHidden(): boolean {
+        return false;
+    }
+
+    override IsPurgable(): boolean {
+        return false;
+    }
+
+    override OnCreated(params: object): void {
         if (!IsServer()) {
             return;
         }
 
-        if (this.caster.HasModifier('modifier_thdots_yuyukoex_deathrattle')) {
-            this.caster.FindModifierByName('modifier_thdots_yuyukoex_deathrattle').SetDuration(this.duration, true);
-        }
+        this.caster = this.GetCaster();
+        this.ability = this.GetAbility();
+
+        this.maxDistance = this.ability.GetSpecialValueFor('max_distance');
+
+        this.startPosition = this.caster.GetOrigin();
 
         let effectIndex = ParticleManager.CreateParticle(
             'particles/thd2/heroes/yuyuko/ability_yuyuko_04_effect.vpcf',
@@ -135,43 +123,18 @@ export class modifier_thdots_yuyukoex_listener extends BaseModifier {
         ParticleManager.SetParticleControl(effectIndex, 0, this.caster.GetOrigin());
         ParticleManager.SetParticleControl(effectIndex, 5, this.caster.GetOrigin());
         ParticleManager.DestroyParticle(effectIndex, false);
-    }
-}
 
-@registerModifier()
-export class modifier_thdots_yuyukoex_deathrattle extends BaseModifier {
-    private caster: CDOTA_BaseNPC = null;
-    private ability: CDOTABaseAbility = null;
-    // 最后一次攻击者
-    private lastAttacker: CDOTA_BaseNPC;
-
-    /**
-     * 当监听器不存在，即被销毁后生效
-     * @returns 是否有效
-     */
-    IsValid(): boolean {
-        return this.GetCaster().HasModifier('modifier_thdots_yuyukoex_listener');
+        this.StartIntervalThink(1);
     }
 
-    override IsDebuff(): boolean {
-        return false;
-    }
-
-    override IsHidden(): boolean {
-        return false;
-    }
-
-    override IsPurgable(): boolean {
-        return false;
-    }
-
-    override OnCreated(params: object): void {
+    override OnIntervalThink(): void {
         if (!IsServer()) {
             return;
         }
 
-        this.caster = this.GetCaster();
-        this.ability = this.GetAbility();
+        if (GetDistanceBetweenTwoVec2D.call(this.caster.GetOrigin(), this.startPosition) > this.maxDistance) {
+            this.caster.SetOrigin(this.startPosition);
+        }
     }
 
     override OnDestroy(): void {
@@ -213,15 +176,15 @@ export class modifier_thdots_yuyukoex_deathrattle extends BaseModifier {
     }
 
     override GetAbsoluteNoDamagePhysical(event: ModifierAttackEvent): 0 | 1 {
-        return this.IsValid() ? 1 : 0;
+        return 1;
     }
 
     override GetAbsoluteNoDamageMagical(event: ModifierAttackEvent): 0 | 1 {
-        return this.IsValid() ? 1 : 0;
+        return 1;
     }
 
     override GetAbsoluteNoDamagePure(event: ModifierAttackEvent): 0 | 1 {
-        return this.IsValid() ? 1 : 0;
+        return 1;
     }
 
     override OnTakeDamage(event: ModifierInstanceEvent): void {
@@ -229,7 +192,7 @@ export class modifier_thdots_yuyukoex_deathrattle extends BaseModifier {
             return;
         }
 
-        if (event.unit != this.caster || !this.IsValid() || !this.caster.IsRealHero()) {
+        if (event.unit != this.caster || !this.caster.IsRealHero()) {
             return;
         }
 
