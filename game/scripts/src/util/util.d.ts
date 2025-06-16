@@ -1,3 +1,13 @@
+/**
+ * 使用该文件的函数时，需要使用call函数，否则会导致lua文件中多nil参数
+ * 如：GetDistanceBetweenTwoVec2D.call(a, b)
+ */
+
+/**
+ * @param a 原点向量
+ * @param b 目标向量
+ * @returns 两个向量的距离
+ */
 declare function GetDistanceBetweenTwoVec2D(a: Vector, b: Vector): number;
 declare function GetRadBetweenTwoVec2D(a: Vector, b: Vector): number;
 /**
